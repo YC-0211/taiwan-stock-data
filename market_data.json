@@ -1,0 +1,183 @@
+{
+  "model_version": "V1.1",
+  "generated_at": "2026-10-01T01:01:01+08:00",
+  "target_date": "20260930",
+  "stocks": {
+    "3481": {
+      "name": "群創",
+      "market": "TWSE",
+      "date": "20260930",
+      "foreign": {
+        "buy": 156794286,
+        "sell": 57695183,
+        "net": 99099103
+      },
+      "trust": {
+        "buy": 0,
+        "sell": 0,
+        "net": 0
+      },
+      "dealer": {
+        "net": 7181060
+      },
+      "institutional_net": 106280163,
+      "institutional_direction": "inflow",
+      "volume": {
+        "previous_date_roc": "115/09/29",
+        "latest_date_roc": "115/09/30",
+        "previous_date": "20260929",
+        "latest_date": "20260930",
+        "previous_volume": 104276061,
+        "latest_volume": 486059149,
+        "unit": "shares",
+        "change_pct": 366.12726290073425,
+        "direction": "increase",
+        "source": "TWSE"
+      },
+      "normalized_date": "20260930",
+      "quadrant": "量增＋法人資金流入"
+    },
+    "2330": {
+      "name": "台積電",
+      "market": "TWSE",
+      "date": "20260930",
+      "foreign": {
+        "buy": 25569109,
+        "sell": 24866515,
+        "net": 702594
+      },
+      "trust": {
+        "buy": 805000,
+        "sell": 43278,
+        "net": 761722
+      },
+      "dealer": {
+        "net": 399899
+      },
+      "institutional_net": 1864215,
+      "institutional_direction": "inflow",
+      "volume": {
+        "previous_date_roc": "115/09/29",
+        "latest_date_roc": "115/09/30",
+        "previous_date": "20260929",
+        "latest_date": "20260930",
+        "previous_volume": 26893348,
+        "latest_volume": 34282491,
+        "unit": "shares",
+        "change_pct": 27.475727454982547,
+        "direction": "increase",
+        "source": "TWSE"
+      },
+      "normalized_date": "20260930",
+      "quadrant": "量增＋法人資金流入"
+    },
+    "6451": {
+      "name": "訊芯-KY",
+      "market": "TWSE",
+      "date": "20260930",
+      "foreign": {
+        "buy": 391365,
+        "sell": 334553,
+        "net": 56812
+      },
+      "trust": {
+        "buy": 0,
+        "sell": 0,
+        "net": 0
+      },
+      "dealer": {
+        "net": 11902
+      },
+      "institutional_net": 68714,
+      "institutional_direction": "inflow",
+      "volume": {
+        "previous_date_roc": "115/09/29",
+        "latest_date_roc": "115/09/30",
+        "previous_date": "20260929",
+        "latest_date": "20260930",
+        "previous_volume": 822428,
+        "latest_volume": 1219243,
+        "unit": "shares",
+        "change_pct": 48.24920844134684,
+        "direction": "increase",
+        "source": "TWSE"
+      },
+      "normalized_date": "20260930",
+      "quadrant": "量增＋法人資金流入"
+    },
+    "6209": {
+      "name": "今國光",
+      "market": "TWSE",
+      "date": "20260930",
+      "foreign": {
+        "buy": 934595,
+        "sell": 1949075,
+        "net": -1014480
+      },
+      "trust": {
+        "buy": 15,
+        "sell": 0,
+        "net": 15
+      },
+      "dealer": {
+        "net": -135788
+      },
+      "institutional_net": -1150253,
+      "institutional_direction": "outflow",
+      "volume": {
+        "previous_date_roc": "115/09/29",
+        "latest_date_roc": "115/09/30",
+        "previous_date": "20260929",
+        "latest_date": "20260930",
+        "previous_volume": 10707256,
+        "latest_volume": 7141009,
+        "unit": "shares",
+        "change_pct": -33.30682482981634,
+        "direction": "decrease",
+        "source": "TWSE"
+      },
+      "normalized_date": "20260930",
+      "quadrant": "量縮＋法人資金流出"
+    },
+    "3162": {
+      "name": "精確",
+      "market": "TPEx",
+      "date": "2026/09/30",
+      "foreign": {
+        "buy": 2564364,
+        "sell": 1524000,
+        "net": 1040364
+      },
+      "trust": {
+        "buy": 15000,
+        "sell": 0,
+        "net": 15000
+      },
+      "dealer": {
+        "buy": 43757,
+        "sell": 34167,
+        "net": 9590
+      },
+      "institutional_net": 1064954,
+      "institutional_direction": "inflow",
+      "volume": {
+        "previous_date_roc": "115/09/29",
+        "latest_date_roc": "115/09/30",
+        "previous_date": "20260929",
+        "latest_date": "20260930",
+        "previous_volume": 4088,
+        "latest_volume": 7119,
+        "unit": "lots",
+        "change_pct": 74.14383561643835,
+        "direction": "increase",
+        "source": "TPEx",
+        "notes": [
+          "以上資料不含上櫃股票鉅額交易",
+          "ETF證券代號第六碼為K、C者，表示該ETF以外幣交易，其一交易單位(張)應為100受益權或其整倍數，請詳其公開說明書。"
+        ]
+      },
+      "normalized_date": "20260930",
+      "quadrant": "量增＋法人資金流入"
+    }
+  }
+}

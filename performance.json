@@ -6,10 +6,10 @@
     5,
     10
   ],
-  "snapshot_count": 1,
+  "snapshot_count": 2,
   "first_target_date": "20260930",
-  "latest_target_date": "20260930",
-  "record_count": 61,
+  "latest_target_date": "20261001",
+  "record_count": 122,
   "records": [
     {
       "d0_date": "20260930",
@@ -21,7 +21,11 @@
       "institutional_net": -3991088,
       "volume_change_pct": -5.404447344450968,
       "d0_close": 279.5,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261001",
+        "close": 284.5,
+        "return_pct": 1.7889
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -36,7 +40,11 @@
       "institutional_net": 2450372,
       "volume_change_pct": -8.23210381094186,
       "d0_close": 154.5,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261001",
+        "close": 161.5,
+        "return_pct": 4.5307
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -51,7 +59,11 @@
       "institutional_net": 965374,
       "volume_change_pct": -22.977883584947012,
       "d0_close": 1890.0,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261001",
+        "close": 1905.0,
+        "return_pct": 0.7937
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -66,7 +78,11 @@
       "institutional_net": 4618642,
       "volume_change_pct": -12.255108623814282,
       "d0_close": 251.5,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261001",
+        "close": 254.0,
+        "return_pct": 0.994
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -81,7 +97,11 @@
       "institutional_net": 2689486,
       "volume_change_pct": 56.39474800741506,
       "d0_close": 37.1,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261001",
+        "close": 36.65,
+        "return_pct": -1.2129
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -96,7 +116,11 @@
       "institutional_net": 1864215,
       "volume_change_pct": 27.475727454982547,
       "d0_close": 2480.0,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261001",
+        "close": 2510.0,
+        "return_pct": 1.2097
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -111,7 +135,11 @@
       "institutional_net": 39024227,
       "volume_change_pct": 85.68763103709696,
       "d0_close": 179.5,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261001",
+        "close": 180.0,
+        "return_pct": 0.2786
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -126,7 +154,11 @@
       "institutional_net": -1020886,
       "volume_change_pct": 71.32290888294102,
       "d0_close": 1775.0,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261001",
+        "close": 1900.0,
+        "return_pct": 7.0423
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -141,7 +173,11 @@
       "institutional_net": -2033953,
       "volume_change_pct": 22.378938974756313,
       "d0_close": 59.5,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261001",
+        "close": 59.7,
+        "return_pct": 0.3361
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -156,7 +192,11 @@
       "institutional_net": -2720828,
       "volume_change_pct": 119.55322195162749,
       "d0_close": 1120.0,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261001",
+        "close": 1095.0,
+        "return_pct": -2.2321
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -171,7 +211,11 @@
       "institutional_net": 369825,
       "volume_change_pct": -32.2379757322247,
       "d0_close": 760.0,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261001",
+        "close": 762.0,
+        "return_pct": 0.2632
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -186,7 +230,11 @@
       "institutional_net": -3409371,
       "volume_change_pct": 13.379092150923832,
       "d0_close": 333.5,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261001",
+        "close": 334.0,
+        "return_pct": 0.1499
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -201,7 +249,11 @@
       "institutional_net": -2808,
       "volume_change_pct": -27.84480534059225,
       "d0_close": 4935.0,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261001",
+        "close": 4975.0,
+        "return_pct": 0.8105
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -216,7 +268,11 @@
       "institutional_net": 12522408,
       "volume_change_pct": 60.49734533875579,
       "d0_close": 519.0,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261001",
+        "close": 519.0,
+        "return_pct": 0.0
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -231,7 +287,11 @@
       "institutional_net": 30738,
       "volume_change_pct": 48.21471830981863,
       "d0_close": 160.5,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261001",
+        "close": 164.0,
+        "return_pct": 2.1807
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -246,7 +306,11 @@
       "institutional_net": -766758,
       "volume_change_pct": -39.728339332272014,
       "d0_close": 4920.0,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261001",
+        "close": 4980.0,
+        "return_pct": 1.2195
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -261,7 +325,11 @@
       "institutional_net": -205000,
       "volume_change_pct": 332.7859720696689,
       "d0_close": 86.8,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261001",
+        "close": 94.0,
+        "return_pct": 8.2949
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -276,7 +344,11 @@
       "institutional_net": 261159,
       "volume_change_pct": -6.9973788374217305,
       "d0_close": 3435.0,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261001",
+        "close": 3510.0,
+        "return_pct": 2.1834
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -291,7 +363,11 @@
       "institutional_net": 1256552,
       "volume_change_pct": 60.66347218157764,
       "d0_close": 546.0,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261001",
+        "close": 547.0,
+        "return_pct": 0.1832
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -306,7 +382,11 @@
       "institutional_net": -82693,
       "volume_change_pct": -19.329566294795896,
       "d0_close": 210.5,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261001",
+        "close": 213.0,
+        "return_pct": 1.1876
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -321,7 +401,11 @@
       "institutional_net": 714299,
       "volume_change_pct": -0.6032258469593432,
       "d0_close": 1175.0,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261001",
+        "close": 1215.0,
+        "return_pct": 3.4043
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -336,7 +420,11 @@
       "institutional_net": -74569,
       "volume_change_pct": 13.895582329317268,
       "d0_close": 2695.0,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261001",
+        "close": 2660.0,
+        "return_pct": -1.2987
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -351,7 +439,11 @@
       "institutional_net": 53026,
       "volume_change_pct": 38.129496402877706,
       "d0_close": 2525.0,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261001",
+        "close": 2380.0,
+        "return_pct": -5.7426
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -366,7 +458,11 @@
       "institutional_net": 1064954,
       "volume_change_pct": 74.14383561643835,
       "d0_close": 85.4,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261001",
+        "close": 87.5,
+        "return_pct": 2.459
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -381,7 +477,11 @@
       "institutional_net": -117338,
       "volume_change_pct": 2.8818443804034644,
       "d0_close": 643.0,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261001",
+        "close": 651.0,
+        "return_pct": 1.2442
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -396,7 +496,11 @@
       "institutional_net": -1607138,
       "volume_change_pct": -36.60654644696876,
       "d0_close": 184.5,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261001",
+        "close": 190.5,
+        "return_pct": 3.252
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -411,7 +515,11 @@
       "institutional_net": -1008501,
       "volume_change_pct": 10.801217038539557,
       "d0_close": 1530.0,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261001",
+        "close": 1525.0,
+        "return_pct": -0.3268
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -426,7 +534,11 @@
       "institutional_net": -70241,
       "volume_change_pct": -3.461296412838266,
       "d0_close": 649.0,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261001",
+        "close": 641.0,
+        "return_pct": -1.2327
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -441,7 +553,11 @@
       "institutional_net": 113023,
       "volume_change_pct": -38.214840103165805,
       "d0_close": 8040.0,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261001",
+        "close": 7900.0,
+        "return_pct": -1.7413
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -456,7 +572,11 @@
       "institutional_net": 106280163,
       "volume_change_pct": 366.12726290073425,
       "d0_close": 54.7,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261001",
+        "close": 52.3,
+        "return_pct": -4.3876
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -471,7 +591,11 @@
       "institutional_net": -85184,
       "volume_change_pct": 16.71146953405018,
       "d0_close": 3305.0,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261001",
+        "close": 3245.0,
+        "return_pct": -1.8154
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -486,7 +610,11 @@
       "institutional_net": 12692,
       "volume_change_pct": 14.097313891604625,
       "d0_close": 1770.0,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261001",
+        "close": 1855.0,
+        "return_pct": 4.8023
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -501,7 +629,11 @@
       "institutional_net": -175126,
       "volume_change_pct": 78.51744104730203,
       "d0_close": 707.0,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261001",
+        "close": 707.0,
+        "return_pct": 0.0
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -516,7 +648,11 @@
       "institutional_net": -313790,
       "volume_change_pct": 39.16128487798811,
       "d0_close": 153.0,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261001",
+        "close": 153.0,
+        "return_pct": 0.0
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -531,7 +667,11 @@
       "institutional_net": -164764,
       "volume_change_pct": -21.454392338594786,
       "d0_close": 6800.0,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261001",
+        "close": 6875.0,
+        "return_pct": 1.1029
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -546,7 +686,11 @@
       "institutional_net": 89774,
       "volume_change_pct": -4.373850864761442,
       "d0_close": 3740.0,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261001",
+        "close": 3765.0,
+        "return_pct": 0.6684
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -561,7 +705,11 @@
       "institutional_net": 478153,
       "volume_change_pct": 35.102566140156235,
       "d0_close": 2595.0,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261001",
+        "close": 2555.0,
+        "return_pct": -1.5414
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -576,7 +724,11 @@
       "institutional_net": 2673755,
       "volume_change_pct": 2.872966967449897,
       "d0_close": 703.0,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261001",
+        "close": 710.0,
+        "return_pct": 0.9957
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -591,7 +743,11 @@
       "institutional_net": -4058310,
       "volume_change_pct": 1.9378162987584213,
       "d0_close": 89.8,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261001",
+        "close": 90.2,
+        "return_pct": 0.4454
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -606,7 +762,11 @@
       "institutional_net": -34408,
       "volume_change_pct": 38.19742489270386,
       "d0_close": 571.0,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261001",
+        "close": 572.0,
+        "return_pct": 0.1751
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -621,7 +781,11 @@
       "institutional_net": -8804,
       "volume_change_pct": -32.11297071129707,
       "d0_close": 569.0,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261001",
+        "close": 557.0,
+        "return_pct": -2.109
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -636,7 +800,11 @@
       "institutional_net": -100468,
       "volume_change_pct": 25.846486537308877,
       "d0_close": 1460.0,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261001",
+        "close": 1475.0,
+        "return_pct": 1.0274
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -651,7 +819,11 @@
       "institutional_net": -40701,
       "volume_change_pct": -8.108108108108103,
       "d0_close": 18750.0,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261001",
+        "close": 19040.0,
+        "return_pct": 1.5467
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -666,7 +838,11 @@
       "institutional_net": -865383,
       "volume_change_pct": -25.582472143099633,
       "d0_close": 71.5,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261001",
+        "close": 71.3,
+        "return_pct": -0.2797
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -681,7 +857,11 @@
       "institutional_net": -786440,
       "volume_change_pct": 44.62550028587764,
       "d0_close": 1310.0,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261001",
+        "close": 1275.0,
+        "return_pct": -2.6718
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -696,7 +876,11 @@
       "institutional_net": -1150253,
       "volume_change_pct": -33.30682482981634,
       "d0_close": 81.7,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261001",
+        "close": 82.7,
+        "return_pct": 1.224
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -711,7 +895,11 @@
       "institutional_net": -588648,
       "volume_change_pct": -14.141500819152597,
       "d0_close": 623.0,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261001",
+        "close": 642.0,
+        "return_pct": 3.0498
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -726,7 +914,11 @@
       "institutional_net": -201502,
       "volume_change_pct": -7.275953859804796,
       "d0_close": 5125.0,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261001",
+        "close": 5030.0,
+        "return_pct": -1.8537
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -741,7 +933,11 @@
       "institutional_net": 630441,
       "volume_change_pct": 5.735492577597845,
       "d0_close": 1520.0,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261001",
+        "close": 1535.0,
+        "return_pct": 0.9868
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -756,7 +952,11 @@
       "institutional_net": 478426,
       "volume_change_pct": -19.004547178470865,
       "d0_close": 236.0,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261001",
+        "close": 235.5,
+        "return_pct": -0.2119
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -771,7 +971,11 @@
       "institutional_net": 30501,
       "volume_change_pct": -31.74714513542043,
       "d0_close": 74.8,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261001",
+        "close": 74.6,
+        "return_pct": -0.2674
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -786,7 +990,11 @@
       "institutional_net": -354819,
       "volume_change_pct": 56.28587411798443,
       "d0_close": 1490.0,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261001",
+        "close": 1480.0,
+        "return_pct": -0.6711
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -801,7 +1009,11 @@
       "institutional_net": 68714,
       "volume_change_pct": 48.24920844134684,
       "d0_close": 420.5,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261001",
+        "close": 413.0,
+        "return_pct": -1.7836
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -816,7 +1028,11 @@
       "institutional_net": 3752903,
       "volume_change_pct": 104.93611444796329,
       "d0_close": 1035.0,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261001",
+        "close": 1085.0,
+        "return_pct": 4.8309
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -831,7 +1047,11 @@
       "institutional_net": -104177,
       "volume_change_pct": 34.72041612483745,
       "d0_close": 3065.0,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261001",
+        "close": 3000.0,
+        "return_pct": -2.1207
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -846,7 +1066,11 @@
       "institutional_net": -236734,
       "volume_change_pct": -54.62354358446153,
       "d0_close": 927.0,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261001",
+        "close": 933.0,
+        "return_pct": 0.6472
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -861,7 +1085,11 @@
       "institutional_net": -622663,
       "volume_change_pct": 14.902198784858033,
       "d0_close": 2090.0,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261001",
+        "close": 2110.0,
+        "return_pct": 0.9569
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -876,7 +1104,11 @@
       "institutional_net": 61796562,
       "volume_change_pct": 116.31520163199332,
       "d0_close": 75.3,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261001",
+        "close": 74.5,
+        "return_pct": -1.0624
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -891,7 +1123,11 @@
       "institutional_net": 1476827,
       "volume_change_pct": 48.058249267745865,
       "d0_close": 1340.0,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261001",
+        "close": 1420.0,
+        "return_pct": 5.9701
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -906,7 +1142,11 @@
       "institutional_net": -2464902,
       "volume_change_pct": 317.039262862791,
       "d0_close": 836.0,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261001",
+        "close": 845.0,
+        "return_pct": 1.0766
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -921,6 +1161,925 @@
       "institutional_net": 346553,
       "volume_change_pct": 33.8103756708408,
       "d0_close": 2150.0,
+      "d_plus_1": {
+        "date": "20261001",
+        "close": 2110.0,
+        "return_pct": -1.8605
+      },
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261001",
+      "code": "2301",
+      "name": "光寶科",
+      "market": "TWSE",
+      "theme": "電源/伺服器",
+      "d0_quadrant": "量縮＋法人資金流入",
+      "institutional_net": 1195760,
+      "volume_change_pct": -27.294376591980473,
+      "d0_close": 284.5,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261001",
+      "code": "2303",
+      "name": "聯電",
+      "market": "TWSE",
+      "theme": "晶圓代工",
+      "d0_quadrant": "量增＋法人資金流入",
+      "institutional_net": 29723592,
+      "volume_change_pct": 11.558686967166555,
+      "d0_close": 161.5,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261001",
+      "code": "2308",
+      "name": "台達電",
+      "market": "TWSE",
+      "theme": "電源/資料中心",
+      "d0_quadrant": "量縮＋法人資金流出",
+      "institutional_net": -628641,
+      "volume_change_pct": -44.84121440323291,
+      "d0_close": 1905.0,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261001",
+      "code": "2317",
+      "name": "鴻海",
+      "market": "TWSE",
+      "theme": "AI伺服器/電子製造",
+      "d0_quadrant": "量增＋法人資金流入",
+      "institutional_net": 5653053,
+      "volume_change_pct": 11.546547461713242,
+      "d0_close": 254.0,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261001",
+      "code": "2324",
+      "name": "仁寶",
+      "market": "TWSE",
+      "theme": "ODM",
+      "d0_quadrant": "量縮＋法人資金流出",
+      "institutional_net": -14664178,
+      "volume_change_pct": -45.32679522775682,
+      "d0_close": 36.65,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261001",
+      "code": "2330",
+      "name": "台積電",
+      "market": "TWSE",
+      "theme": "晶圓代工/AI晶片",
+      "d0_quadrant": "量縮＋法人資金流入",
+      "institutional_net": 4289708,
+      "volume_change_pct": -39.718231093534015,
+      "d0_close": 2510.0,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261001",
+      "code": "2344",
+      "name": "華邦電",
+      "market": "TWSE",
+      "theme": "記憶體",
+      "d0_quadrant": "量縮＋法人資金流入",
+      "institutional_net": 17530186,
+      "volume_change_pct": -23.80665097844512,
+      "d0_close": 180.0,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261001",
+      "code": "2345",
+      "name": "智邦",
+      "market": "TWSE",
+      "theme": "網通/AI資料中心",
+      "d0_quadrant": "量縮＋法人資金流入",
+      "institutional_net": 41564,
+      "volume_change_pct": -17.564301290335436,
+      "d0_close": 1900.0,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261001",
+      "code": "2356",
+      "name": "英業達",
+      "market": "TWSE",
+      "theme": "伺服器/ODM",
+      "d0_quadrant": "量縮＋法人資金流出",
+      "institutional_net": -2383965,
+      "volume_change_pct": -27.403398040787152,
+      "d0_close": 59.7,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261001",
+      "code": "2368",
+      "name": "金像電",
+      "market": "TWSE",
+      "theme": "PCB/AI伺服器",
+      "d0_quadrant": "量縮＋法人資金流出",
+      "institutional_net": -2072481,
+      "volume_change_pct": -53.11552149769905,
+      "d0_close": 1095.0,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261001",
+      "code": "2379",
+      "name": "瑞昱",
+      "market": "TWSE",
+      "theme": "IC設計/網通",
+      "d0_quadrant": "量增＋法人資金流入",
+      "institutional_net": 1213870,
+      "volume_change_pct": 52.34989918881941,
+      "d0_close": 762.0,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261001",
+      "code": "2382",
+      "name": "廣達",
+      "market": "TWSE",
+      "theme": "AI伺服器/ODM",
+      "d0_quadrant": "量增＋法人資金流出",
+      "institutional_net": -1992584,
+      "volume_change_pct": 23.31508747310931,
+      "d0_close": 334.0,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261001",
+      "code": "2383",
+      "name": "台光電",
+      "market": "TWSE",
+      "theme": "CCL/高速材料",
+      "d0_quadrant": "量縮＋法人資金流出",
+      "institutional_net": -259009,
+      "volume_change_pct": -11.984760025925,
+      "d0_close": 4975.0,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261001",
+      "code": "2408",
+      "name": "南亞科",
+      "market": "TWSE",
+      "theme": "記憶體",
+      "d0_quadrant": "量縮＋法人資金流入",
+      "institutional_net": 1122081,
+      "volume_change_pct": -32.40516576318161,
+      "d0_close": 519.0,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261001",
+      "code": "2421",
+      "name": "建準",
+      "market": "TWSE",
+      "theme": "散熱",
+      "d0_quadrant": "量縮＋法人資金流入",
+      "institutional_net": 470058,
+      "volume_change_pct": -41.75928701099642,
+      "d0_close": 164.0,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261001",
+      "code": "2454",
+      "name": "聯發科",
+      "market": "TWSE",
+      "theme": "IC設計/AI邊緣運算",
+      "d0_quadrant": "量縮＋法人資金流出",
+      "institutional_net": -464703,
+      "volume_change_pct": -47.201439980242,
+      "d0_close": 4980.0,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261001",
+      "code": "3013",
+      "name": "晟銘電",
+      "market": "TWSE",
+      "theme": "伺服器機殼",
+      "d0_quadrant": "量增＋法人資金流入",
+      "institutional_net": 330065,
+      "volume_change_pct": 90.69280259014664,
+      "d0_close": 94.0,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261001",
+      "code": "3017",
+      "name": "奇鋐",
+      "market": "TWSE",
+      "theme": "散熱",
+      "d0_quadrant": "量縮＋法人資金流出",
+      "institutional_net": -47488,
+      "volume_change_pct": -9.579326880305839,
+      "d0_close": 3510.0,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261001",
+      "code": "3034",
+      "name": "聯詠",
+      "market": "TWSE",
+      "theme": "IC設計",
+      "d0_quadrant": "量縮＋法人資金流入",
+      "institutional_net": 603360,
+      "volume_change_pct": -45.4047277617949,
+      "d0_close": 547.0,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261001",
+      "code": "3035",
+      "name": "智原",
+      "market": "TWSE",
+      "theme": "ASIC/IP",
+      "d0_quadrant": "量縮＋法人資金流入",
+      "institutional_net": 1380008,
+      "volume_change_pct": -24.649740835513214,
+      "d0_close": 213.0,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261001",
+      "code": "3037",
+      "name": "欣興",
+      "market": "TWSE",
+      "theme": "PCB/載板",
+      "d0_quadrant": "量增＋法人資金流入",
+      "institutional_net": 1040119,
+      "volume_change_pct": 43.97010629226858,
+      "d0_close": 1215.0,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261001",
+      "code": "3081",
+      "name": "聯亞",
+      "market": "TPEx",
+      "theme": "光通訊",
+      "d0_quadrant": "量增＋法人資金流出",
+      "institutional_net": -428759,
+      "volume_change_pct": 35.54301833568405,
+      "d0_close": 2660.0,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261001",
+      "code": "3131",
+      "name": "弘塑",
+      "market": "TPEx",
+      "theme": "半導體設備",
+      "d0_quadrant": "量縮＋法人資金流出",
+      "institutional_net": -376170,
+      "volume_change_pct": -11.328125,
+      "d0_close": 2380.0,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261001",
+      "code": "3162",
+      "name": "精確",
+      "market": "TPEx",
+      "theme": "AI散熱/金屬零組件",
+      "d0_quadrant": "量增＋法人資金流入",
+      "institutional_net": 1174894,
+      "volume_change_pct": 5.436156763590394,
+      "d0_close": 87.5,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261001",
+      "code": "3163",
+      "name": "波若威",
+      "market": "TPEx",
+      "theme": "光通訊",
+      "d0_quadrant": "量增＋法人資金流出",
+      "institutional_net": -422671,
+      "volume_change_pct": 192.81045751633985,
+      "d0_close": 651.0,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261001",
+      "code": "3231",
+      "name": "緯創",
+      "market": "TWSE",
+      "theme": "AI伺服器/ODM",
+      "d0_quadrant": "量增＋法人資金流入",
+      "institutional_net": 30634519,
+      "volume_change_pct": 190.2471959300619,
+      "d0_close": 190.5,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261001",
+      "code": "3324",
+      "name": "雙鴻",
+      "market": "TPEx",
+      "theme": "散熱",
+      "d0_quadrant": "量縮＋法人資金流出",
+      "institutional_net": -427362,
+      "volume_change_pct": -29.176201372997713,
+      "d0_close": 1525.0,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261001",
+      "code": "3363",
+      "name": "上詮",
+      "market": "TPEx",
+      "theme": "光通訊",
+      "d0_quadrant": "量縮＋法人資金流出",
+      "institutional_net": -133900,
+      "volume_change_pct": -25.880052151238598,
+      "d0_close": 641.0,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261001",
+      "code": "3443",
+      "name": "創意",
+      "market": "TWSE",
+      "theme": "ASIC/AI晶片",
+      "d0_quadrant": "量增＋法人資金流出",
+      "institutional_net": -114498,
+      "volume_change_pct": 7.3591876630966,
+      "d0_close": 7900.0,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261001",
+      "code": "3481",
+      "name": "群創",
+      "market": "TWSE",
+      "theme": "顯示/先進封裝相關",
+      "d0_quadrant": "量縮＋法人資金流出",
+      "institutional_net": -96716651,
+      "volume_change_pct": -4.3059469291051204,
+      "d0_close": 52.3,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261001",
+      "code": "3529",
+      "name": "力旺",
+      "market": "TPEx",
+      "theme": "矽智財/IP",
+      "d0_quadrant": "量縮＋法人資金流出",
+      "institutional_net": -23968,
+      "volume_change_pct": -56.96737044145873,
+      "d0_close": 3245.0,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261001",
+      "code": "3533",
+      "name": "嘉澤",
+      "market": "TWSE",
+      "theme": "高速連接器",
+      "d0_quadrant": "量增＋法人資金流入",
+      "institutional_net": 159673,
+      "volume_change_pct": 11.570664699532806,
+      "d0_close": 1855.0,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261001",
+      "code": "3583",
+      "name": "辛耘",
+      "market": "TWSE",
+      "theme": "半導體設備",
+      "d0_quadrant": "量縮＋法人資金流出",
+      "institutional_net": -196869,
+      "volume_change_pct": -46.395072252116165,
+      "d0_close": 707.0,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261001",
+      "code": "3596",
+      "name": "智易",
+      "market": "TWSE",
+      "theme": "網通",
+      "d0_quadrant": "量縮＋法人資金流出",
+      "institutional_net": -271816,
+      "volume_change_pct": -10.504595281677442,
+      "d0_close": 153.0,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261001",
+      "code": "3653",
+      "name": "健策",
+      "market": "TWSE",
+      "theme": "散熱/伺服器零組件",
+      "d0_quadrant": "量縮＋法人資金流入",
+      "institutional_net": 19659,
+      "volume_change_pct": -52.68589352751927,
+      "d0_close": 6875.0,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261001",
+      "code": "3661",
+      "name": "世芯-KY",
+      "market": "TWSE",
+      "theme": "ASIC/AI晶片",
+      "d0_quadrant": "量縮＋法人資金流出",
+      "institutional_net": -161557,
+      "volume_change_pct": -15.285657040958945,
+      "d0_close": 3765.0,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261001",
+      "code": "3665",
+      "name": "貿聯-KY",
+      "market": "TWSE",
+      "theme": "高速傳輸/連接器",
+      "d0_quadrant": "量縮＋法人資金流出",
+      "institutional_net": -52545,
+      "volume_change_pct": -50.3503878891179,
+      "d0_close": 2555.0,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261001",
+      "code": "3711",
+      "name": "日月光投控",
+      "market": "TWSE",
+      "theme": "封裝測試",
+      "d0_quadrant": "量縮＋法人資金流入",
+      "institutional_net": 741990,
+      "volume_change_pct": -39.49865596522667,
+      "d0_close": 710.0,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261001",
+      "code": "4938",
+      "name": "和碩",
+      "market": "TWSE",
+      "theme": "ODM",
+      "d0_quadrant": "量縮＋法人資金流入",
+      "institutional_net": 740898,
+      "volume_change_pct": -41.55554162105546,
+      "d0_close": 90.2,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261001",
+      "code": "4966",
+      "name": "譜瑞-KY",
+      "market": "TPEx",
+      "theme": "高速傳輸IC",
+      "d0_quadrant": "量縮＋法人資金流出",
+      "institutional_net": -14653,
+      "volume_change_pct": -28.260869565217394,
+      "d0_close": 572.0,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261001",
+      "code": "4979",
+      "name": "華星光",
+      "market": "TPEx",
+      "theme": "光通訊",
+      "d0_quadrant": "量增＋法人資金流出",
+      "institutional_net": -505866,
+      "volume_change_pct": 70.10785824345147,
+      "d0_close": 557.0,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261001",
+      "code": "5269",
+      "name": "祥碩",
+      "market": "TWSE",
+      "theme": "高速傳輸IC",
+      "d0_quadrant": "量縮＋法人資金流入",
+      "institutional_net": 42867,
+      "volume_change_pct": -35.19893412029125,
+      "d0_close": 1475.0,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261001",
+      "code": "5274",
+      "name": "信驊",
+      "market": "TPEx",
+      "theme": "伺服器管理IC",
+      "d0_quadrant": "量縮＋法人資金流出",
+      "institutional_net": -11861,
+      "volume_change_pct": -47.05882352941176,
+      "d0_close": 19040.0,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261001",
+      "code": "5388",
+      "name": "中磊",
+      "market": "TWSE",
+      "theme": "網通",
+      "d0_quadrant": "量增＋法人資金流出",
+      "institutional_net": -891899,
+      "volume_change_pct": 44.04293426091974,
+      "d0_close": 71.3,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261001",
+      "code": "6187",
+      "name": "萬潤",
+      "market": "TPEx",
+      "theme": "半導體設備",
+      "d0_quadrant": "量縮＋法人資金流出",
+      "institutional_net": -485966,
+      "volume_change_pct": -66.39652105159122,
+      "d0_close": 1275.0,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261001",
+      "code": "6209",
+      "name": "今國光",
+      "market": "TWSE",
+      "theme": "光學/機器視覺",
+      "d0_quadrant": "量增＋法人資金流入",
+      "institutional_net": 1101773,
+      "volume_change_pct": 27.629554871027338,
+      "d0_close": 82.7,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261001",
+      "code": "6213",
+      "name": "聯茂",
+      "market": "TWSE",
+      "theme": "CCL",
+      "d0_quadrant": "量縮＋法人資金流入",
+      "institutional_net": 1534774,
+      "volume_change_pct": -38.52076773583828,
+      "d0_close": 642.0,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261001",
+      "code": "6223",
+      "name": "旺矽",
+      "market": "TPEx",
+      "theme": "半導體測試",
+      "d0_quadrant": "量增＋法人資金流出",
+      "institutional_net": -255740,
+      "volume_change_pct": 7.36842105263158,
+      "d0_close": 5030.0,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261001",
+      "code": "6274",
+      "name": "台燿",
+      "market": "TPEx",
+      "theme": "CCL/高速材料",
+      "d0_quadrant": "量縮＋法人資金流出",
+      "institutional_net": -45088,
+      "volume_change_pct": -25.28717294192725,
+      "d0_close": 1535.0,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261001",
+      "code": "6285",
+      "name": "啟碁",
+      "market": "TWSE",
+      "theme": "網通",
+      "d0_quadrant": "量縮＋法人資金流出",
+      "institutional_net": -602853,
+      "volume_change_pct": -16.504820500802563,
+      "d0_close": 235.5,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261001",
+      "code": "6412",
+      "name": "群電",
+      "market": "TWSE",
+      "theme": "電源",
+      "d0_quadrant": "量增＋法人資金流出",
+      "institutional_net": -151848,
+      "volume_change_pct": 84.59887856724413,
+      "d0_close": 74.6,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261001",
+      "code": "6442",
+      "name": "光聖",
+      "market": "TWSE",
+      "theme": "光通訊",
+      "d0_quadrant": "量縮＋法人資金流出",
+      "institutional_net": -196897,
+      "volume_change_pct": -23.302331737132132,
+      "d0_close": 1480.0,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261001",
+      "code": "6451",
+      "name": "訊芯-KY",
+      "market": "TWSE",
+      "theme": "高速傳輸/封裝",
+      "d0_quadrant": "量縮＋法人資金流出",
+      "institutional_net": -165274,
+      "volume_change_pct": -29.54735028210127,
+      "d0_close": 413.0,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261001",
+      "code": "6488",
+      "name": "環球晶",
+      "market": "TPEx",
+      "theme": "半導體材料",
+      "d0_quadrant": "量增＋法人資金流出",
+      "institutional_net": -1162489,
+      "volume_change_pct": 29.649365874453792,
+      "d0_close": 1085.0,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261001",
+      "code": "6510",
+      "name": "精測",
+      "market": "TPEx",
+      "theme": "半導體測試",
+      "d0_quadrant": "量增＋法人資金流出",
+      "institutional_net": -171070,
+      "volume_change_pct": 2.6061776061776065,
+      "d0_close": 3000.0,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261001",
+      "code": "6531",
+      "name": "愛普*",
+      "market": "TWSE",
+      "theme": "記憶體/IP",
+      "d0_quadrant": "量縮＋法人資金流出",
+      "institutional_net": -187140,
+      "volume_change_pct": -12.920045725889128,
+      "d0_close": 933.0,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261001",
+      "code": "6669",
+      "name": "緯穎",
+      "market": "TWSE",
+      "theme": "AI伺服器/ODM",
+      "d0_quadrant": "量縮＋法人資金流出",
+      "institutional_net": -287778,
+      "volume_change_pct": -33.29167505483211,
+      "d0_close": 2110.0,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261001",
+      "code": "6770",
+      "name": "力積電",
+      "market": "TWSE",
+      "theme": "晶圓代工/記憶體",
+      "d0_quadrant": "量縮＋法人資金流出",
+      "institutional_net": -14277037,
+      "volume_change_pct": -32.27762392234753,
+      "d0_close": 74.5,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261001",
+      "code": "8046",
+      "name": "南電",
+      "market": "TWSE",
+      "theme": "載板",
+      "d0_quadrant": "量增＋法人資金流入",
+      "institutional_net": 3350314,
+      "volume_change_pct": 45.5722740954863,
+      "d0_close": 1420.0,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261001",
+      "code": "8210",
+      "name": "勤誠",
+      "market": "TWSE",
+      "theme": "伺服器機殼",
+      "d0_quadrant": "量縮＋法人資金流出",
+      "institutional_net": -391622,
+      "volume_change_pct": -56.48600588690885,
+      "d0_close": 845.0,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261001",
+      "code": "8299",
+      "name": "群聯",
+      "market": "TPEx",
+      "theme": "儲存控制IC",
+      "d0_quadrant": "量縮＋法人資金流出",
+      "institutional_net": -487749,
+      "volume_change_pct": -34.39171122994652,
+      "d0_close": 2110.0,
       "d_plus_1": null,
       "d_plus_3": null,
       "d_plus_5": null,

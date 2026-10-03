@@ -3201,11 +3201,104 @@
     }
   },
   "holdings_supplement": {
-    "status": "INCOMPLETE",
+    "status": "HEALTHY",
     "target_date": "20261002",
-    "stocks": {},
-    "errors": [
-      "'1595'"
-    ]
+    "stocks": {
+      "8039": {
+        "name": "台虹",
+        "market": "TWSE",
+        "theme": "電子材料",
+        "date": "20261002",
+        "foreign": {
+          "buy": 3643410,
+          "sell": 5032717,
+          "net": -1389307
+        },
+        "trust": {
+          "buy": 2000,
+          "sell": 0,
+          "net": 2000
+        },
+        "dealer": {
+          "net": 25237
+        },
+        "institutional_net": -1362070,
+        "institutional_reconciliation": {
+          "component_sum": -1362070,
+          "official_total": -1362070,
+          "difference": 0,
+          "matches": true,
+          "policy": "components_must_match_official_total"
+        },
+        "institutional_direction": "outflow",
+        "volume": {
+          "previous_date_roc": "115/10/01",
+          "latest_date_roc": "115/10/02",
+          "previous_date": "20261001",
+          "latest_date": "20261002",
+          "previous_volume": 30321735,
+          "latest_volume": 19171352,
+          "previous_close": 288.5,
+          "latest_close": 296.0,
+          "unit": "shares",
+          "change_pct": -36.77356523299211,
+          "direction": "decrease",
+          "source": "TWSE"
+        },
+        "normalized_date": "20261002",
+        "quadrant": "量縮＋法人資金流出"
+      },
+      "1595": {
+        "name": "川寶",
+        "market": "TPEx",
+        "theme": "電子零組件",
+        "date": "20261002",
+        "foreign": {
+          "buy": 235000,
+          "sell": 396000,
+          "net": -161000
+        },
+        "trust": {
+          "buy": 0,
+          "sell": 0,
+          "net": 0
+        },
+        "dealer": {
+          "buy": 27061,
+          "sell": 21570,
+          "net": 5491
+        },
+        "institutional_net": -155509,
+        "institutional_reconciliation": {
+          "component_sum": -155509,
+          "official_total": -155509,
+          "difference": 0,
+          "matches": true,
+          "policy": "components_must_match_official_total"
+        },
+        "institutional_direction": "outflow",
+        "volume": {
+          "previous_date_roc": "115/10/01",
+          "latest_date_roc": "115/10/02",
+          "previous_date": "20261001",
+          "latest_date": "20261002",
+          "previous_volume": 9124,
+          "latest_volume": 2256,
+          "previous_close": 83.3,
+          "latest_close": 79.3,
+          "unit": "lots",
+          "change_pct": -75.27400263042526,
+          "direction": "decrease",
+          "source": "TPEx",
+          "notes": [
+            "以上資料不含上櫃股票鉅額交易",
+            "ETF證券代號第六碼為K、C者，表示該ETF以外幣交易，其一交易單位(張)應為100受益權或其整倍數，請詳其公開說明書。"
+          ]
+        },
+        "normalized_date": "20261002",
+        "quadrant": "量縮＋法人資金流出"
+      }
+    },
+    "errors": []
   }
 }

@@ -3201,54 +3201,11 @@
     }
   },
   "holdings_supplement": {
-    "status": "HEALTHY",
+    "status": "INCOMPLETE",
     "target_date": "20261002",
-    "stocks": {
-      "8039": {
-        "name": "台虹",
-        "market": "TWSE",
-        "theme": "電子材料",
-        "date": "20261002",
-        "foreign": {
-          "buy": 3643410,
-          "sell": 5032717,
-          "net": -1389307
-        },
-        "trust": {
-          "buy": 2000,
-          "sell": 0,
-          "net": 2000
-        },
-        "dealer": {
-          "net": 25237
-        },
-        "institutional_net": -1362070,
-        "institutional_reconciliation": {
-          "component_sum": -1362070,
-          "official_total": -1362070,
-          "difference": 0,
-          "matches": true,
-          "policy": "components_must_match_official_total"
-        },
-        "institutional_direction": "outflow",
-        "volume": {
-          "previous_date_roc": "115/10/01",
-          "latest_date_roc": "115/10/02",
-          "previous_date": "20261001",
-          "latest_date": "20261002",
-          "previous_volume": 30321735,
-          "latest_volume": 19171352,
-          "previous_close": 288.5,
-          "latest_close": 296.0,
-          "unit": "shares",
-          "change_pct": -36.77356523299211,
-          "direction": "decrease",
-          "source": "TWSE"
-        },
-        "normalized_date": "20261002",
-        "quadrant": "量縮＋法人資金流出"
-      }
-    },
-    "errors": []
+    "stocks": {},
+    "errors": [
+      "'1595'"
+    ]
   }
 }

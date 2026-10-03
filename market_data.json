@@ -1,6 +1,6 @@
 {
   "model_version": "V1.1",
-  "generated_at": "2026-10-03T17:20:53+08:00",
+  "generated_at": "2026-10-03T21:16:20+08:00",
   "target_date": "20261002",
   "universe_version": "2026-10-01",
   "universe_description": "AI投資模型 V1.1 科技/AI 固定候選池。母體固定，四象限每日依官方資料更新；selected_20 僅為研究樣本，不代表投資優劣或買賣建議。",
@@ -3202,54 +3202,11 @@
     }
   },
   "holdings_supplement": {
-    "status": "HEALTHY",
+    "status": "INCOMPLETE",
     "target_date": "20261002",
-    "stocks": {
-      "8039": {
-        "name": "台虹",
-        "market": "TWSE",
-        "theme": "電子材料",
-        "date": "20261002",
-        "foreign": {
-          "buy": 3643410,
-          "sell": 5032717,
-          "net": -1389307
-        },
-        "trust": {
-          "buy": 2000,
-          "sell": 0,
-          "net": 2000
-        },
-        "dealer": {
-          "net": 25237
-        },
-        "institutional_net": -1362070,
-        "institutional_reconciliation": {
-          "component_sum": -1362070,
-          "official_total": -1362070,
-          "difference": 0,
-          "matches": true,
-          "policy": "components_must_match_official_total"
-        },
-        "institutional_direction": "outflow",
-        "volume": {
-          "previous_date_roc": "115/10/01",
-          "latest_date_roc": "115/10/02",
-          "previous_date": "20261001",
-          "latest_date": "20261002",
-          "previous_volume": 30321735,
-          "latest_volume": 19171352,
-          "previous_close": 288.5,
-          "latest_close": 296.0,
-          "unit": "shares",
-          "change_pct": -36.77356523299211,
-          "direction": "decrease",
-          "source": "TWSE"
-        },
-        "normalized_date": "20261002",
-        "quadrant": "量縮＋法人資金流出"
-      }
-    },
-    "errors": []
+    "stocks": {},
+    "errors": [
+      "'1595'"
+    ]
   }
 }

@@ -2633,16 +2633,17 @@
         "latest_date_roc": "115/10/02",
         "previous_date": "20261001",
         "latest_date": "20261002",
-        "previous_volume": 3095000,
-        "latest_volume": 3523532,
+        "previous_volume": 3095,
+        "latest_volume": 3524,
         "previous_close": 1525.0,
         "latest_close": 1505.0,
-        "unit": "shares",
-        "change_pct": 13.845945072697896,
+        "unit": "lots",
+        "change_pct": 13.861066235864294,
         "direction": "increase",
         "source": "TPEx",
         "notes": [
-          "TPEx official OpenAPI Range fallback; previous-day published TPEx lots converted exactly to shares."
+          "以上資料不含上櫃股票鉅額交易",
+          "ETF證券代號第六碼為K、C者，表示該ETF以外幣交易，其一交易單位(張)應為100受益權或其整倍數，請詳其公開說明書。"
         ]
       },
       "normalized_date": "20261002",

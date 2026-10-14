@@ -2,8 +2,8 @@
   "schema_version": "0.1",
   "research_only": true,
   "modifies_v1_1_selection": false,
-  "target_date": "20261013",
-  "snapshot_count": 9,
+  "target_date": "20261014",
+  "snapshot_count": 10,
   "universe_size": 61,
   "records": {
     "2301": {
@@ -11,22 +11,13 @@
       "name": "光寶科",
       "market": "TWSE",
       "theme": "電源/伺服器",
-      "selected_today": true,
-      "selected_streak": 4,
-      "flow_direction": "OUTFLOW",
-      "flow_streak": 3,
-      "quadrant": "量縮＋法人資金流出",
+      "selected_today": false,
+      "selected_streak": 0,
+      "flow_direction": "INFLOW",
+      "flow_streak": 1,
+      "quadrant": "量縮＋法人資金流入",
       "quadrant_streak": 1,
       "last_3": [
-        {
-          "date": "20261008",
-          "selected": true,
-          "quadrant": "量縮＋法人資金流出",
-          "institutional_direction": "OUTFLOW",
-          "institutional_net": -2219183,
-          "volume_change_pct": -17.626371009809027,
-          "close": 297.5
-        },
         {
           "date": "20261012",
           "selected": true,
@@ -44,6 +35,15 @@
           "institutional_net": -3664666,
           "volume_change_pct": -36.467870497183384,
           "close": 276.0
+        },
+        {
+          "date": "20261014",
+          "selected": false,
+          "quadrant": "量縮＋法人資金流入",
+          "institutional_direction": "INFLOW",
+          "institutional_net": 1653691,
+          "volume_change_pct": -49.42731306431229,
+          "close": 283.0
         }
       ]
     },
@@ -52,22 +52,13 @@
       "name": "聯電",
       "market": "TWSE",
       "theme": "晶圓代工",
-      "selected_today": false,
-      "selected_streak": 0,
+      "selected_today": true,
+      "selected_streak": 1,
       "flow_direction": "OUTFLOW",
-      "flow_streak": 6,
-      "quadrant": "量增＋法人資金流出",
-      "quadrant_streak": 2,
+      "flow_streak": 7,
+      "quadrant": "量縮＋法人資金流出",
+      "quadrant_streak": 1,
       "last_3": [
-        {
-          "date": "20261008",
-          "selected": true,
-          "quadrant": "量縮＋法人資金流出",
-          "institutional_direction": "OUTFLOW",
-          "institutional_net": -19711934,
-          "volume_change_pct": -44.132449516980074,
-          "close": 147.5
-        },
         {
           "date": "20261012",
           "selected": true,
@@ -85,6 +76,15 @@
           "institutional_net": -4750715,
           "volume_change_pct": 39.9947731604396,
           "close": 141.5
+        },
+        {
+          "date": "20261014",
+          "selected": true,
+          "quadrant": "量縮＋法人資金流出",
+          "institutional_direction": "OUTFLOW",
+          "institutional_net": -22085067,
+          "volume_change_pct": -18.84222952802669,
+          "close": 142.0
         }
       ]
     },
@@ -93,22 +93,13 @@
       "name": "台達電",
       "market": "TWSE",
       "theme": "電源/資料中心",
-      "selected_today": true,
-      "selected_streak": 1,
+      "selected_today": false,
+      "selected_streak": 0,
       "flow_direction": "OUTFLOW",
-      "flow_streak": 4,
-      "quadrant": "量增＋法人資金流出",
-      "quadrant_streak": 2,
+      "flow_streak": 5,
+      "quadrant": "量縮＋法人資金流出",
+      "quadrant_streak": 1,
       "last_3": [
-        {
-          "date": "20261008",
-          "selected": true,
-          "quadrant": "量縮＋法人資金流出",
-          "institutional_direction": "OUTFLOW",
-          "institutional_net": -805580,
-          "volume_change_pct": -49.15331420116763,
-          "close": 1965.0
-        },
         {
           "date": "20261012",
           "selected": false,
@@ -126,6 +117,15 @@
           "institutional_net": -7481260,
           "volume_change_pct": 26.962770120125022,
           "close": 1775.0
+        },
+        {
+          "date": "20261014",
+          "selected": false,
+          "quadrant": "量縮＋法人資金流出",
+          "institutional_direction": "OUTFLOW",
+          "institutional_net": -1443242,
+          "volume_change_pct": -36.159891790361975,
+          "close": 1785.0
         }
       ]
     },
@@ -135,21 +135,12 @@
       "market": "TWSE",
       "theme": "AI伺服器/電子製造",
       "selected_today": true,
-      "selected_streak": 9,
-      "flow_direction": "OUTFLOW",
-      "flow_streak": 5,
-      "quadrant": "量縮＋法人資金流出",
+      "selected_streak": 10,
+      "flow_direction": "INFLOW",
+      "flow_streak": 1,
+      "quadrant": "量縮＋法人資金流入",
       "quadrant_streak": 1,
       "last_3": [
-        {
-          "date": "20261008",
-          "selected": true,
-          "quadrant": "量增＋法人資金流出",
-          "institutional_direction": "OUTFLOW",
-          "institutional_net": -25527882,
-          "volume_change_pct": 11.289370839624802,
-          "close": 249.0
-        },
         {
           "date": "20261012",
           "selected": true,
@@ -167,6 +158,15 @@
           "institutional_net": -18441892,
           "volume_change_pct": -13.997350095290518,
           "close": 240.0
+        },
+        {
+          "date": "20261014",
+          "selected": true,
+          "quadrant": "量縮＋法人資金流入",
+          "institutional_direction": "INFLOW",
+          "institutional_net": 3334373,
+          "volume_change_pct": -23.42698046768774,
+          "close": 243.0
         }
       ]
     },
@@ -176,21 +176,12 @@
       "market": "TWSE",
       "theme": "ODM",
       "selected_today": true,
-      "selected_streak": 4,
-      "flow_direction": "OUTFLOW",
+      "selected_streak": 5,
+      "flow_direction": "INFLOW",
       "flow_streak": 1,
-      "quadrant": "量縮＋法人資金流出",
+      "quadrant": "量增＋法人資金流入",
       "quadrant_streak": 1,
       "last_3": [
-        {
-          "date": "20261008",
-          "selected": true,
-          "quadrant": "量增＋法人資金流出",
-          "institutional_direction": "OUTFLOW",
-          "institutional_net": -9588598,
-          "volume_change_pct": 1.2470775798884004,
-          "close": 35.5
-        },
         {
           "date": "20261012",
           "selected": true,
@@ -208,6 +199,15 @@
           "institutional_net": -18958540,
           "volume_change_pct": -15.434509834260313,
           "close": 35.8
+        },
+        {
+          "date": "20261014",
+          "selected": true,
+          "quadrant": "量增＋法人資金流入",
+          "institutional_direction": "INFLOW",
+          "institutional_net": 17218121,
+          "volume_change_pct": 0.12912197428056604,
+          "close": 37.0
         }
       ]
     },
@@ -217,21 +217,12 @@
       "market": "TWSE",
       "theme": "晶圓代工/AI晶片",
       "selected_today": true,
-      "selected_streak": 3,
+      "selected_streak": 4,
       "flow_direction": "OUTFLOW",
-      "flow_streak": 5,
-      "quadrant": "量增＋法人資金流出",
-      "quadrant_streak": 3,
+      "flow_streak": 6,
+      "quadrant": "量縮＋法人資金流出",
+      "quadrant_streak": 1,
       "last_3": [
-        {
-          "date": "20261008",
-          "selected": true,
-          "quadrant": "量增＋法人資金流出",
-          "institutional_direction": "OUTFLOW",
-          "institutional_net": -11000276,
-          "volume_change_pct": 36.62087824681428,
-          "close": 2550.0
-        },
         {
           "date": "20261012",
           "selected": true,
@@ -249,6 +240,15 @@
           "institutional_net": -20144161,
           "volume_change_pct": 73.19011207785711,
           "close": 2490.0
+        },
+        {
+          "date": "20261014",
+          "selected": true,
+          "quadrant": "量縮＋法人資金流出",
+          "institutional_direction": "OUTFLOW",
+          "institutional_net": -5416247,
+          "volume_change_pct": -31.09187138497814,
+          "close": 2490.0
         }
       ]
     },
@@ -258,21 +258,12 @@
       "market": "TWSE",
       "theme": "記憶體",
       "selected_today": true,
-      "selected_streak": 9,
-      "flow_direction": "OUTFLOW",
-      "flow_streak": 3,
-      "quadrant": "量增＋法人資金流出",
+      "selected_streak": 10,
+      "flow_direction": "INFLOW",
+      "flow_streak": 1,
+      "quadrant": "量縮＋法人資金流入",
       "quadrant_streak": 1,
       "last_3": [
-        {
-          "date": "20261008",
-          "selected": true,
-          "quadrant": "量增＋法人資金流出",
-          "institutional_direction": "OUTFLOW",
-          "institutional_net": -14590377,
-          "volume_change_pct": 10.946174775176832,
-          "close": 177.0
-        },
         {
           "date": "20261012",
           "selected": true,
@@ -290,6 +281,15 @@
           "institutional_net": -45353241,
           "volume_change_pct": 167.92213615837088,
           "close": 161.5
+        },
+        {
+          "date": "20261014",
+          "selected": true,
+          "quadrant": "量縮＋法人資金流入",
+          "institutional_direction": "INFLOW",
+          "institutional_net": 10267342,
+          "volume_change_pct": -54.35022547393731,
+          "close": 165.0
         }
       ]
     },
@@ -301,19 +301,10 @@
       "selected_today": false,
       "selected_streak": 0,
       "flow_direction": "OUTFLOW",
-      "flow_streak": 2,
-      "quadrant": "量增＋法人資金流出",
-      "quadrant_streak": 2,
+      "flow_streak": 3,
+      "quadrant": "量縮＋法人資金流出",
+      "quadrant_streak": 1,
       "last_3": [
-        {
-          "date": "20261008",
-          "selected": true,
-          "quadrant": "量縮＋法人資金流入",
-          "institutional_direction": "INFLOW",
-          "institutional_net": 675784,
-          "volume_change_pct": -14.185179168294104,
-          "close": 2070.0
-        },
         {
           "date": "20261012",
           "selected": false,
@@ -331,6 +322,15 @@
           "institutional_net": -449430,
           "volume_change_pct": 20.16427387615167,
           "close": 2040.0
+        },
+        {
+          "date": "20261014",
+          "selected": false,
+          "quadrant": "量縮＋法人資金流出",
+          "institutional_direction": "OUTFLOW",
+          "institutional_net": -215004,
+          "volume_change_pct": -17.70372223788548,
+          "close": 2050.0
         }
       ]
     },
@@ -341,20 +341,11 @@
       "theme": "伺服器/ODM",
       "selected_today": false,
       "selected_streak": 0,
-      "flow_direction": "OUTFLOW",
-      "flow_streak": 9,
-      "quadrant": "量增＋法人資金流出",
-      "quadrant_streak": 3,
+      "flow_direction": "INFLOW",
+      "flow_streak": 1,
+      "quadrant": "量縮＋法人資金流入",
+      "quadrant_streak": 1,
       "last_3": [
-        {
-          "date": "20261008",
-          "selected": false,
-          "quadrant": "量增＋法人資金流出",
-          "institutional_direction": "OUTFLOW",
-          "institutional_net": -2478203,
-          "volume_change_pct": 11.272137704859198,
-          "close": 57.5
-        },
         {
           "date": "20261012",
           "selected": true,
@@ -372,6 +363,15 @@
           "institutional_net": -2002859,
           "volume_change_pct": 4.289030154357776,
           "close": 57.3
+        },
+        {
+          "date": "20261014",
+          "selected": false,
+          "quadrant": "量縮＋法人資金流入",
+          "institutional_direction": "INFLOW",
+          "institutional_net": 10696,
+          "volume_change_pct": -11.362206389949348,
+          "close": 58.3
         }
       ]
     },
@@ -381,21 +381,12 @@
       "market": "TWSE",
       "theme": "PCB/AI伺服器",
       "selected_today": true,
-      "selected_streak": 1,
+      "selected_streak": 2,
       "flow_direction": "INFLOW",
-      "flow_streak": 1,
+      "flow_streak": 2,
       "quadrant": "量增＋法人資金流入",
-      "quadrant_streak": 1,
+      "quadrant_streak": 2,
       "last_3": [
-        {
-          "date": "20261008",
-          "selected": true,
-          "quadrant": "量縮＋法人資金流入",
-          "institutional_direction": "INFLOW",
-          "institutional_net": 1230027,
-          "volume_change_pct": -16.13293994219418,
-          "close": 1285.0
-        },
         {
           "date": "20261012",
           "selected": false,
@@ -413,6 +404,15 @@
           "institutional_net": 958752,
           "volume_change_pct": 33.03233238071677,
           "close": 1170.0
+        },
+        {
+          "date": "20261014",
+          "selected": true,
+          "quadrant": "量增＋法人資金流入",
+          "institutional_direction": "INFLOW",
+          "institutional_net": 2866144,
+          "volume_change_pct": 22.869320137822434,
+          "close": 1260.0
         }
       ]
     },
@@ -421,22 +421,13 @@
       "name": "瑞昱",
       "market": "TWSE",
       "theme": "IC設計/網通",
-      "selected_today": false,
-      "selected_streak": 0,
+      "selected_today": true,
+      "selected_streak": 1,
       "flow_direction": "INFLOW",
-      "flow_streak": 1,
+      "flow_streak": 2,
       "quadrant": "量增＋法人資金流入",
-      "quadrant_streak": 1,
+      "quadrant_streak": 2,
       "last_3": [
-        {
-          "date": "20261008",
-          "selected": false,
-          "quadrant": "量縮＋法人資金流入",
-          "institutional_direction": "INFLOW",
-          "institutional_net": 267564,
-          "volume_change_pct": -17.155468373752704,
-          "close": 749.0
-        },
         {
           "date": "20261012",
           "selected": false,
@@ -454,6 +445,15 @@
           "institutional_net": 530421,
           "volume_change_pct": 51.56640075552961,
           "close": 758.0
+        },
+        {
+          "date": "20261014",
+          "selected": true,
+          "quadrant": "量增＋法人資金流入",
+          "institutional_direction": "INFLOW",
+          "institutional_net": 1347083,
+          "volume_change_pct": 21.06557746707307,
+          "close": 778.0
         }
       ]
     },
@@ -463,21 +463,12 @@
       "market": "TWSE",
       "theme": "AI伺服器/ODM",
       "selected_today": true,
-      "selected_streak": 2,
-      "flow_direction": "INFLOW",
+      "selected_streak": 3,
+      "flow_direction": "OUTFLOW",
       "flow_streak": 1,
-      "quadrant": "量增＋法人資金流入",
+      "quadrant": "量增＋法人資金流出",
       "quadrant_streak": 1,
       "last_3": [
-        {
-          "date": "20261008",
-          "selected": false,
-          "quadrant": "量增＋法人資金流出",
-          "institutional_direction": "OUTFLOW",
-          "institutional_net": -7273522,
-          "volume_change_pct": 80.75577203694696,
-          "close": 325.5
-        },
         {
           "date": "20261012",
           "selected": true,
@@ -495,6 +486,15 @@
           "institutional_net": 2468989,
           "volume_change_pct": 33.25406021740602,
           "close": 323.0
+        },
+        {
+          "date": "20261014",
+          "selected": true,
+          "quadrant": "量增＋法人資金流出",
+          "institutional_direction": "OUTFLOW",
+          "institutional_net": -376366,
+          "volume_change_pct": 5.789115455977911,
+          "close": 323.0
         }
       ]
     },
@@ -505,20 +505,11 @@
       "theme": "CCL/高速材料",
       "selected_today": false,
       "selected_streak": 0,
-      "flow_direction": "OUTFLOW",
+      "flow_direction": "INFLOW",
       "flow_streak": 1,
-      "quadrant": "量增＋法人資金流出",
+      "quadrant": "量縮＋法人資金流入",
       "quadrant_streak": 1,
       "last_3": [
-        {
-          "date": "20261008",
-          "selected": false,
-          "quadrant": "量縮＋法人資金流入",
-          "institutional_direction": "INFLOW",
-          "institutional_net": 32993,
-          "volume_change_pct": -37.37563075111464,
-          "close": 6000.0
-        },
         {
           "date": "20261012",
           "selected": false,
@@ -536,6 +527,15 @@
           "institutional_net": -1025619,
           "volume_change_pct": 108.16345064945696,
           "close": 5545.0
+        },
+        {
+          "date": "20261014",
+          "selected": false,
+          "quadrant": "量縮＋法人資金流入",
+          "institutional_direction": "INFLOW",
+          "institutional_net": 39044,
+          "volume_change_pct": -52.359811222476004,
+          "close": 5520.0
         }
       ]
     },
@@ -545,21 +545,12 @@
       "market": "TWSE",
       "theme": "記憶體",
       "selected_today": true,
-      "selected_streak": 4,
+      "selected_streak": 5,
       "flow_direction": "OUTFLOW",
-      "flow_streak": 2,
-      "quadrant": "量增＋法人資金流出",
+      "flow_streak": 3,
+      "quadrant": "量縮＋法人資金流出",
       "quadrant_streak": 1,
       "last_3": [
-        {
-          "date": "20261008",
-          "selected": true,
-          "quadrant": "量增＋法人資金流入",
-          "institutional_direction": "INFLOW",
-          "institutional_net": 22186176,
-          "volume_change_pct": 67.93306517973532,
-          "close": 532.0
-        },
         {
           "date": "20261012",
           "selected": true,
@@ -577,6 +568,15 @@
           "institutional_net": -46034082,
           "volume_change_pct": 245.15441793673415,
           "close": 488.0
+        },
+        {
+          "date": "20261014",
+          "selected": true,
+          "quadrant": "量縮＋法人資金流出",
+          "institutional_direction": "OUTFLOW",
+          "institutional_net": -25075934,
+          "volume_change_pct": -43.49020103462635,
+          "close": 480.5
         }
       ]
     },
@@ -585,22 +585,13 @@
       "name": "建準",
       "market": "TWSE",
       "theme": "散熱",
-      "selected_today": true,
-      "selected_streak": 1,
+      "selected_today": false,
+      "selected_streak": 0,
       "flow_direction": "INFLOW",
-      "flow_streak": 1,
-      "quadrant": "量縮＋法人資金流入",
+      "flow_streak": 2,
+      "quadrant": "量增＋法人資金流入",
       "quadrant_streak": 1,
       "last_3": [
-        {
-          "date": "20261008",
-          "selected": false,
-          "quadrant": "量縮＋法人資金流入",
-          "institutional_direction": "INFLOW",
-          "institutional_net": 236140,
-          "volume_change_pct": -8.165394606962462,
-          "close": 168.0
-        },
         {
           "date": "20261012",
           "selected": false,
@@ -618,6 +609,15 @@
           "institutional_net": 124216,
           "volume_change_pct": -4.853120181773917,
           "close": 168.0
+        },
+        {
+          "date": "20261014",
+          "selected": false,
+          "quadrant": "量增＋法人資金流入",
+          "institutional_direction": "INFLOW",
+          "institutional_net": 117110,
+          "volume_change_pct": 35.06258022422271,
+          "close": 171.0
         }
       ]
     },
@@ -626,22 +626,13 @@
       "name": "聯發科",
       "market": "TWSE",
       "theme": "IC設計/AI邊緣運算",
-      "selected_today": false,
-      "selected_streak": 0,
+      "selected_today": true,
+      "selected_streak": 1,
       "flow_direction": "OUTFLOW",
-      "flow_streak": 5,
-      "quadrant": "量增＋法人資金流出",
+      "flow_streak": 6,
+      "quadrant": "量縮＋法人資金流出",
       "quadrant_streak": 1,
       "last_3": [
-        {
-          "date": "20261008",
-          "selected": false,
-          "quadrant": "量增＋法人資金流出",
-          "institutional_direction": "OUTFLOW",
-          "institutional_net": -3267043,
-          "volume_change_pct": 15.244264007255492,
-          "close": 4690.0
-        },
         {
           "date": "20261012",
           "selected": true,
@@ -659,6 +650,15 @@
           "institutional_net": -2651689,
           "volume_change_pct": 4.592109548832668,
           "close": 4525.0
+        },
+        {
+          "date": "20261014",
+          "selected": true,
+          "quadrant": "量縮＋法人資金流出",
+          "institutional_direction": "OUTFLOW",
+          "institutional_net": -3256885,
+          "volume_change_pct": -4.52634965712585,
+          "close": 4475.0
         }
       ]
     },
@@ -669,20 +669,11 @@
       "theme": "伺服器機殼",
       "selected_today": false,
       "selected_streak": 0,
-      "flow_direction": "OUTFLOW",
-      "flow_streak": 4,
-      "quadrant": "量縮＋法人資金流出",
-      "quadrant_streak": 2,
+      "flow_direction": "INFLOW",
+      "flow_streak": 1,
+      "quadrant": "量增＋法人資金流入",
+      "quadrant_streak": 1,
       "last_3": [
-        {
-          "date": "20261008",
-          "selected": false,
-          "quadrant": "量增＋法人資金流出",
-          "institutional_direction": "OUTFLOW",
-          "institutional_net": -1014019,
-          "volume_change_pct": 45.451429236079676,
-          "close": 97.9
-        },
         {
           "date": "20261012",
           "selected": false,
@@ -700,6 +691,15 @@
           "institutional_net": -377565,
           "volume_change_pct": -5.319258285394413,
           "close": 91.3
+        },
+        {
+          "date": "20261014",
+          "selected": false,
+          "quadrant": "量增＋法人資金流入",
+          "institutional_direction": "INFLOW",
+          "institutional_net": 1300543,
+          "volume_change_pct": 86.22694732162932,
+          "close": 97.4
         }
       ]
     },
@@ -711,19 +711,10 @@
       "selected_today": false,
       "selected_streak": 0,
       "flow_direction": "OUTFLOW",
-      "flow_streak": 1,
-      "quadrant": "量增＋法人資金流出",
+      "flow_streak": 2,
+      "quadrant": "量縮＋法人資金流出",
       "quadrant_streak": 1,
       "last_3": [
-        {
-          "date": "20261008",
-          "selected": false,
-          "quadrant": "量縮＋法人資金流出",
-          "institutional_direction": "OUTFLOW",
-          "institutional_net": -551096,
-          "volume_change_pct": -10.041238826172771,
-          "close": 3440.0
-        },
         {
           "date": "20261012",
           "selected": false,
@@ -741,6 +732,15 @@
           "institutional_net": -371052,
           "volume_change_pct": 16.020492494342918,
           "close": 3280.0
+        },
+        {
+          "date": "20261014",
+          "selected": false,
+          "quadrant": "量縮＋法人資金流出",
+          "institutional_direction": "OUTFLOW",
+          "institutional_net": -498592,
+          "volume_change_pct": -17.04954059434933,
+          "close": 3315.0
         }
       ]
     },
@@ -750,21 +750,12 @@
       "market": "TWSE",
       "theme": "IC設計",
       "selected_today": true,
-      "selected_streak": 1,
+      "selected_streak": 2,
       "flow_direction": "INFLOW",
-      "flow_streak": 1,
+      "flow_streak": 2,
       "quadrant": "量增＋法人資金流入",
-      "quadrant_streak": 1,
+      "quadrant_streak": 2,
       "last_3": [
-        {
-          "date": "20261008",
-          "selected": false,
-          "quadrant": "量增＋法人資金流入",
-          "institutional_direction": "INFLOW",
-          "institutional_net": 531054,
-          "volume_change_pct": 12.004284500695617,
-          "close": 531.0
-        },
         {
           "date": "20261012",
           "selected": false,
@@ -782,6 +773,15 @@
           "institutional_net": 1340921,
           "volume_change_pct": 188.81202207285895,
           "close": 546.0
+        },
+        {
+          "date": "20261014",
+          "selected": true,
+          "quadrant": "量增＋法人資金流入",
+          "institutional_direction": "INFLOW",
+          "institutional_net": 2489320,
+          "volume_change_pct": 19.58165766747313,
+          "close": 560.0
         }
       ]
     },
@@ -792,20 +792,11 @@
       "theme": "ASIC/IP",
       "selected_today": false,
       "selected_streak": 0,
-      "flow_direction": "OUTFLOW",
-      "flow_streak": 3,
-      "quadrant": "量增＋法人資金流出",
+      "flow_direction": "INFLOW",
+      "flow_streak": 1,
+      "quadrant": "量增＋法人資金流入",
       "quadrant_streak": 1,
       "last_3": [
-        {
-          "date": "20261008",
-          "selected": false,
-          "quadrant": "量增＋法人資金流出",
-          "institutional_direction": "OUTFLOW",
-          "institutional_net": -353007,
-          "volume_change_pct": 7.384201024440662,
-          "close": 202.0
-        },
         {
           "date": "20261012",
           "selected": false,
@@ -823,6 +814,15 @@
           "institutional_net": -78689,
           "volume_change_pct": 63.82376918702764,
           "close": 192.0
+        },
+        {
+          "date": "20261014",
+          "selected": false,
+          "quadrant": "量增＋法人資金流入",
+          "institutional_direction": "INFLOW",
+          "institutional_net": 1195528,
+          "volume_change_pct": 27.942643391521194,
+          "close": 211.0
         }
       ]
     },
@@ -833,20 +833,11 @@
       "theme": "PCB/載板",
       "selected_today": false,
       "selected_streak": 0,
-      "flow_direction": "OUTFLOW",
+      "flow_direction": "INFLOW",
       "flow_streak": 1,
-      "quadrant": "量增＋法人資金流出",
+      "quadrant": "量增＋法人資金流入",
       "quadrant_streak": 1,
       "last_3": [
-        {
-          "date": "20261008",
-          "selected": true,
-          "quadrant": "量縮＋法人資金流入",
-          "institutional_direction": "INFLOW",
-          "institutional_net": 935813,
-          "volume_change_pct": -4.360677345350272,
-          "close": 1270.0
-        },
         {
           "date": "20261012",
           "selected": true,
@@ -864,6 +855,15 @@
           "institutional_net": -2310569,
           "volume_change_pct": 80.80555057892565,
           "close": 1180.0
+        },
+        {
+          "date": "20261014",
+          "selected": false,
+          "quadrant": "量增＋法人資金流入",
+          "institutional_direction": "INFLOW",
+          "institutional_net": 717855,
+          "volume_change_pct": 8.58516030387002,
+          "close": 1185.0
         }
       ]
     },
@@ -874,20 +874,11 @@
       "theme": "光通訊",
       "selected_today": false,
       "selected_streak": 0,
-      "flow_direction": "OUTFLOW",
+      "flow_direction": "INFLOW",
       "flow_streak": 1,
-      "quadrant": "量增＋法人資金流出",
+      "quadrant": "量縮＋法人資金流入",
       "quadrant_streak": 1,
       "last_3": [
-        {
-          "date": "20261008",
-          "selected": false,
-          "quadrant": "量縮＋法人資金流出",
-          "institutional_direction": "OUTFLOW",
-          "institutional_net": -388274,
-          "volume_change_pct": -46.66899807658682,
-          "close": 2960.0
-        },
         {
           "date": "20261012",
           "selected": false,
@@ -905,6 +896,15 @@
           "institutional_net": -1204167,
           "volume_change_pct": 135.2881698685541,
           "close": 2725.0
+        },
+        {
+          "date": "20261014",
+          "selected": false,
+          "quadrant": "量縮＋法人資金流入",
+          "institutional_direction": "INFLOW",
+          "institutional_net": 633640,
+          "volume_change_pct": -26.214009454232922,
+          "close": 2880.0
         }
       ]
     },
@@ -916,19 +916,10 @@
       "selected_today": false,
       "selected_streak": 0,
       "flow_direction": "OUTFLOW",
-      "flow_streak": 1,
-      "quadrant": "量增＋法人資金流出",
+      "flow_streak": 2,
+      "quadrant": "量縮＋法人資金流出",
       "quadrant_streak": 1,
       "last_3": [
-        {
-          "date": "20261008",
-          "selected": false,
-          "quadrant": "量縮＋法人資金流出",
-          "institutional_direction": "OUTFLOW",
-          "institutional_net": -8518,
-          "volume_change_pct": -42.26044226044227,
-          "close": 2465.0
-        },
         {
           "date": "20261012",
           "selected": false,
@@ -946,6 +937,15 @@
           "institutional_net": -271431,
           "volume_change_pct": 57.801418439716315,
           "close": 2360.0
+        },
+        {
+          "date": "20261014",
+          "selected": false,
+          "quadrant": "量縮＋法人資金流出",
+          "institutional_direction": "OUTFLOW",
+          "institutional_net": -38122,
+          "volume_change_pct": -52.58426966292134,
+          "close": 2365.0
         }
       ]
     },
@@ -957,19 +957,10 @@
       "selected_today": false,
       "selected_streak": 0,
       "flow_direction": "OUTFLOW",
-      "flow_streak": 1,
+      "flow_streak": 2,
       "quadrant": "量縮＋法人資金流出",
-      "quadrant_streak": 1,
+      "quadrant_streak": 2,
       "last_3": [
-        {
-          "date": "20261008",
-          "selected": false,
-          "quadrant": "量縮＋法人資金流出",
-          "institutional_direction": "OUTFLOW",
-          "institutional_net": -354277,
-          "volume_change_pct": -19.798657718120804,
-          "close": 82.2
-        },
         {
           "date": "20261012",
           "selected": false,
@@ -987,6 +978,15 @@
           "institutional_net": -410040,
           "volume_change_pct": -35.400516795865634,
           "close": 78.8
+        },
+        {
+          "date": "20261014",
+          "selected": false,
+          "quadrant": "量縮＋法人資金流出",
+          "institutional_direction": "OUTFLOW",
+          "institutional_net": -70023,
+          "volume_change_pct": -40.0,
+          "close": 80.3
         }
       ]
     },
@@ -997,20 +997,11 @@
       "theme": "光通訊",
       "selected_today": false,
       "selected_streak": 0,
-      "flow_direction": "OUTFLOW",
+      "flow_direction": "INFLOW",
       "flow_streak": 1,
-      "quadrant": "量增＋法人資金流出",
+      "quadrant": "量縮＋法人資金流入",
       "quadrant_streak": 1,
       "last_3": [
-        {
-          "date": "20261008",
-          "selected": false,
-          "quadrant": "量縮＋法人資金流出",
-          "institutional_direction": "OUTFLOW",
-          "institutional_net": -152195,
-          "volume_change_pct": -57.70731707317074,
-          "close": 689.0
-        },
         {
           "date": "20261012",
           "selected": false,
@@ -1028,6 +1019,15 @@
           "institutional_net": -124756,
           "volume_change_pct": 91.16242038216559,
           "close": 645.0
+        },
+        {
+          "date": "20261014",
+          "selected": false,
+          "quadrant": "量縮＋法人資金流入",
+          "institutional_direction": "INFLOW",
+          "institutional_net": 93332,
+          "volume_change_pct": -28.57142857142857,
+          "close": 653.0
         }
       ]
     },
@@ -1037,21 +1037,12 @@
       "market": "TWSE",
       "theme": "AI伺服器/ODM",
       "selected_today": true,
-      "selected_streak": 9,
-      "flow_direction": "INFLOW",
-      "flow_streak": 3,
-      "quadrant": "量增＋法人資金流入",
+      "selected_streak": 10,
+      "flow_direction": "OUTFLOW",
+      "flow_streak": 1,
+      "quadrant": "量縮＋法人資金流出",
       "quadrant_streak": 1,
       "last_3": [
-        {
-          "date": "20261008",
-          "selected": true,
-          "quadrant": "量增＋法人資金流入",
-          "institutional_direction": "INFLOW",
-          "institutional_net": 16705983,
-          "volume_change_pct": 70.6470240131895,
-          "close": 188.5
-        },
         {
           "date": "20261012",
           "selected": true,
@@ -1069,6 +1060,15 @@
           "institutional_net": 828609,
           "volume_change_pct": 33.02333861493678,
           "close": 187.0
+        },
+        {
+          "date": "20261014",
+          "selected": true,
+          "quadrant": "量縮＋法人資金流出",
+          "institutional_direction": "OUTFLOW",
+          "institutional_net": -3058947,
+          "volume_change_pct": -40.43926273777737,
+          "close": 187.0
         }
       ]
     },
@@ -1080,19 +1080,10 @@
       "selected_today": false,
       "selected_streak": 0,
       "flow_direction": "OUTFLOW",
-      "flow_streak": 2,
+      "flow_streak": 3,
       "quadrant": "量縮＋法人資金流出",
-      "quadrant_streak": 2,
+      "quadrant_streak": 3,
       "last_3": [
-        {
-          "date": "20261008",
-          "selected": false,
-          "quadrant": "量增＋法人資金流入",
-          "institutional_direction": "INFLOW",
-          "institutional_net": 57640,
-          "volume_change_pct": 124.25578831312016,
-          "close": 1520.0
-        },
         {
           "date": "20261012",
           "selected": false,
@@ -1110,6 +1101,15 @@
           "institutional_net": -504918,
           "volume_change_pct": -4.495210022107587,
           "close": 1475.0
+        },
+        {
+          "date": "20261014",
+          "selected": false,
+          "quadrant": "量縮＋法人資金流出",
+          "institutional_direction": "OUTFLOW",
+          "institutional_net": -106274,
+          "volume_change_pct": -8.564814814814813,
+          "close": 1490.0
         }
       ]
     },
@@ -1118,22 +1118,13 @@
       "name": "上詮",
       "market": "TPEx",
       "theme": "光通訊",
-      "selected_today": true,
-      "selected_streak": 1,
+      "selected_today": false,
+      "selected_streak": 0,
       "flow_direction": "OUTFLOW",
-      "flow_streak": 3,
+      "flow_streak": 4,
       "quadrant": "量縮＋法人資金流出",
-      "quadrant_streak": 1,
+      "quadrant_streak": 2,
       "last_3": [
-        {
-          "date": "20261008",
-          "selected": false,
-          "quadrant": "量縮＋法人資金流出",
-          "institutional_direction": "OUTFLOW",
-          "institutional_net": -383076,
-          "volume_change_pct": -64.50461796809404,
-          "close": 667.0
-        },
         {
           "date": "20261012",
           "selected": false,
@@ -1151,6 +1142,15 @@
           "institutional_net": -620081,
           "volume_change_pct": -17.97141969555762,
           "close": 547.0
+        },
+        {
+          "date": "20261014",
+          "selected": false,
+          "quadrant": "量縮＋法人資金流出",
+          "institutional_direction": "OUTFLOW",
+          "institutional_net": -91489,
+          "volume_change_pct": -50.82370763113047,
+          "close": 559.0
         }
       ]
     },
@@ -1159,22 +1159,13 @@
       "name": "創意",
       "market": "TWSE",
       "theme": "ASIC/AI晶片",
-      "selected_today": true,
-      "selected_streak": 1,
+      "selected_today": false,
+      "selected_streak": 0,
       "flow_direction": "INFLOW",
-      "flow_streak": 6,
+      "flow_streak": 7,
       "quadrant": "量縮＋法人資金流入",
-      "quadrant_streak": 1,
+      "quadrant_streak": 2,
       "last_3": [
-        {
-          "date": "20261008",
-          "selected": false,
-          "quadrant": "量縮＋法人資金流入",
-          "institutional_direction": "INFLOW",
-          "institutional_net": 8319,
-          "volume_change_pct": -22.52733384069,
-          "close": 8360.0
-        },
         {
           "date": "20261012",
           "selected": false,
@@ -1192,6 +1183,15 @@
           "institutional_net": 145881,
           "volume_change_pct": -23.9210939251289,
           "close": 8095.0
+        },
+        {
+          "date": "20261014",
+          "selected": false,
+          "quadrant": "量縮＋法人資金流入",
+          "institutional_direction": "INFLOW",
+          "institutional_net": 104266,
+          "volume_change_pct": -16.353996016358863,
+          "close": 8245.0
         }
       ]
     },
@@ -1200,22 +1200,13 @@
       "name": "群創",
       "market": "TWSE",
       "theme": "顯示/先進封裝相關",
-      "selected_today": false,
-      "selected_streak": 0,
+      "selected_today": true,
+      "selected_streak": 1,
       "flow_direction": "INFLOW",
-      "flow_streak": 2,
-      "quadrant": "量增＋法人資金流入",
-      "quadrant_streak": 2,
+      "flow_streak": 3,
+      "quadrant": "量縮＋法人資金流入",
+      "quadrant_streak": 1,
       "last_3": [
-        {
-          "date": "20261008",
-          "selected": true,
-          "quadrant": "量縮＋法人資金流出",
-          "institutional_direction": "OUTFLOW",
-          "institutional_net": -20852879,
-          "volume_change_pct": -21.533210538407697,
-          "close": 51.0
-        },
         {
           "date": "20261012",
           "selected": true,
@@ -1233,6 +1224,15 @@
           "institutional_net": 722426,
           "volume_change_pct": 9.26280557076684,
           "close": 50.0
+        },
+        {
+          "date": "20261014",
+          "selected": true,
+          "quadrant": "量縮＋法人資金流入",
+          "institutional_direction": "INFLOW",
+          "institutional_net": 14303266,
+          "volume_change_pct": -18.850564999844334,
+          "close": 50.9
         }
       ]
     },
@@ -1241,22 +1241,13 @@
       "name": "力旺",
       "market": "TPEx",
       "theme": "矽智財/IP",
-      "selected_today": true,
-      "selected_streak": 1,
-      "flow_direction": "INFLOW",
+      "selected_today": false,
+      "selected_streak": 0,
+      "flow_direction": "OUTFLOW",
       "flow_streak": 1,
-      "quadrant": "量縮＋法人資金流入",
+      "quadrant": "量增＋法人資金流出",
       "quadrant_streak": 1,
       "last_3": [
-        {
-          "date": "20261008",
-          "selected": false,
-          "quadrant": "量縮＋法人資金流出",
-          "institutional_direction": "OUTFLOW",
-          "institutional_net": -34475,
-          "volume_change_pct": -0.2270147559591429,
-          "close": 2915.0
-        },
         {
           "date": "20261012",
           "selected": false,
@@ -1274,6 +1265,15 @@
           "institutional_net": 64976,
           "volume_change_pct": -12.537917087967642,
           "close": 2810.0
+        },
+        {
+          "date": "20261014",
+          "selected": false,
+          "quadrant": "量增＋法人資金流出",
+          "institutional_direction": "OUTFLOW",
+          "institutional_net": -72565,
+          "volume_change_pct": 13.87283236994219,
+          "close": 2875.0
         }
       ]
     },
@@ -1282,22 +1282,13 @@
       "name": "嘉澤",
       "market": "TWSE",
       "theme": "高速連接器",
-      "selected_today": true,
-      "selected_streak": 1,
+      "selected_today": false,
+      "selected_streak": 0,
       "flow_direction": "INFLOW",
-      "flow_streak": 1,
-      "quadrant": "量縮＋法人資金流入",
+      "flow_streak": 2,
+      "quadrant": "量增＋法人資金流入",
       "quadrant_streak": 1,
       "last_3": [
-        {
-          "date": "20261008",
-          "selected": true,
-          "quadrant": "量增＋法人資金流入",
-          "institutional_direction": "INFLOW",
-          "institutional_net": 638327,
-          "volume_change_pct": 140.9383996591039,
-          "close": 1915.0
-        },
         {
           "date": "20261012",
           "selected": false,
@@ -1315,6 +1306,15 @@
           "institutional_net": 85040,
           "volume_change_pct": -21.672651299696344,
           "close": 1860.0
+        },
+        {
+          "date": "20261014",
+          "selected": false,
+          "quadrant": "量增＋法人資金流入",
+          "institutional_direction": "INFLOW",
+          "institutional_net": 705290,
+          "volume_change_pct": 217.90324365912076,
+          "close": 1935.0
         }
       ]
     },
@@ -1323,22 +1323,13 @@
       "name": "辛耘",
       "market": "TWSE",
       "theme": "半導體設備",
-      "selected_today": true,
-      "selected_streak": 1,
+      "selected_today": false,
+      "selected_streak": 0,
       "flow_direction": "OUTFLOW",
-      "flow_streak": 1,
+      "flow_streak": 2,
       "quadrant": "量縮＋法人資金流出",
-      "quadrant_streak": 1,
+      "quadrant_streak": 2,
       "last_3": [
-        {
-          "date": "20261008",
-          "selected": false,
-          "quadrant": "量縮＋法人資金流出",
-          "institutional_direction": "OUTFLOW",
-          "institutional_net": -57664,
-          "volume_change_pct": -54.299998187384716,
-          "close": 736.0
-        },
         {
           "date": "20261012",
           "selected": false,
@@ -1356,6 +1347,15 @@
           "institutional_net": -636212,
           "volume_change_pct": -1.7725829857440867,
           "close": 710.0
+        },
+        {
+          "date": "20261014",
+          "selected": false,
+          "quadrant": "量縮＋法人資金流出",
+          "institutional_direction": "OUTFLOW",
+          "institutional_net": -115495,
+          "volume_change_pct": -55.54830606483918,
+          "close": 711.0
         }
       ]
     },
@@ -1367,19 +1367,10 @@
       "selected_today": false,
       "selected_streak": 0,
       "flow_direction": "INFLOW",
-      "flow_streak": 2,
+      "flow_streak": 3,
       "quadrant": "量增＋法人資金流入",
-      "quadrant_streak": 1,
+      "quadrant_streak": 2,
       "last_3": [
-        {
-          "date": "20261008",
-          "selected": false,
-          "quadrant": "量縮＋法人資金流出",
-          "institutional_direction": "OUTFLOW",
-          "institutional_net": -5546,
-          "volume_change_pct": -18.12840580875218,
-          "close": 156.5
-        },
         {
           "date": "20261012",
           "selected": true,
@@ -1397,6 +1388,15 @@
           "institutional_net": 202235,
           "volume_change_pct": 28.42778375163011,
           "close": 158.0
+        },
+        {
+          "date": "20261014",
+          "selected": false,
+          "quadrant": "量增＋法人資金流入",
+          "institutional_direction": "INFLOW",
+          "institutional_net": 322985,
+          "volume_change_pct": 62.55015059493589,
+          "close": 160.5
         }
       ]
     },
@@ -1405,22 +1405,13 @@
       "name": "健策",
       "market": "TWSE",
       "theme": "散熱/伺服器零組件",
-      "selected_today": false,
-      "selected_streak": 0,
-      "flow_direction": "INFLOW",
+      "selected_today": true,
+      "selected_streak": 1,
+      "flow_direction": "OUTFLOW",
       "flow_streak": 1,
-      "quadrant": "量增＋法人資金流入",
+      "quadrant": "量增＋法人資金流出",
       "quadrant_streak": 1,
       "last_3": [
-        {
-          "date": "20261008",
-          "selected": false,
-          "quadrant": "量增＋法人資金流入",
-          "institutional_direction": "INFLOW",
-          "institutional_net": 145617,
-          "volume_change_pct": 59.4669611675865,
-          "close": 7165.0
-        },
         {
           "date": "20261012",
           "selected": false,
@@ -1438,6 +1429,15 @@
           "institutional_net": 43866,
           "volume_change_pct": 38.03533388246656,
           "close": 6990.0
+        },
+        {
+          "date": "20261014",
+          "selected": true,
+          "quadrant": "量增＋法人資金流出",
+          "institutional_direction": "OUTFLOW",
+          "institutional_net": -155548,
+          "volume_change_pct": 21.29939236307592,
+          "close": 7070.0
         }
       ]
     },
@@ -1449,19 +1449,10 @@
       "selected_today": false,
       "selected_streak": 0,
       "flow_direction": "OUTFLOW",
-      "flow_streak": 1,
-      "quadrant": "量增＋法人資金流出",
+      "flow_streak": 2,
+      "quadrant": "量縮＋法人資金流出",
       "quadrant_streak": 1,
       "last_3": [
-        {
-          "date": "20261008",
-          "selected": true,
-          "quadrant": "量增＋法人資金流入",
-          "institutional_direction": "INFLOW",
-          "institutional_net": 849799,
-          "volume_change_pct": 39.24036419391508,
-          "close": 4345.0
-        },
         {
           "date": "20261012",
           "selected": true,
@@ -1479,6 +1470,15 @@
           "institutional_net": -698740,
           "volume_change_pct": 63.719465957937516,
           "close": 4055.0
+        },
+        {
+          "date": "20261014",
+          "selected": false,
+          "quadrant": "量縮＋法人資金流出",
+          "institutional_direction": "OUTFLOW",
+          "institutional_net": -155539,
+          "volume_change_pct": -52.99827982593419,
+          "close": 3940.0
         }
       ]
     },
@@ -1489,20 +1489,11 @@
       "theme": "高速傳輸/連接器",
       "selected_today": false,
       "selected_streak": 0,
-      "flow_direction": "INFLOW",
+      "flow_direction": "OUTFLOW",
       "flow_streak": 1,
-      "quadrant": "量增＋法人資金流入",
+      "quadrant": "量縮＋法人資金流出",
       "quadrant_streak": 1,
       "last_3": [
-        {
-          "date": "20261008",
-          "selected": false,
-          "quadrant": "量增＋法人資金流出",
-          "institutional_direction": "OUTFLOW",
-          "institutional_net": -75984,
-          "volume_change_pct": 5.882537499499874,
-          "close": 2360.0
-        },
         {
           "date": "20261012",
           "selected": false,
@@ -1520,6 +1511,15 @@
           "institutional_net": 64686,
           "volume_change_pct": 8.626263902358255,
           "close": 2260.0
+        },
+        {
+          "date": "20261014",
+          "selected": false,
+          "quadrant": "量縮＋法人資金流出",
+          "institutional_direction": "OUTFLOW",
+          "institutional_net": -476657,
+          "volume_change_pct": -30.784807740327913,
+          "close": 2235.0
         }
       ]
     },
@@ -1530,20 +1530,11 @@
       "theme": "封裝測試",
       "selected_today": false,
       "selected_streak": 0,
-      "flow_direction": "OUTFLOW",
+      "flow_direction": "INFLOW",
       "flow_streak": 1,
-      "quadrant": "量增＋法人資金流出",
+      "quadrant": "量縮＋法人資金流入",
       "quadrant_streak": 1,
       "last_3": [
-        {
-          "date": "20261008",
-          "selected": true,
-          "quadrant": "量增＋法人資金流入",
-          "institutional_direction": "INFLOW",
-          "institutional_net": 1251866,
-          "volume_change_pct": 94.15212382637836,
-          "close": 744.0
-        },
         {
           "date": "20261012",
           "selected": true,
@@ -1561,6 +1552,15 @@
           "institutional_net": -2545988,
           "volume_change_pct": 2.741072200868322,
           "close": 740.0
+        },
+        {
+          "date": "20261014",
+          "selected": false,
+          "quadrant": "量縮＋法人資金流入",
+          "institutional_direction": "INFLOW",
+          "institutional_net": 1116309,
+          "volume_change_pct": -17.398244803446993,
+          "close": 747.0
         }
       ]
     },
@@ -1569,22 +1569,13 @@
       "name": "和碩",
       "market": "TWSE",
       "theme": "ODM",
-      "selected_today": true,
-      "selected_streak": 2,
+      "selected_today": false,
+      "selected_streak": 0,
       "flow_direction": "INFLOW",
-      "flow_streak": 2,
-      "quadrant": "量增＋法人資金流入",
-      "quadrant_streak": 2,
+      "flow_streak": 3,
+      "quadrant": "量縮＋法人資金流入",
+      "quadrant_streak": 1,
       "last_3": [
-        {
-          "date": "20261008",
-          "selected": false,
-          "quadrant": "量增＋法人資金流出",
-          "institutional_direction": "OUTFLOW",
-          "institutional_net": -1294803,
-          "volume_change_pct": 46.46973843312565,
-          "close": 89.7
-        },
         {
           "date": "20261012",
           "selected": true,
@@ -1602,6 +1593,15 @@
           "institutional_net": 16968601,
           "volume_change_pct": 47.17890351463505,
           "close": 102.5
+        },
+        {
+          "date": "20261014",
+          "selected": false,
+          "quadrant": "量縮＋法人資金流入",
+          "institutional_direction": "INFLOW",
+          "institutional_net": 186356,
+          "volume_change_pct": -68.24394070928001,
+          "close": 100.0
         }
       ]
     },
@@ -1610,22 +1610,13 @@
       "name": "譜瑞-KY",
       "market": "TPEx",
       "theme": "高速傳輸IC",
-      "selected_today": false,
-      "selected_streak": 0,
-      "flow_direction": "INFLOW",
+      "selected_today": true,
+      "selected_streak": 1,
+      "flow_direction": "OUTFLOW",
       "flow_streak": 1,
-      "quadrant": "量縮＋法人資金流入",
+      "quadrant": "量增＋法人資金流出",
       "quadrant_streak": 1,
       "last_3": [
-        {
-          "date": "20261008",
-          "selected": false,
-          "quadrant": "量增＋法人資金流出",
-          "institutional_direction": "OUTFLOW",
-          "institutional_net": -183392,
-          "volume_change_pct": 45.238095238095234,
-          "close": 558.0
-        },
         {
           "date": "20261012",
           "selected": false,
@@ -1643,6 +1634,15 @@
           "institutional_net": 53183,
           "volume_change_pct": -27.70919067215364,
           "close": 547.0
+        },
+        {
+          "date": "20261014",
+          "selected": true,
+          "quadrant": "量增＋法人資金流出",
+          "institutional_direction": "OUTFLOW",
+          "institutional_net": -527278,
+          "volume_change_pct": 191.27134724857683,
+          "close": 561.0
         }
       ]
     },
@@ -1651,22 +1651,13 @@
       "name": "華星光",
       "market": "TPEx",
       "theme": "光通訊",
-      "selected_today": false,
-      "selected_streak": 0,
-      "flow_direction": "OUTFLOW",
+      "selected_today": true,
+      "selected_streak": 1,
+      "flow_direction": "INFLOW",
       "flow_streak": 1,
-      "quadrant": "量增＋法人資金流出",
+      "quadrant": "量增＋法人資金流入",
       "quadrant_streak": 1,
       "last_3": [
-        {
-          "date": "20261008",
-          "selected": false,
-          "quadrant": "量縮＋法人資金流出",
-          "institutional_direction": "OUTFLOW",
-          "institutional_net": -441242,
-          "volume_change_pct": -70.36762891685171,
-          "close": 565.0
-        },
         {
           "date": "20261012",
           "selected": false,
@@ -1684,6 +1675,15 @@
           "institutional_net": -534871,
           "volume_change_pct": 110.04228329809726,
           "close": 535.0
+        },
+        {
+          "date": "20261014",
+          "selected": true,
+          "quadrant": "量增＋法人資金流入",
+          "institutional_direction": "INFLOW",
+          "institutional_net": 4282304,
+          "volume_change_pct": 29.516859587317555,
+          "close": 588.0
         }
       ]
     },
@@ -1695,19 +1695,10 @@
       "selected_today": false,
       "selected_streak": 0,
       "flow_direction": "INFLOW",
-      "flow_streak": 3,
+      "flow_streak": 4,
       "quadrant": "量縮＋法人資金流入",
-      "quadrant_streak": 1,
+      "quadrant_streak": 2,
       "last_3": [
-        {
-          "date": "20261008",
-          "selected": false,
-          "quadrant": "量增＋法人資金流入",
-          "institutional_direction": "INFLOW",
-          "institutional_net": 171093,
-          "volume_change_pct": 151.63162406997728,
-          "close": 1490.0
-        },
         {
           "date": "20261012",
           "selected": false,
@@ -1725,6 +1716,15 @@
           "institutional_net": 13969,
           "volume_change_pct": -56.220780379223235,
           "close": 1540.0
+        },
+        {
+          "date": "20261014",
+          "selected": false,
+          "quadrant": "量縮＋法人資金流入",
+          "institutional_direction": "INFLOW",
+          "institutional_net": 82263,
+          "volume_change_pct": -4.996537580567839,
+          "close": 1545.0
         }
       ]
     },
@@ -1735,20 +1735,11 @@
       "theme": "伺服器管理IC",
       "selected_today": false,
       "selected_streak": 0,
-      "flow_direction": "OUTFLOW",
+      "flow_direction": "INFLOW",
       "flow_streak": 1,
-      "quadrant": "量縮＋法人資金流出",
+      "quadrant": "量增＋法人資金流入",
       "quadrant_streak": 1,
       "last_3": [
-        {
-          "date": "20261008",
-          "selected": false,
-          "quadrant": "量增＋法人資金流出",
-          "institutional_direction": "OUTFLOW",
-          "institutional_net": -177185,
-          "volume_change_pct": 151.79704016913317,
-          "close": 17485.0
-        },
         {
           "date": "20261012",
           "selected": false,
@@ -1766,6 +1757,15 @@
           "institutional_net": -11933,
           "volume_change_pct": -4.583333333333329,
           "close": 17350.0
+        },
+        {
+          "date": "20261014",
+          "selected": false,
+          "quadrant": "量增＋法人資金流入",
+          "institutional_direction": "INFLOW",
+          "institutional_net": 8792,
+          "volume_change_pct": 61.572052401746724,
+          "close": 17500.0
         }
       ]
     },
@@ -1777,19 +1777,10 @@
       "selected_today": false,
       "selected_streak": 0,
       "flow_direction": "INFLOW",
-      "flow_streak": 2,
+      "flow_streak": 3,
       "quadrant": "量增＋法人資金流入",
-      "quadrant_streak": 1,
+      "quadrant_streak": 2,
       "last_3": [
-        {
-          "date": "20261008",
-          "selected": false,
-          "quadrant": "量縮＋法人資金流出",
-          "institutional_direction": "OUTFLOW",
-          "institutional_net": -716646,
-          "volume_change_pct": -61.17703838057056,
-          "close": 73.0
-        },
         {
           "date": "20261012",
           "selected": true,
@@ -1807,6 +1798,15 @@
           "institutional_net": 211097,
           "volume_change_pct": 2.474111286768066,
           "close": 73.5
+        },
+        {
+          "date": "20261014",
+          "selected": false,
+          "quadrant": "量增＋法人資金流入",
+          "institutional_direction": "INFLOW",
+          "institutional_net": 1198906,
+          "volume_change_pct": 31.962207741796945,
+          "close": 75.2
         }
       ]
     },
@@ -1817,20 +1817,11 @@
       "theme": "半導體設備",
       "selected_today": false,
       "selected_streak": 0,
-      "flow_direction": "INFLOW",
-      "flow_streak": 2,
-      "quadrant": "量增＋法人資金流入",
-      "quadrant_streak": 2,
+      "flow_direction": "OUTFLOW",
+      "flow_streak": 1,
+      "quadrant": "量縮＋法人資金流出",
+      "quadrant_streak": 1,
       "last_3": [
-        {
-          "date": "20261008",
-          "selected": false,
-          "quadrant": "量增＋法人資金流出",
-          "institutional_direction": "OUTFLOW",
-          "institutional_net": -171929,
-          "volume_change_pct": 25.325493490130203,
-          "close": 1525.0
-        },
         {
           "date": "20261012",
           "selected": true,
@@ -1848,6 +1839,15 @@
           "institutional_net": 233670,
           "volume_change_pct": 38.602442333785625,
           "close": 1600.0
+        },
+        {
+          "date": "20261014",
+          "selected": false,
+          "quadrant": "量縮＋法人資金流出",
+          "institutional_direction": "OUTFLOW",
+          "institutional_net": -53939,
+          "volume_change_pct": -44.71961168216675,
+          "close": 1540.0
         }
       ]
     },
@@ -1857,21 +1857,12 @@
       "market": "TWSE",
       "theme": "光學/機器視覺",
       "selected_today": true,
-      "selected_streak": 1,
-      "flow_direction": "INFLOW",
+      "selected_streak": 2,
+      "flow_direction": "OUTFLOW",
       "flow_streak": 1,
-      "quadrant": "量縮＋法人資金流入",
+      "quadrant": "量增＋法人資金流出",
       "quadrant_streak": 1,
       "last_3": [
-        {
-          "date": "20261008",
-          "selected": true,
-          "quadrant": "量縮＋法人資金流出",
-          "institutional_direction": "OUTFLOW",
-          "institutional_net": -1481696,
-          "volume_change_pct": -26.327122590822793,
-          "close": 90.1
-        },
         {
           "date": "20261012",
           "selected": false,
@@ -1889,6 +1880,15 @@
           "institutional_net": 3810085,
           "volume_change_pct": -25.501533410067278,
           "close": 91.1
+        },
+        {
+          "date": "20261014",
+          "selected": true,
+          "quadrant": "量增＋法人資金流出",
+          "institutional_direction": "OUTFLOW",
+          "institutional_net": -5477571,
+          "volume_change_pct": 11.59698892737222,
+          "close": 89.8
         }
       ]
     },
@@ -1899,20 +1899,11 @@
       "theme": "CCL",
       "selected_today": false,
       "selected_streak": 0,
-      "flow_direction": "OUTFLOW",
-      "flow_streak": 2,
-      "quadrant": "量增＋法人資金流出",
+      "flow_direction": "INFLOW",
+      "flow_streak": 1,
+      "quadrant": "量縮＋法人資金流入",
       "quadrant_streak": 1,
       "last_3": [
-        {
-          "date": "20261008",
-          "selected": true,
-          "quadrant": "量縮＋法人資金流入",
-          "institutional_direction": "INFLOW",
-          "institutional_net": 1119443,
-          "volume_change_pct": -67.27021386374736,
-          "close": 806.0
-        },
         {
           "date": "20261012",
           "selected": false,
@@ -1930,6 +1921,15 @@
           "institutional_net": -495436,
           "volume_change_pct": 131.93199136739358,
           "close": 795.0
+        },
+        {
+          "date": "20261014",
+          "selected": false,
+          "quadrant": "量縮＋法人資金流入",
+          "institutional_direction": "INFLOW",
+          "institutional_net": 306309,
+          "volume_change_pct": -39.03957993452251,
+          "close": 856.0
         }
       ]
     },
@@ -1940,20 +1940,11 @@
       "theme": "半導體測試",
       "selected_today": false,
       "selected_streak": 0,
-      "flow_direction": "INFLOW",
-      "flow_streak": 3,
-      "quadrant": "量增＋法人資金流入",
-      "quadrant_streak": 2,
+      "flow_direction": "OUTFLOW",
+      "flow_streak": 1,
+      "quadrant": "量縮＋法人資金流出",
+      "quadrant_streak": 1,
       "last_3": [
-        {
-          "date": "20261008",
-          "selected": false,
-          "quadrant": "量縮＋法人資金流入",
-          "institutional_direction": "INFLOW",
-          "institutional_net": 119887,
-          "volume_change_pct": -39.28571428571429,
-          "close": 5575.0
-        },
         {
           "date": "20261012",
           "selected": false,
@@ -1971,6 +1962,15 @@
           "institutional_net": 176403,
           "volume_change_pct": 16.241299303944313,
           "close": 5940.0
+        },
+        {
+          "date": "20261014",
+          "selected": false,
+          "quadrant": "量縮＋法人資金流出",
+          "institutional_direction": "OUTFLOW",
+          "institutional_net": -172581,
+          "volume_change_pct": -34.198270126413846,
+          "close": 5885.0
         }
       ]
     },
@@ -1979,22 +1979,13 @@
       "name": "台燿",
       "market": "TPEx",
       "theme": "CCL/高速材料",
-      "selected_today": false,
-      "selected_streak": 0,
-      "flow_direction": "OUTFLOW",
-      "flow_streak": 2,
-      "quadrant": "量增＋法人資金流出",
+      "selected_today": true,
+      "selected_streak": 1,
+      "flow_direction": "INFLOW",
+      "flow_streak": 1,
+      "quadrant": "量縮＋法人資金流入",
       "quadrant_streak": 1,
       "last_3": [
-        {
-          "date": "20261008",
-          "selected": true,
-          "quadrant": "量縮＋法人資金流入",
-          "institutional_direction": "INFLOW",
-          "institutional_net": 1128657,
-          "volume_change_pct": -35.21806726127158,
-          "close": 1740.0
-        },
         {
           "date": "20261012",
           "selected": false,
@@ -2012,6 +2003,15 @@
           "institutional_net": -105424,
           "volume_change_pct": 141.42753797926213,
           "close": 1655.0
+        },
+        {
+          "date": "20261014",
+          "selected": true,
+          "quadrant": "量縮＋法人資金流入",
+          "institutional_direction": "INFLOW",
+          "institutional_net": 1677661,
+          "volume_change_pct": -2.85657211346384,
+          "close": 1735.0
         }
       ]
     },
@@ -2022,20 +2022,11 @@
       "theme": "網通",
       "selected_today": false,
       "selected_streak": 0,
-      "flow_direction": "OUTFLOW",
-      "flow_streak": 2,
-      "quadrant": "量增＋法人資金流出",
-      "quadrant_streak": 2,
+      "flow_direction": "INFLOW",
+      "flow_streak": 1,
+      "quadrant": "量縮＋法人資金流入",
+      "quadrant_streak": 1,
       "last_3": [
-        {
-          "date": "20261008",
-          "selected": false,
-          "quadrant": "量縮＋法人資金流入",
-          "institutional_direction": "INFLOW",
-          "institutional_net": 246896,
-          "volume_change_pct": -69.26169653956057,
-          "close": 256.5
-        },
         {
           "date": "20261012",
           "selected": false,
@@ -2053,6 +2044,15 @@
           "institutional_net": -6187629,
           "volume_change_pct": 38.4329020057663,
           "close": 246.5
+        },
+        {
+          "date": "20261014",
+          "selected": false,
+          "quadrant": "量縮＋法人資金流入",
+          "institutional_direction": "INFLOW",
+          "institutional_net": 1306748,
+          "volume_change_pct": -61.523248590541456,
+          "close": 253.0
         }
       ]
     },
@@ -2063,20 +2063,11 @@
       "theme": "電源",
       "selected_today": false,
       "selected_streak": 0,
-      "flow_direction": "OUTFLOW",
-      "flow_streak": 6,
-      "quadrant": "量縮＋法人資金流出",
-      "quadrant_streak": 2,
+      "flow_direction": "INFLOW",
+      "flow_streak": 1,
+      "quadrant": "量增＋法人資金流入",
+      "quadrant_streak": 1,
       "last_3": [
-        {
-          "date": "20261008",
-          "selected": false,
-          "quadrant": "量增＋法人資金流出",
-          "institutional_direction": "OUTFLOW",
-          "institutional_net": -446349,
-          "volume_change_pct": 11.29748450887844,
-          "close": 73.0
-        },
         {
           "date": "20261012",
           "selected": false,
@@ -2094,6 +2085,15 @@
           "institutional_net": -80030,
           "volume_change_pct": -5.308605492433893,
           "close": 73.0
+        },
+        {
+          "date": "20261014",
+          "selected": false,
+          "quadrant": "量增＋法人資金流入",
+          "institutional_direction": "INFLOW",
+          "institutional_net": 147997,
+          "volume_change_pct": 13.338010920587905,
+          "close": 74.3
         }
       ]
     },
@@ -2104,20 +2104,11 @@
       "theme": "光通訊",
       "selected_today": false,
       "selected_streak": 0,
-      "flow_direction": "INFLOW",
+      "flow_direction": "OUTFLOW",
       "flow_streak": 1,
-      "quadrant": "量增＋法人資金流入",
+      "quadrant": "量縮＋法人資金流出",
       "quadrant_streak": 1,
       "last_3": [
-        {
-          "date": "20261008",
-          "selected": false,
-          "quadrant": "量縮＋法人資金流出",
-          "institutional_direction": "OUTFLOW",
-          "institutional_net": -23811,
-          "volume_change_pct": -7.021942644620383,
-          "close": 1785.0
-        },
         {
           "date": "20261012",
           "selected": false,
@@ -2135,6 +2126,15 @@
           "institutional_net": 579542,
           "volume_change_pct": 10.142861024242599,
           "close": 1630.0
+        },
+        {
+          "date": "20261014",
+          "selected": false,
+          "quadrant": "量縮＋法人資金流出",
+          "institutional_direction": "OUTFLOW",
+          "institutional_net": -197874,
+          "volume_change_pct": -58.52799470425314,
+          "close": 1640.0
         }
       ]
     },
@@ -2145,20 +2145,11 @@
       "theme": "高速傳輸/封裝",
       "selected_today": false,
       "selected_streak": 0,
-      "flow_direction": "OUTFLOW",
-      "flow_streak": 3,
-      "quadrant": "量增＋法人資金流出",
+      "flow_direction": "INFLOW",
+      "flow_streak": 1,
+      "quadrant": "量縮＋法人資金流入",
       "quadrant_streak": 1,
       "last_3": [
-        {
-          "date": "20261008",
-          "selected": false,
-          "quadrant": "量縮＋法人資金流出",
-          "institutional_direction": "OUTFLOW",
-          "institutional_net": -167243,
-          "volume_change_pct": -38.347719594511375,
-          "close": 420.5
-        },
         {
           "date": "20261012",
           "selected": false,
@@ -2176,6 +2167,15 @@
           "institutional_net": -317701,
           "volume_change_pct": 229.89693560171375,
           "close": 379.0
+        },
+        {
+          "date": "20261014",
+          "selected": false,
+          "quadrant": "量縮＋法人資金流入",
+          "institutional_direction": "INFLOW",
+          "institutional_net": 67833,
+          "volume_change_pct": -54.79432128587798,
+          "close": 389.5
         }
       ]
     },
@@ -2187,19 +2187,10 @@
       "selected_today": false,
       "selected_streak": 0,
       "flow_direction": "OUTFLOW",
-      "flow_streak": 1,
-      "quadrant": "量增＋法人資金流出",
+      "flow_streak": 2,
+      "quadrant": "量縮＋法人資金流出",
       "quadrant_streak": 1,
       "last_3": [
-        {
-          "date": "20261008",
-          "selected": false,
-          "quadrant": "量增＋法人資金流出",
-          "institutional_direction": "OUTFLOW",
-          "institutional_net": -2285808,
-          "volume_change_pct": 50.41998393104961,
-          "close": 1130.0
-        },
         {
           "date": "20261012",
           "selected": false,
@@ -2217,6 +2208,15 @@
           "institutional_net": -3405351,
           "volume_change_pct": 59.063734927550925,
           "close": 1015.0
+        },
+        {
+          "date": "20261014",
+          "selected": false,
+          "quadrant": "量縮＋法人資金流出",
+          "institutional_direction": "OUTFLOW",
+          "institutional_net": -944743,
+          "volume_change_pct": -30.570773346923175,
+          "close": 1020.0
         }
       ]
     },
@@ -2228,19 +2228,10 @@
       "selected_today": false,
       "selected_streak": 0,
       "flow_direction": "OUTFLOW",
-      "flow_streak": 1,
-      "quadrant": "量縮＋法人資金流出",
+      "flow_streak": 2,
+      "quadrant": "量增＋法人資金流出",
       "quadrant_streak": 1,
       "last_3": [
-        {
-          "date": "20261008",
-          "selected": false,
-          "quadrant": "量增＋法人資金流入",
-          "institutional_direction": "INFLOW",
-          "institutional_net": 358846,
-          "volume_change_pct": 261.4250614250614,
-          "close": 3320.0
-        },
         {
           "date": "20261012",
           "selected": false,
@@ -2258,6 +2249,15 @@
           "institutional_net": -34776,
           "volume_change_pct": -69.62095875139353,
           "close": 3275.0
+        },
+        {
+          "date": "20261014",
+          "selected": false,
+          "quadrant": "量增＋法人資金流出",
+          "institutional_direction": "OUTFLOW",
+          "institutional_net": -44528,
+          "volume_change_pct": 25.137614678899077,
+          "close": 3225.0
         }
       ]
     },
@@ -2269,19 +2269,10 @@
       "selected_today": false,
       "selected_streak": 0,
       "flow_direction": "OUTFLOW",
-      "flow_streak": 6,
-      "quadrant": "量增＋法人資金流出",
-      "quadrant_streak": 3,
+      "flow_streak": 7,
+      "quadrant": "量縮＋法人資金流出",
+      "quadrant_streak": 1,
       "last_3": [
-        {
-          "date": "20261008",
-          "selected": false,
-          "quadrant": "量增＋法人資金流出",
-          "institutional_direction": "OUTFLOW",
-          "institutional_net": -1228706,
-          "volume_change_pct": 1.900452772001171,
-          "close": 980.0
-        },
         {
           "date": "20261012",
           "selected": false,
@@ -2299,6 +2290,15 @@
           "institutional_net": -2230940,
           "volume_change_pct": 64.76709742428659,
           "close": 926.0
+        },
+        {
+          "date": "20261014",
+          "selected": false,
+          "quadrant": "量縮＋法人資金流出",
+          "institutional_direction": "OUTFLOW",
+          "institutional_net": -839572,
+          "volume_change_pct": -46.4033664323269,
+          "close": 923.0
         }
       ]
     },
@@ -2307,22 +2307,13 @@
       "name": "緯穎",
       "market": "TWSE",
       "theme": "AI伺服器/ODM",
-      "selected_today": false,
-      "selected_streak": 0,
+      "selected_today": true,
+      "selected_streak": 1,
       "flow_direction": "OUTFLOW",
-      "flow_streak": 5,
-      "quadrant": "量縮＋法人資金流出",
+      "flow_streak": 6,
+      "quadrant": "量增＋法人資金流出",
       "quadrant_streak": 1,
       "last_3": [
-        {
-          "date": "20261008",
-          "selected": false,
-          "quadrant": "量縮＋法人資金流出",
-          "institutional_direction": "OUTFLOW",
-          "institutional_net": -210650,
-          "volume_change_pct": -32.88741216841876,
-          "close": 2240.0
-        },
         {
           "date": "20261012",
           "selected": false,
@@ -2340,6 +2331,15 @@
           "institutional_net": -140658,
           "volume_change_pct": -0.06248573620433184,
           "close": 2195.0
+        },
+        {
+          "date": "20261014",
+          "selected": true,
+          "quadrant": "量增＋法人資金流出",
+          "institutional_direction": "OUTFLOW",
+          "institutional_net": -655722,
+          "volume_change_pct": 157.25016043906308,
+          "close": 2115.0
         }
       ]
     },
@@ -2349,21 +2349,12 @@
       "market": "TWSE",
       "theme": "晶圓代工/記憶體",
       "selected_today": true,
-      "selected_streak": 9,
-      "flow_direction": "OUTFLOW",
-      "flow_streak": 6,
-      "quadrant": "量增＋法人資金流出",
+      "selected_streak": 10,
+      "flow_direction": "INFLOW",
+      "flow_streak": 1,
+      "quadrant": "量縮＋法人資金流入",
       "quadrant_streak": 1,
       "last_3": [
-        {
-          "date": "20261008",
-          "selected": true,
-          "quadrant": "量增＋法人資金流出",
-          "institutional_direction": "OUTFLOW",
-          "institutional_net": -23400572,
-          "volume_change_pct": 23.421245483573692,
-          "close": 72.2
-        },
         {
           "date": "20261012",
           "selected": true,
@@ -2381,6 +2372,15 @@
           "institutional_net": -107314138,
           "volume_change_pct": 232.56241779564758,
           "close": 67.5
+        },
+        {
+          "date": "20261014",
+          "selected": true,
+          "quadrant": "量縮＋法人資金流入",
+          "institutional_direction": "INFLOW",
+          "institutional_net": 19567777,
+          "volume_change_pct": -39.45099141262113,
+          "close": 71.0
         }
       ]
     },
@@ -2392,19 +2392,10 @@
       "selected_today": false,
       "selected_streak": 0,
       "flow_direction": "INFLOW",
-      "flow_streak": 1,
-      "quadrant": "量增＋法人資金流入",
+      "flow_streak": 2,
+      "quadrant": "量縮＋法人資金流入",
       "quadrant_streak": 1,
       "last_3": [
-        {
-          "date": "20261008",
-          "selected": false,
-          "quadrant": "量縮＋法人資金流入",
-          "institutional_direction": "INFLOW",
-          "institutional_net": 313115,
-          "volume_change_pct": -39.754944706065544,
-          "close": 1475.0
-        },
         {
           "date": "20261012",
           "selected": false,
@@ -2422,6 +2413,15 @@
           "institutional_net": 745827,
           "volume_change_pct": 13.104351748664754,
           "close": 1440.0
+        },
+        {
+          "date": "20261014",
+          "selected": false,
+          "quadrant": "量縮＋法人資金流入",
+          "institutional_direction": "INFLOW",
+          "institutional_net": 294798,
+          "volume_change_pct": -5.424910332252009,
+          "close": 1430.0
         }
       ]
     },
@@ -2432,20 +2432,11 @@
       "theme": "伺服器機殼",
       "selected_today": false,
       "selected_streak": 0,
-      "flow_direction": "OUTFLOW",
-      "flow_streak": 9,
-      "quadrant": "量增＋法人資金流出",
-      "quadrant_streak": 2,
+      "flow_direction": "INFLOW",
+      "flow_streak": 1,
+      "quadrant": "量縮＋法人資金流入",
+      "quadrant_streak": 1,
       "last_3": [
-        {
-          "date": "20261008",
-          "selected": false,
-          "quadrant": "量縮＋法人資金流出",
-          "institutional_direction": "OUTFLOW",
-          "institutional_net": -456109,
-          "volume_change_pct": -37.19818427857105,
-          "close": 874.0
-        },
         {
           "date": "20261012",
           "selected": false,
@@ -2463,6 +2454,15 @@
           "institutional_net": -353446,
           "volume_change_pct": 15.920535082686825,
           "close": 838.0
+        },
+        {
+          "date": "20261014",
+          "selected": false,
+          "quadrant": "量縮＋法人資金流入",
+          "institutional_direction": "INFLOW",
+          "institutional_net": 282582,
+          "volume_change_pct": -42.39261296541903,
+          "close": 853.0
         }
       ]
     },
@@ -2474,19 +2474,10 @@
       "selected_today": false,
       "selected_streak": 0,
       "flow_direction": "OUTFLOW",
-      "flow_streak": 5,
-      "quadrant": "量增＋法人資金流出",
+      "flow_streak": 6,
+      "quadrant": "量縮＋法人資金流出",
       "quadrant_streak": 1,
       "last_3": [
-        {
-          "date": "20261008",
-          "selected": false,
-          "quadrant": "量增＋法人資金流出",
-          "institutional_direction": "OUTFLOW",
-          "institutional_net": -218305,
-          "volume_change_pct": 25.98647125140925,
-          "close": 2060.0
-        },
         {
           "date": "20261012",
           "selected": false,
@@ -2503,6 +2494,15 @@
           "institutional_direction": "OUTFLOW",
           "institutional_net": -1273924,
           "volume_change_pct": 168.31683168316835,
+          "close": 1965.0
+        },
+        {
+          "date": "20261014",
+          "selected": false,
+          "quadrant": "量縮＋法人資金流出",
+          "institutional_direction": "OUTFLOW",
+          "institutional_net": -18350,
+          "volume_change_pct": -67.65682656826569,
           "close": 1965.0
         }
       ]

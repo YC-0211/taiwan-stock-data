@@ -6,10 +6,10 @@
     5,
     10
   ],
-  "snapshot_count": 10,
+  "snapshot_count": 11,
   "first_target_date": "20260930",
-  "latest_target_date": "20261014",
-  "record_count": 610,
+  "latest_target_date": "20261015",
+  "record_count": 671,
   "records": [
     {
       "d0_date": "20260930",
@@ -36,7 +36,11 @@
         "close": 300.0,
         "return_pct": 7.3345
       },
-      "d_plus_10": null
+      "d_plus_10": {
+        "date": "20261015",
+        "close": 268.0,
+        "return_pct": -4.1145
+      }
     },
     {
       "d0_date": "20260930",
@@ -63,7 +67,11 @@
         "close": 148.5,
         "return_pct": -3.8835
       },
-      "d_plus_10": null
+      "d_plus_10": {
+        "date": "20261015",
+        "close": 133.5,
+        "return_pct": -13.5922
+      }
     },
     {
       "d0_date": "20260930",
@@ -90,7 +98,11 @@
         "close": 1990.0,
         "return_pct": 5.291
       },
-      "d_plus_10": null
+      "d_plus_10": {
+        "date": "20261015",
+        "close": 1630.0,
+        "return_pct": -13.7566
+      }
     },
     {
       "d0_date": "20260930",
@@ -117,7 +129,11 @@
         "close": 252.0,
         "return_pct": 0.1988
       },
-      "d_plus_10": null
+      "d_plus_10": {
+        "date": "20261015",
+        "close": 239.5,
+        "return_pct": -4.7714
+      }
     },
     {
       "d0_date": "20260930",
@@ -144,7 +160,11 @@
         "close": 36.1,
         "return_pct": -2.6954
       },
-      "d_plus_10": null
+      "d_plus_10": {
+        "date": "20261015",
+        "close": 36.0,
+        "return_pct": -2.965
+      }
     },
     {
       "d0_date": "20260930",
@@ -171,7 +191,11 @@
         "close": 2585.0,
         "return_pct": 4.2339
       },
-      "d_plus_10": null
+      "d_plus_10": {
+        "date": "20261015",
+        "close": 2440.0,
+        "return_pct": -1.6129
+      }
     },
     {
       "d0_date": "20260930",
@@ -198,7 +222,11 @@
         "close": 179.5,
         "return_pct": 0.0
       },
-      "d_plus_10": null
+      "d_plus_10": {
+        "date": "20261015",
+        "close": 155.0,
+        "return_pct": -13.649
+      }
     },
     {
       "d0_date": "20260930",
@@ -225,7 +253,11 @@
         "close": 2015.0,
         "return_pct": 13.5211
       },
-      "d_plus_10": null
+      "d_plus_10": {
+        "date": "20261015",
+        "close": 1950.0,
+        "return_pct": 9.8592
+      }
     },
     {
       "d0_date": "20260930",
@@ -252,7 +284,11 @@
         "close": 58.1,
         "return_pct": -2.3529
       },
-      "d_plus_10": null
+      "d_plus_10": {
+        "date": "20261015",
+        "close": 57.6,
+        "return_pct": -3.1933
+      }
     },
     {
       "d0_date": "20260930",
@@ -279,7 +315,11 @@
         "close": 1245.0,
         "return_pct": 11.1607
       },
-      "d_plus_10": null
+      "d_plus_10": {
+        "date": "20261015",
+        "close": 1190.0,
+        "return_pct": 6.25
+      }
     },
     {
       "d0_date": "20260930",
@@ -306,7 +346,11 @@
         "close": 741.0,
         "return_pct": -2.5
       },
-      "d_plus_10": null
+      "d_plus_10": {
+        "date": "20261015",
+        "close": 764.0,
+        "return_pct": 0.5263
+      }
     },
     {
       "d0_date": "20260930",
@@ -333,7 +377,11 @@
         "close": 335.0,
         "return_pct": 0.4498
       },
-      "d_plus_10": null
+      "d_plus_10": {
+        "date": "20261015",
+        "close": 316.5,
+        "return_pct": -5.0975
+      }
     },
     {
       "d0_date": "20260930",
@@ -360,7 +408,11 @@
         "close": 5950.0,
         "return_pct": 20.5674
       },
-      "d_plus_10": null
+      "d_plus_10": {
+        "date": "20261015",
+        "close": 5120.0,
+        "return_pct": 3.7487
+      }
     },
     {
       "d0_date": "20260930",
@@ -387,7 +439,11 @@
         "close": 514.0,
         "return_pct": -0.9634
       },
-      "d_plus_10": null
+      "d_plus_10": {
+        "date": "20261015",
+        "close": 439.5,
+        "return_pct": -15.3179
+      }
     },
     {
       "d0_date": "20260930",
@@ -414,7 +470,11 @@
         "close": 171.5,
         "return_pct": 6.8536
       },
-      "d_plus_10": null
+      "d_plus_10": {
+        "date": "20261015",
+        "close": 164.0,
+        "return_pct": 2.1807
+      }
     },
     {
       "d0_date": "20260930",
@@ -441,7 +501,11 @@
         "close": 4835.0,
         "return_pct": -1.7276
       },
-      "d_plus_10": null
+      "d_plus_10": {
+        "date": "20261015",
+        "close": 4165.0,
+        "return_pct": -15.3455
+      }
     },
     {
       "d0_date": "20260930",
@@ -468,7 +532,11 @@
         "close": 96.3,
         "return_pct": 10.9447
       },
-      "d_plus_10": null
+      "d_plus_10": {
+        "date": "20261015",
+        "close": 94.7,
+        "return_pct": 9.1014
+      }
     },
     {
       "d0_date": "20260930",
@@ -495,7 +563,11 @@
         "close": 3545.0,
         "return_pct": 3.2023
       },
-      "d_plus_10": null
+      "d_plus_10": {
+        "date": "20261015",
+        "close": 3085.0,
+        "return_pct": -10.1892
+      }
     },
     {
       "d0_date": "20260930",
@@ -522,7 +594,11 @@
         "close": 529.0,
         "return_pct": -3.1136
       },
-      "d_plus_10": null
+      "d_plus_10": {
+        "date": "20261015",
+        "close": 565.0,
+        "return_pct": 3.4799
+      }
     },
     {
       "d0_date": "20260930",
@@ -549,7 +625,11 @@
         "close": 209.0,
         "return_pct": -0.7126
       },
-      "d_plus_10": null
+      "d_plus_10": {
+        "date": "20261015",
+        "close": 197.5,
+        "return_pct": -6.1758
+      }
     },
     {
       "d0_date": "20260930",
@@ -576,7 +656,11 @@
         "close": 1305.0,
         "return_pct": 11.0638
       },
-      "d_plus_10": null
+      "d_plus_10": {
+        "date": "20261015",
+        "close": 1075.0,
+        "return_pct": -8.5106
+      }
     },
     {
       "d0_date": "20260930",
@@ -603,7 +687,11 @@
         "close": 3140.0,
         "return_pct": 16.5121
       },
-      "d_plus_10": null
+      "d_plus_10": {
+        "date": "20261015",
+        "close": 2640.0,
+        "return_pct": -2.0408
+      }
     },
     {
       "d0_date": "20260930",
@@ -630,7 +718,11 @@
         "close": 2450.0,
         "return_pct": -2.9703
       },
-      "d_plus_10": null
+      "d_plus_10": {
+        "date": "20261015",
+        "close": 2140.0,
+        "return_pct": -15.2475
+      }
     },
     {
       "d0_date": "20260930",
@@ -657,7 +749,11 @@
         "close": 83.1,
         "return_pct": -2.6932
       },
-      "d_plus_10": null
+      "d_plus_10": {
+        "date": "20261015",
+        "close": 76.4,
+        "return_pct": -10.5386
+      }
     },
     {
       "d0_date": "20260930",
@@ -684,7 +780,11 @@
         "close": 702.0,
         "return_pct": 9.1757
       },
-      "d_plus_10": null
+      "d_plus_10": {
+        "date": "20261015",
+        "close": 604.0,
+        "return_pct": -6.0653
+      }
     },
     {
       "d0_date": "20260930",
@@ -711,7 +811,11 @@
         "close": 185.0,
         "return_pct": 0.271
       },
-      "d_plus_10": null
+      "d_plus_10": {
+        "date": "20261015",
+        "close": 176.0,
+        "return_pct": -4.607
+      }
     },
     {
       "d0_date": "20260930",
@@ -738,7 +842,11 @@
         "close": 1525.0,
         "return_pct": -0.3268
       },
-      "d_plus_10": null
+      "d_plus_10": {
+        "date": "20261015",
+        "close": 1410.0,
+        "return_pct": -7.8431
+      }
     },
     {
       "d0_date": "20260930",
@@ -765,7 +873,11 @@
         "close": 679.0,
         "return_pct": 4.6225
       },
-      "d_plus_10": null
+      "d_plus_10": {
+        "date": "20261015",
+        "close": 520.0,
+        "return_pct": -19.8767
+      }
     },
     {
       "d0_date": "20260930",
@@ -792,7 +904,11 @@
         "close": 8460.0,
         "return_pct": 5.2239
       },
-      "d_plus_10": null
+      "d_plus_10": {
+        "date": "20261015",
+        "close": 7670.0,
+        "return_pct": -4.602
+      }
     },
     {
       "d0_date": "20260930",
@@ -819,7 +935,11 @@
         "close": 52.5,
         "return_pct": -4.0219
       },
-      "d_plus_10": null
+      "d_plus_10": {
+        "date": "20261015",
+        "close": 48.3,
+        "return_pct": -11.7002
+      }
     },
     {
       "d0_date": "20260930",
@@ -846,7 +966,11 @@
         "close": 3015.0,
         "return_pct": -8.7746
       },
-      "d_plus_10": null
+      "d_plus_10": {
+        "date": "20261015",
+        "close": 2655.0,
+        "return_pct": -19.6672
+      }
     },
     {
       "d0_date": "20260930",
@@ -873,7 +997,11 @@
         "close": 1825.0,
         "return_pct": 3.1073
       },
-      "d_plus_10": null
+      "d_plus_10": {
+        "date": "20261015",
+        "close": 1815.0,
+        "return_pct": 2.5424
+      }
     },
     {
       "d0_date": "20260930",
@@ -900,7 +1028,11 @@
         "close": 743.0,
         "return_pct": 5.0919
       },
-      "d_plus_10": null
+      "d_plus_10": {
+        "date": "20261015",
+        "close": 653.0,
+        "return_pct": -7.6379
+      }
     },
     {
       "d0_date": "20260930",
@@ -927,7 +1059,11 @@
         "close": 157.0,
         "return_pct": 2.6144
       },
-      "d_plus_10": null
+      "d_plus_10": {
+        "date": "20261015",
+        "close": 158.5,
+        "return_pct": 3.5948
+      }
     },
     {
       "d0_date": "20260930",
@@ -954,7 +1090,11 @@
         "close": 6805.0,
         "return_pct": 0.0735
       },
-      "d_plus_10": null
+      "d_plus_10": {
+        "date": "20261015",
+        "close": 6765.0,
+        "return_pct": -0.5147
+      }
     },
     {
       "d0_date": "20260930",
@@ -981,7 +1121,11 @@
         "close": 4190.0,
         "return_pct": 12.0321
       },
-      "d_plus_10": null
+      "d_plus_10": {
+        "date": "20261015",
+        "close": 3705.0,
+        "return_pct": -0.9358
+      }
     },
     {
       "d0_date": "20260930",
@@ -1008,7 +1152,11 @@
         "close": 2315.0,
         "return_pct": -10.79
       },
-      "d_plus_10": null
+      "d_plus_10": {
+        "date": "20261015",
+        "close": 2015.0,
+        "return_pct": -22.3507
+      }
     },
     {
       "d0_date": "20260930",
@@ -1035,7 +1183,11 @@
         "close": 732.0,
         "return_pct": 4.1252
       },
-      "d_plus_10": null
+      "d_plus_10": {
+        "date": "20261015",
+        "close": 673.0,
+        "return_pct": -4.2674
+      }
     },
     {
       "d0_date": "20260930",
@@ -1062,7 +1214,11 @@
         "close": 90.0,
         "return_pct": 0.2227
       },
-      "d_plus_10": null
+      "d_plus_10": {
+        "date": "20261015",
+        "close": 98.1,
+        "return_pct": 9.2428
+      }
     },
     {
       "d0_date": "20260930",
@@ -1089,7 +1245,11 @@
         "close": 568.0,
         "return_pct": -0.5254
       },
-      "d_plus_10": null
+      "d_plus_10": {
+        "date": "20261015",
+        "close": 538.0,
+        "return_pct": -5.7793
+      }
     },
     {
       "d0_date": "20260930",
@@ -1116,7 +1276,11 @@
         "close": 579.0,
         "return_pct": 1.7575
       },
-      "d_plus_10": null
+      "d_plus_10": {
+        "date": "20261015",
+        "close": 542.0,
+        "return_pct": -4.7452
+      }
     },
     {
       "d0_date": "20260930",
@@ -1143,7 +1307,11 @@
         "close": 1455.0,
         "return_pct": -0.3425
       },
-      "d_plus_10": null
+      "d_plus_10": {
+        "date": "20261015",
+        "close": 1495.0,
+        "return_pct": 2.3973
+      }
     },
     {
       "d0_date": "20260930",
@@ -1170,7 +1338,11 @@
         "close": 17750.0,
         "return_pct": -5.3333
       },
-      "d_plus_10": null
+      "d_plus_10": {
+        "date": "20261015",
+        "close": 15945.0,
+        "return_pct": -14.96
+      }
     },
     {
       "d0_date": "20260930",
@@ -1197,7 +1369,11 @@
         "close": 74.0,
         "return_pct": 3.4965
       },
-      "d_plus_10": null
+      "d_plus_10": {
+        "date": "20261015",
+        "close": 74.8,
+        "return_pct": 4.6154
+      }
     },
     {
       "d0_date": "20260930",
@@ -1224,7 +1400,11 @@
         "close": 1535.0,
         "return_pct": 17.1756
       },
-      "d_plus_10": null
+      "d_plus_10": {
+        "date": "20261015",
+        "close": 1390.0,
+        "return_pct": 6.1069
+      }
     },
     {
       "d0_date": "20260930",
@@ -1251,7 +1431,11 @@
         "close": 90.9,
         "return_pct": 11.2607
       },
-      "d_plus_10": null
+      "d_plus_10": {
+        "date": "20261015",
+        "close": 93.0,
+        "return_pct": 13.8311
+      }
     },
     {
       "d0_date": "20260930",
@@ -1278,7 +1462,11 @@
         "close": 796.0,
         "return_pct": 27.7689
       },
-      "d_plus_10": null
+      "d_plus_10": {
+        "date": "20261015",
+        "close": 799.0,
+        "return_pct": 28.2504
+      }
     },
     {
       "d0_date": "20260930",
@@ -1305,7 +1493,11 @@
         "close": 5530.0,
         "return_pct": 7.9024
       },
-      "d_plus_10": null
+      "d_plus_10": {
+        "date": "20261015",
+        "close": 5300.0,
+        "return_pct": 3.4146
+      }
     },
     {
       "d0_date": "20260930",
@@ -1332,7 +1524,11 @@
         "close": 1720.0,
         "return_pct": 13.1579
       },
-      "d_plus_10": null
+      "d_plus_10": {
+        "date": "20261015",
+        "close": 1625.0,
+        "return_pct": 6.9079
+      }
     },
     {
       "d0_date": "20260930",
@@ -1359,7 +1555,11 @@
         "close": 257.5,
         "return_pct": 9.1102
       },
-      "d_plus_10": null
+      "d_plus_10": {
+        "date": "20261015",
+        "close": 241.0,
+        "return_pct": 2.1186
+      }
     },
     {
       "d0_date": "20260930",
@@ -1386,7 +1586,11 @@
         "close": 74.0,
         "return_pct": -1.0695
       },
-      "d_plus_10": null
+      "d_plus_10": {
+        "date": "20261015",
+        "close": 74.2,
+        "return_pct": -0.8021
+      }
     },
     {
       "d0_date": "20260930",
@@ -1413,7 +1617,11 @@
         "close": 1815.0,
         "return_pct": 21.8121
       },
-      "d_plus_10": null
+      "d_plus_10": {
+        "date": "20261015",
+        "close": 1540.0,
+        "return_pct": 3.3557
+      }
     },
     {
       "d0_date": "20260930",
@@ -1440,7 +1648,11 @@
         "close": 426.5,
         "return_pct": 1.4269
       },
-      "d_plus_10": null
+      "d_plus_10": {
+        "date": "20261015",
+        "close": 360.5,
+        "return_pct": -14.2687
+      }
     },
     {
       "d0_date": "20260930",
@@ -1467,7 +1679,11 @@
         "close": 1215.0,
         "return_pct": 17.3913
       },
-      "d_plus_10": null
+      "d_plus_10": {
+        "date": "20261015",
+        "close": 923.0,
+        "return_pct": -10.8213
+      }
     },
     {
       "d0_date": "20260930",
@@ -1494,7 +1710,11 @@
         "close": 3020.0,
         "return_pct": -1.4682
       },
-      "d_plus_10": null
+      "d_plus_10": {
+        "date": "20261015",
+        "close": 2905.0,
+        "return_pct": -5.2202
+      }
     },
     {
       "d0_date": "20260930",
@@ -1521,7 +1741,11 @@
         "close": 1000.0,
         "return_pct": 7.8749
       },
-      "d_plus_10": null
+      "d_plus_10": {
+        "date": "20261015",
+        "close": 831.0,
+        "return_pct": -10.356
+      }
     },
     {
       "d0_date": "20260930",
@@ -1548,7 +1772,11 @@
         "close": 2240.0,
         "return_pct": 7.177
       },
-      "d_plus_10": null
+      "d_plus_10": {
+        "date": "20261015",
+        "close": 1905.0,
+        "return_pct": -8.8517
+      }
     },
     {
       "d0_date": "20260930",
@@ -1575,7 +1803,11 @@
         "close": 72.6,
         "return_pct": -3.5857
       },
-      "d_plus_10": null
+      "d_plus_10": {
+        "date": "20261015",
+        "close": 66.2,
+        "return_pct": -12.085
+      }
     },
     {
       "d0_date": "20260930",
@@ -1602,7 +1834,11 @@
         "close": 1480.0,
         "return_pct": 10.4478
       },
-      "d_plus_10": null
+      "d_plus_10": {
+        "date": "20261015",
+        "close": 1345.0,
+        "return_pct": 0.3731
+      }
     },
     {
       "d0_date": "20260930",
@@ -1629,7 +1865,11 @@
         "close": 872.0,
         "return_pct": 4.3062
       },
-      "d_plus_10": null
+      "d_plus_10": {
+        "date": "20261015",
+        "close": 833.0,
+        "return_pct": -0.3589
+      }
     },
     {
       "d0_date": "20260930",
@@ -1656,7 +1896,11 @@
         "close": 2060.0,
         "return_pct": -4.186
       },
-      "d_plus_10": null
+      "d_plus_10": {
+        "date": "20261015",
+        "close": 1830.0,
+        "return_pct": -14.8837
+      }
     },
     {
       "d0_date": "20261001",
@@ -8266,7 +8510,11 @@
         "close": 276.0,
         "return_pct": -8.0
       },
-      "d_plus_5": null,
+      "d_plus_5": {
+        "date": "20261015",
+        "close": 268.0,
+        "return_pct": -10.6667
+      },
       "d_plus_10": null
     },
     {
@@ -8289,7 +8537,11 @@
         "close": 141.5,
         "return_pct": -4.7138
       },
-      "d_plus_5": null,
+      "d_plus_5": {
+        "date": "20261015",
+        "close": 133.5,
+        "return_pct": -10.101
+      },
       "d_plus_10": null
     },
     {
@@ -8312,7 +8564,11 @@
         "close": 1775.0,
         "return_pct": -10.804
       },
-      "d_plus_5": null,
+      "d_plus_5": {
+        "date": "20261015",
+        "close": 1630.0,
+        "return_pct": -18.0905
+      },
       "d_plus_10": null
     },
     {
@@ -8335,7 +8591,11 @@
         "close": 240.0,
         "return_pct": -4.7619
       },
-      "d_plus_5": null,
+      "d_plus_5": {
+        "date": "20261015",
+        "close": 239.5,
+        "return_pct": -4.9603
+      },
       "d_plus_10": null
     },
     {
@@ -8358,7 +8618,11 @@
         "close": 35.8,
         "return_pct": -0.831
       },
-      "d_plus_5": null,
+      "d_plus_5": {
+        "date": "20261015",
+        "close": 36.0,
+        "return_pct": -0.277
+      },
       "d_plus_10": null
     },
     {
@@ -8381,7 +8645,11 @@
         "close": 2490.0,
         "return_pct": -3.675
       },
-      "d_plus_5": null,
+      "d_plus_5": {
+        "date": "20261015",
+        "close": 2440.0,
+        "return_pct": -5.6093
+      },
       "d_plus_10": null
     },
     {
@@ -8404,7 +8672,11 @@
         "close": 161.5,
         "return_pct": -10.0279
       },
-      "d_plus_5": null,
+      "d_plus_5": {
+        "date": "20261015",
+        "close": 155.0,
+        "return_pct": -13.649
+      },
       "d_plus_10": null
     },
     {
@@ -8427,7 +8699,11 @@
         "close": 2040.0,
         "return_pct": 1.2407
       },
-      "d_plus_5": null,
+      "d_plus_5": {
+        "date": "20261015",
+        "close": 1950.0,
+        "return_pct": -3.2258
+      },
       "d_plus_10": null
     },
     {
@@ -8450,7 +8726,11 @@
         "close": 57.3,
         "return_pct": -1.3769
       },
-      "d_plus_5": null,
+      "d_plus_5": {
+        "date": "20261015",
+        "close": 57.6,
+        "return_pct": -0.8606
+      },
       "d_plus_10": null
     },
     {
@@ -8473,7 +8753,11 @@
         "close": 1170.0,
         "return_pct": -6.0241
       },
-      "d_plus_5": null,
+      "d_plus_5": {
+        "date": "20261015",
+        "close": 1190.0,
+        "return_pct": -4.4177
+      },
       "d_plus_10": null
     },
     {
@@ -8496,7 +8780,11 @@
         "close": 758.0,
         "return_pct": 2.2942
       },
-      "d_plus_5": null,
+      "d_plus_5": {
+        "date": "20261015",
+        "close": 764.0,
+        "return_pct": 3.1039
+      },
       "d_plus_10": null
     },
     {
@@ -8519,7 +8807,11 @@
         "close": 323.0,
         "return_pct": -3.5821
       },
-      "d_plus_5": null,
+      "d_plus_5": {
+        "date": "20261015",
+        "close": 316.5,
+        "return_pct": -5.5224
+      },
       "d_plus_10": null
     },
     {
@@ -8542,7 +8834,11 @@
         "close": 5545.0,
         "return_pct": -6.8067
       },
-      "d_plus_5": null,
+      "d_plus_5": {
+        "date": "20261015",
+        "close": 5120.0,
+        "return_pct": -13.9496
+      },
       "d_plus_10": null
     },
     {
@@ -8565,7 +8861,11 @@
         "close": 488.0,
         "return_pct": -5.0584
       },
-      "d_plus_5": null,
+      "d_plus_5": {
+        "date": "20261015",
+        "close": 439.5,
+        "return_pct": -14.4942
+      },
       "d_plus_10": null
     },
     {
@@ -8588,7 +8888,11 @@
         "close": 168.0,
         "return_pct": -2.0408
       },
-      "d_plus_5": null,
+      "d_plus_5": {
+        "date": "20261015",
+        "close": 164.0,
+        "return_pct": -4.3732
+      },
       "d_plus_10": null
     },
     {
@@ -8611,7 +8915,11 @@
         "close": 4525.0,
         "return_pct": -6.4116
       },
-      "d_plus_5": null,
+      "d_plus_5": {
+        "date": "20261015",
+        "close": 4165.0,
+        "return_pct": -13.8573
+      },
       "d_plus_10": null
     },
     {
@@ -8634,7 +8942,11 @@
         "close": 91.3,
         "return_pct": -5.1921
       },
-      "d_plus_5": null,
+      "d_plus_5": {
+        "date": "20261015",
+        "close": 94.7,
+        "return_pct": -1.6615
+      },
       "d_plus_10": null
     },
     {
@@ -8657,7 +8969,11 @@
         "close": 3280.0,
         "return_pct": -7.4753
       },
-      "d_plus_5": null,
+      "d_plus_5": {
+        "date": "20261015",
+        "close": 3085.0,
+        "return_pct": -12.976
+      },
       "d_plus_10": null
     },
     {
@@ -8680,7 +8996,11 @@
         "close": 546.0,
         "return_pct": 3.2136
       },
-      "d_plus_5": null,
+      "d_plus_5": {
+        "date": "20261015",
+        "close": 565.0,
+        "return_pct": 6.8053
+      },
       "d_plus_10": null
     },
     {
@@ -8703,7 +9023,11 @@
         "close": 192.0,
         "return_pct": -8.134
       },
-      "d_plus_5": null,
+      "d_plus_5": {
+        "date": "20261015",
+        "close": 197.5,
+        "return_pct": -5.5024
+      },
       "d_plus_10": null
     },
     {
@@ -8726,7 +9050,11 @@
         "close": 1180.0,
         "return_pct": -9.5785
       },
-      "d_plus_5": null,
+      "d_plus_5": {
+        "date": "20261015",
+        "close": 1075.0,
+        "return_pct": -17.6245
+      },
       "d_plus_10": null
     },
     {
@@ -8749,7 +9077,11 @@
         "close": 2725.0,
         "return_pct": -13.2166
       },
-      "d_plus_5": null,
+      "d_plus_5": {
+        "date": "20261015",
+        "close": 2640.0,
+        "return_pct": -15.9236
+      },
       "d_plus_10": null
     },
     {
@@ -8772,7 +9104,11 @@
         "close": 2360.0,
         "return_pct": -3.6735
       },
-      "d_plus_5": null,
+      "d_plus_5": {
+        "date": "20261015",
+        "close": 2140.0,
+        "return_pct": -12.6531
+      },
       "d_plus_10": null
     },
     {
@@ -8795,7 +9131,11 @@
         "close": 78.8,
         "return_pct": -5.1745
       },
-      "d_plus_5": null,
+      "d_plus_5": {
+        "date": "20261015",
+        "close": 76.4,
+        "return_pct": -8.0626
+      },
       "d_plus_10": null
     },
     {
@@ -8818,7 +9158,11 @@
         "close": 645.0,
         "return_pct": -8.1197
       },
-      "d_plus_5": null,
+      "d_plus_5": {
+        "date": "20261015",
+        "close": 604.0,
+        "return_pct": -13.9601
+      },
       "d_plus_10": null
     },
     {
@@ -8841,7 +9185,11 @@
         "close": 187.0,
         "return_pct": 1.0811
       },
-      "d_plus_5": null,
+      "d_plus_5": {
+        "date": "20261015",
+        "close": 176.0,
+        "return_pct": -4.8649
+      },
       "d_plus_10": null
     },
     {
@@ -8864,7 +9212,11 @@
         "close": 1475.0,
         "return_pct": -3.2787
       },
-      "d_plus_5": null,
+      "d_plus_5": {
+        "date": "20261015",
+        "close": 1410.0,
+        "return_pct": -7.541
+      },
       "d_plus_10": null
     },
     {
@@ -8887,7 +9239,11 @@
         "close": 547.0,
         "return_pct": -19.4404
       },
-      "d_plus_5": null,
+      "d_plus_5": {
+        "date": "20261015",
+        "close": 520.0,
+        "return_pct": -23.4168
+      },
       "d_plus_10": null
     },
     {
@@ -8910,7 +9266,11 @@
         "close": 8095.0,
         "return_pct": -4.3144
       },
-      "d_plus_5": null,
+      "d_plus_5": {
+        "date": "20261015",
+        "close": 7670.0,
+        "return_pct": -9.3381
+      },
       "d_plus_10": null
     },
     {
@@ -8933,7 +9293,11 @@
         "close": 50.0,
         "return_pct": -4.7619
       },
-      "d_plus_5": null,
+      "d_plus_5": {
+        "date": "20261015",
+        "close": 48.3,
+        "return_pct": -8.0
+      },
       "d_plus_10": null
     },
     {
@@ -8956,7 +9320,11 @@
         "close": 2810.0,
         "return_pct": -6.7993
       },
-      "d_plus_5": null,
+      "d_plus_5": {
+        "date": "20261015",
+        "close": 2655.0,
+        "return_pct": -11.9403
+      },
       "d_plus_10": null
     },
     {
@@ -8979,7 +9347,11 @@
         "close": 1860.0,
         "return_pct": 1.9178
       },
-      "d_plus_5": null,
+      "d_plus_5": {
+        "date": "20261015",
+        "close": 1815.0,
+        "return_pct": -0.5479
+      },
       "d_plus_10": null
     },
     {
@@ -9002,7 +9374,11 @@
         "close": 710.0,
         "return_pct": -4.4415
       },
-      "d_plus_5": null,
+      "d_plus_5": {
+        "date": "20261015",
+        "close": 653.0,
+        "return_pct": -12.1131
+      },
       "d_plus_10": null
     },
     {
@@ -9025,7 +9401,11 @@
         "close": 158.0,
         "return_pct": 0.6369
       },
-      "d_plus_5": null,
+      "d_plus_5": {
+        "date": "20261015",
+        "close": 158.5,
+        "return_pct": 0.9554
+      },
       "d_plus_10": null
     },
     {
@@ -9048,7 +9428,11 @@
         "close": 6990.0,
         "return_pct": 2.7186
       },
-      "d_plus_5": null,
+      "d_plus_5": {
+        "date": "20261015",
+        "close": 6765.0,
+        "return_pct": -0.5878
+      },
       "d_plus_10": null
     },
     {
@@ -9071,7 +9455,11 @@
         "close": 4055.0,
         "return_pct": -3.222
       },
-      "d_plus_5": null,
+      "d_plus_5": {
+        "date": "20261015",
+        "close": 3705.0,
+        "return_pct": -11.5752
+      },
       "d_plus_10": null
     },
     {
@@ -9094,7 +9482,11 @@
         "close": 2260.0,
         "return_pct": -2.3758
       },
-      "d_plus_5": null,
+      "d_plus_5": {
+        "date": "20261015",
+        "close": 2015.0,
+        "return_pct": -12.959
+      },
       "d_plus_10": null
     },
     {
@@ -9117,7 +9509,11 @@
         "close": 740.0,
         "return_pct": 1.0929
       },
-      "d_plus_5": null,
+      "d_plus_5": {
+        "date": "20261015",
+        "close": 673.0,
+        "return_pct": -8.0601
+      },
       "d_plus_10": null
     },
     {
@@ -9140,7 +9536,11 @@
         "close": 102.5,
         "return_pct": 13.8889
       },
-      "d_plus_5": null,
+      "d_plus_5": {
+        "date": "20261015",
+        "close": 98.1,
+        "return_pct": 9.0
+      },
       "d_plus_10": null
     },
     {
@@ -9163,7 +9563,11 @@
         "close": 547.0,
         "return_pct": -3.6972
       },
-      "d_plus_5": null,
+      "d_plus_5": {
+        "date": "20261015",
+        "close": 538.0,
+        "return_pct": -5.2817
+      },
       "d_plus_10": null
     },
     {
@@ -9186,7 +9590,11 @@
         "close": 535.0,
         "return_pct": -7.5993
       },
-      "d_plus_5": null,
+      "d_plus_5": {
+        "date": "20261015",
+        "close": 542.0,
+        "return_pct": -6.3903
+      },
       "d_plus_10": null
     },
     {
@@ -9209,7 +9617,11 @@
         "close": 1540.0,
         "return_pct": 5.8419
       },
-      "d_plus_5": null,
+      "d_plus_5": {
+        "date": "20261015",
+        "close": 1495.0,
+        "return_pct": 2.7491
+      },
       "d_plus_10": null
     },
     {
@@ -9232,7 +9644,11 @@
         "close": 17350.0,
         "return_pct": -2.2535
       },
-      "d_plus_5": null,
+      "d_plus_5": {
+        "date": "20261015",
+        "close": 15945.0,
+        "return_pct": -10.169
+      },
       "d_plus_10": null
     },
     {
@@ -9255,7 +9671,11 @@
         "close": 73.5,
         "return_pct": -0.6757
       },
-      "d_plus_5": null,
+      "d_plus_5": {
+        "date": "20261015",
+        "close": 74.8,
+        "return_pct": 1.0811
+      },
       "d_plus_10": null
     },
     {
@@ -9278,7 +9698,11 @@
         "close": 1600.0,
         "return_pct": 4.2345
       },
-      "d_plus_5": null,
+      "d_plus_5": {
+        "date": "20261015",
+        "close": 1390.0,
+        "return_pct": -9.4463
+      },
       "d_plus_10": null
     },
     {
@@ -9301,7 +9725,11 @@
         "close": 91.1,
         "return_pct": 0.22
       },
-      "d_plus_5": null,
+      "d_plus_5": {
+        "date": "20261015",
+        "close": 93.0,
+        "return_pct": 2.3102
+      },
       "d_plus_10": null
     },
     {
@@ -9324,7 +9752,11 @@
         "close": 795.0,
         "return_pct": -0.1256
       },
-      "d_plus_5": null,
+      "d_plus_5": {
+        "date": "20261015",
+        "close": 799.0,
+        "return_pct": 0.3769
+      },
       "d_plus_10": null
     },
     {
@@ -9347,7 +9779,11 @@
         "close": 5940.0,
         "return_pct": 7.4141
       },
-      "d_plus_5": null,
+      "d_plus_5": {
+        "date": "20261015",
+        "close": 5300.0,
+        "return_pct": -4.1591
+      },
       "d_plus_10": null
     },
     {
@@ -9370,7 +9806,11 @@
         "close": 1655.0,
         "return_pct": -3.7791
       },
-      "d_plus_5": null,
+      "d_plus_5": {
+        "date": "20261015",
+        "close": 1625.0,
+        "return_pct": -5.5233
+      },
       "d_plus_10": null
     },
     {
@@ -9393,7 +9833,11 @@
         "close": 246.5,
         "return_pct": -4.2718
       },
-      "d_plus_5": null,
+      "d_plus_5": {
+        "date": "20261015",
+        "close": 241.0,
+        "return_pct": -6.4078
+      },
       "d_plus_10": null
     },
     {
@@ -9416,7 +9860,11 @@
         "close": 73.0,
         "return_pct": -1.3514
       },
-      "d_plus_5": null,
+      "d_plus_5": {
+        "date": "20261015",
+        "close": 74.2,
+        "return_pct": 0.2703
+      },
       "d_plus_10": null
     },
     {
@@ -9439,7 +9887,11 @@
         "close": 1630.0,
         "return_pct": -10.1928
       },
-      "d_plus_5": null,
+      "d_plus_5": {
+        "date": "20261015",
+        "close": 1540.0,
+        "return_pct": -15.1515
+      },
       "d_plus_10": null
     },
     {
@@ -9462,7 +9914,11 @@
         "close": 379.0,
         "return_pct": -11.1372
       },
-      "d_plus_5": null,
+      "d_plus_5": {
+        "date": "20261015",
+        "close": 360.5,
+        "return_pct": -15.4748
+      },
       "d_plus_10": null
     },
     {
@@ -9485,7 +9941,11 @@
         "close": 1015.0,
         "return_pct": -16.4609
       },
-      "d_plus_5": null,
+      "d_plus_5": {
+        "date": "20261015",
+        "close": 923.0,
+        "return_pct": -24.0329
+      },
       "d_plus_10": null
     },
     {
@@ -9508,7 +9968,11 @@
         "close": 3275.0,
         "return_pct": 8.4437
       },
-      "d_plus_5": null,
+      "d_plus_5": {
+        "date": "20261015",
+        "close": 2905.0,
+        "return_pct": -3.8079
+      },
       "d_plus_10": null
     },
     {
@@ -9531,7 +9995,11 @@
         "close": 926.0,
         "return_pct": -7.4
       },
-      "d_plus_5": null,
+      "d_plus_5": {
+        "date": "20261015",
+        "close": 831.0,
+        "return_pct": -16.9
+      },
       "d_plus_10": null
     },
     {
@@ -9554,7 +10022,11 @@
         "close": 2195.0,
         "return_pct": -2.0089
       },
-      "d_plus_5": null,
+      "d_plus_5": {
+        "date": "20261015",
+        "close": 1905.0,
+        "return_pct": -14.9554
+      },
       "d_plus_10": null
     },
     {
@@ -9577,7 +10049,11 @@
         "close": 67.5,
         "return_pct": -7.0248
       },
-      "d_plus_5": null,
+      "d_plus_5": {
+        "date": "20261015",
+        "close": 66.2,
+        "return_pct": -8.8154
+      },
       "d_plus_10": null
     },
     {
@@ -9600,7 +10076,11 @@
         "close": 1440.0,
         "return_pct": -2.7027
       },
-      "d_plus_5": null,
+      "d_plus_5": {
+        "date": "20261015",
+        "close": 1345.0,
+        "return_pct": -9.1216
+      },
       "d_plus_10": null
     },
     {
@@ -9623,7 +10103,11 @@
         "close": 838.0,
         "return_pct": -3.8991
       },
-      "d_plus_5": null,
+      "d_plus_5": {
+        "date": "20261015",
+        "close": 833.0,
+        "return_pct": -4.4725
+      },
       "d_plus_10": null
     },
     {
@@ -9646,7 +10130,11 @@
         "close": 1965.0,
         "return_pct": -4.6117
       },
-      "d_plus_5": null,
+      "d_plus_5": {
+        "date": "20261015",
+        "close": 1830.0,
+        "return_pct": -11.165
+      },
       "d_plus_10": null
     },
     {
@@ -11067,7 +11555,11 @@
         "close": 276.0,
         "return_pct": -4.1667
       },
-      "d_plus_3": null,
+      "d_plus_3": {
+        "date": "20261015",
+        "close": 268.0,
+        "return_pct": -6.9444
+      },
       "d_plus_5": null,
       "d_plus_10": null
     },
@@ -11086,7 +11578,11 @@
         "close": 141.5,
         "return_pct": -2.7491
       },
-      "d_plus_3": null,
+      "d_plus_3": {
+        "date": "20261015",
+        "close": 133.5,
+        "return_pct": -8.2474
+      },
       "d_plus_5": null,
       "d_plus_10": null
     },
@@ -11105,7 +11601,11 @@
         "close": 1775.0,
         "return_pct": -6.5789
       },
-      "d_plus_3": null,
+      "d_plus_3": {
+        "date": "20261015",
+        "close": 1630.0,
+        "return_pct": -14.2105
+      },
       "d_plus_5": null,
       "d_plus_10": null
     },
@@ -11124,7 +11624,11 @@
         "close": 240.0,
         "return_pct": -1.8405
       },
-      "d_plus_3": null,
+      "d_plus_3": {
+        "date": "20261015",
+        "close": 239.5,
+        "return_pct": -2.045
+      },
       "d_plus_5": null,
       "d_plus_10": null
     },
@@ -11143,7 +11647,11 @@
         "close": 35.8,
         "return_pct": -2.1858
       },
-      "d_plus_3": null,
+      "d_plus_3": {
+        "date": "20261015",
+        "close": 36.0,
+        "return_pct": -1.6393
+      },
       "d_plus_5": null,
       "d_plus_10": null
     },
@@ -11162,7 +11670,11 @@
         "close": 2490.0,
         "return_pct": -1.9685
       },
-      "d_plus_3": null,
+      "d_plus_3": {
+        "date": "20261015",
+        "close": 2440.0,
+        "return_pct": -3.937
+      },
       "d_plus_5": null,
       "d_plus_10": null
     },
@@ -11181,7 +11693,11 @@
         "close": 161.5,
         "return_pct": -7.1839
       },
-      "d_plus_3": null,
+      "d_plus_3": {
+        "date": "20261015",
+        "close": 155.0,
+        "return_pct": -10.9195
+      },
       "d_plus_5": null,
       "d_plus_10": null
     },
@@ -11200,7 +11716,11 @@
         "close": 2040.0,
         "return_pct": -4.2254
       },
-      "d_plus_3": null,
+      "d_plus_3": {
+        "date": "20261015",
+        "close": 1950.0,
+        "return_pct": -8.4507
+      },
       "d_plus_5": null,
       "d_plus_10": null
     },
@@ -11219,7 +11739,11 @@
         "close": 57.3,
         "return_pct": -1.3769
       },
-      "d_plus_3": null,
+      "d_plus_3": {
+        "date": "20261015",
+        "close": 57.6,
+        "return_pct": -0.8606
+      },
       "d_plus_5": null,
       "d_plus_10": null
     },
@@ -11238,7 +11762,11 @@
         "close": 1170.0,
         "return_pct": -5.2632
       },
-      "d_plus_3": null,
+      "d_plus_3": {
+        "date": "20261015",
+        "close": 1190.0,
+        "return_pct": -3.6437
+      },
       "d_plus_5": null,
       "d_plus_10": null
     },
@@ -11257,7 +11785,11 @@
         "close": 758.0,
         "return_pct": 1.6086
       },
-      "d_plus_3": null,
+      "d_plus_3": {
+        "date": "20261015",
+        "close": 764.0,
+        "return_pct": 2.4129
+      },
       "d_plus_5": null,
       "d_plus_10": null
     },
@@ -11276,7 +11808,11 @@
         "close": 323.0,
         "return_pct": 0.3106
       },
-      "d_plus_3": null,
+      "d_plus_3": {
+        "date": "20261015",
+        "close": 316.5,
+        "return_pct": -1.7081
+      },
       "d_plus_5": null,
       "d_plus_10": null
     },
@@ -11295,7 +11831,11 @@
         "close": 5545.0,
         "return_pct": -9.8374
       },
-      "d_plus_3": null,
+      "d_plus_3": {
+        "date": "20261015",
+        "close": 5120.0,
+        "return_pct": -16.748
+      },
       "d_plus_5": null,
       "d_plus_10": null
     },
@@ -11314,7 +11854,11 @@
         "close": 488.0,
         "return_pct": -7.4004
       },
-      "d_plus_3": null,
+      "d_plus_3": {
+        "date": "20261015",
+        "close": 439.5,
+        "return_pct": -16.6034
+      },
       "d_plus_5": null,
       "d_plus_10": null
     },
@@ -11333,7 +11877,11 @@
         "close": 168.0,
         "return_pct": -0.2967
       },
-      "d_plus_3": null,
+      "d_plus_3": {
+        "date": "20261015",
+        "close": 164.0,
+        "return_pct": -2.6706
+      },
       "d_plus_5": null,
       "d_plus_10": null
     },
@@ -11352,7 +11900,11 @@
         "close": 4525.0,
         "return_pct": -2.1622
       },
-      "d_plus_3": null,
+      "d_plus_3": {
+        "date": "20261015",
+        "close": 4165.0,
+        "return_pct": -9.9459
+      },
       "d_plus_5": null,
       "d_plus_10": null
     },
@@ -11371,7 +11923,11 @@
         "close": 91.3,
         "return_pct": -4.0966
       },
-      "d_plus_3": null,
+      "d_plus_3": {
+        "date": "20261015",
+        "close": 94.7,
+        "return_pct": -0.5252
+      },
       "d_plus_5": null,
       "d_plus_10": null
     },
@@ -11390,7 +11946,11 @@
         "close": 3280.0,
         "return_pct": -3.1019
       },
-      "d_plus_3": null,
+      "d_plus_3": {
+        "date": "20261015",
+        "close": 3085.0,
+        "return_pct": -8.8626
+      },
       "d_plus_5": null,
       "d_plus_10": null
     },
@@ -11409,7 +11969,11 @@
         "close": 546.0,
         "return_pct": 3.2136
       },
-      "d_plus_3": null,
+      "d_plus_3": {
+        "date": "20261015",
+        "close": 565.0,
+        "return_pct": 6.8053
+      },
       "d_plus_5": null,
       "d_plus_10": null
     },
@@ -11428,7 +11992,11 @@
         "close": 192.0,
         "return_pct": -2.7848
       },
-      "d_plus_3": null,
+      "d_plus_3": {
+        "date": "20261015",
+        "close": 197.5,
+        "return_pct": 0.0
+      },
       "d_plus_5": null,
       "d_plus_10": null
     },
@@ -11447,7 +12015,11 @@
         "close": 1180.0,
         "return_pct": -5.9761
       },
-      "d_plus_3": null,
+      "d_plus_3": {
+        "date": "20261015",
+        "close": 1075.0,
+        "return_pct": -14.3426
+      },
       "d_plus_5": null,
       "d_plus_10": null
     },
@@ -11466,7 +12038,11 @@
         "close": 2725.0,
         "return_pct": -9.9174
       },
-      "d_plus_3": null,
+      "d_plus_3": {
+        "date": "20261015",
+        "close": 2640.0,
+        "return_pct": -12.7273
+      },
       "d_plus_5": null,
       "d_plus_10": null
     },
@@ -11485,7 +12061,11 @@
         "close": 2360.0,
         "return_pct": -6.5347
       },
-      "d_plus_3": null,
+      "d_plus_3": {
+        "date": "20261015",
+        "close": 2140.0,
+        "return_pct": -15.2475
+      },
       "d_plus_5": null,
       "d_plus_10": null
     },
@@ -11504,7 +12084,11 @@
         "close": 78.8,
         "return_pct": -3.7851
       },
-      "d_plus_3": null,
+      "d_plus_3": {
+        "date": "20261015",
+        "close": 76.4,
+        "return_pct": -6.7155
+      },
       "d_plus_5": null,
       "d_plus_10": null
     },
@@ -11523,7 +12107,11 @@
         "close": 645.0,
         "return_pct": -6.3861
       },
-      "d_plus_3": null,
+      "d_plus_3": {
+        "date": "20261015",
+        "close": 604.0,
+        "return_pct": -12.3367
+      },
       "d_plus_5": null,
       "d_plus_10": null
     },
@@ -11542,7 +12130,11 @@
         "close": 187.0,
         "return_pct": -1.3193
       },
-      "d_plus_3": null,
+      "d_plus_3": {
+        "date": "20261015",
+        "close": 176.0,
+        "return_pct": -7.124
+      },
       "d_plus_5": null,
       "d_plus_10": null
     },
@@ -11561,7 +12153,11 @@
         "close": 1475.0,
         "return_pct": -4.2208
       },
-      "d_plus_3": null,
+      "d_plus_3": {
+        "date": "20261015",
+        "close": 1410.0,
+        "return_pct": -8.4416
+      },
       "d_plus_5": null,
       "d_plus_10": null
     },
@@ -11580,7 +12176,11 @@
         "close": 547.0,
         "return_pct": -9.1362
       },
-      "d_plus_3": null,
+      "d_plus_3": {
+        "date": "20261015",
+        "close": 520.0,
+        "return_pct": -13.6213
+      },
       "d_plus_5": null,
       "d_plus_10": null
     },
@@ -11599,7 +12199,11 @@
         "close": 8095.0,
         "return_pct": -0.0617
       },
-      "d_plus_3": null,
+      "d_plus_3": {
+        "date": "20261015",
+        "close": 7670.0,
+        "return_pct": -5.3086
+      },
       "d_plus_5": null,
       "d_plus_10": null
     },
@@ -11618,7 +12222,11 @@
         "close": 50.0,
         "return_pct": -2.5341
       },
-      "d_plus_3": null,
+      "d_plus_3": {
+        "date": "20261015",
+        "close": 48.3,
+        "return_pct": -5.848
+      },
       "d_plus_5": null,
       "d_plus_10": null
     },
@@ -11637,7 +12245,11 @@
         "close": 2810.0,
         "return_pct": -1.4035
       },
-      "d_plus_3": null,
+      "d_plus_3": {
+        "date": "20261015",
+        "close": 2655.0,
+        "return_pct": -6.8421
+      },
       "d_plus_5": null,
       "d_plus_10": null
     },
@@ -11656,7 +12268,11 @@
         "close": 1860.0,
         "return_pct": -1.0638
       },
-      "d_plus_3": null,
+      "d_plus_3": {
+        "date": "20261015",
+        "close": 1815.0,
+        "return_pct": -3.4574
+      },
       "d_plus_5": null,
       "d_plus_10": null
     },
@@ -11675,7 +12291,11 @@
         "close": 710.0,
         "return_pct": -5.9603
       },
-      "d_plus_3": null,
+      "d_plus_3": {
+        "date": "20261015",
+        "close": 653.0,
+        "return_pct": -13.5099
+      },
       "d_plus_5": null,
       "d_plus_10": null
     },
@@ -11694,7 +12314,11 @@
         "close": 158.0,
         "return_pct": 0.6369
       },
-      "d_plus_3": null,
+      "d_plus_3": {
+        "date": "20261015",
+        "close": 158.5,
+        "return_pct": 0.9554
+      },
       "d_plus_5": null,
       "d_plus_10": null
     },
@@ -11713,7 +12337,11 @@
         "close": 6990.0,
         "return_pct": -2.3743
       },
-      "d_plus_3": null,
+      "d_plus_3": {
+        "date": "20261015",
+        "close": 6765.0,
+        "return_pct": -5.5168
+      },
       "d_plus_5": null,
       "d_plus_10": null
     },
@@ -11732,7 +12360,11 @@
         "close": 4055.0,
         "return_pct": -7.7361
       },
-      "d_plus_3": null,
+      "d_plus_3": {
+        "date": "20261015",
+        "close": 3705.0,
+        "return_pct": -15.6997
+      },
       "d_plus_5": null,
       "d_plus_10": null
     },
@@ -11751,7 +12383,11 @@
         "close": 2260.0,
         "return_pct": -4.034
       },
-      "d_plus_3": null,
+      "d_plus_3": {
+        "date": "20261015",
+        "close": 2015.0,
+        "return_pct": -14.4374
+      },
       "d_plus_5": null,
       "d_plus_10": null
     },
@@ -11770,7 +12406,11 @@
         "close": 740.0,
         "return_pct": -2.8871
       },
-      "d_plus_3": null,
+      "d_plus_3": {
+        "date": "20261015",
+        "close": 673.0,
+        "return_pct": -11.6798
+      },
       "d_plus_5": null,
       "d_plus_10": null
     },
@@ -11789,7 +12429,11 @@
         "close": 102.5,
         "return_pct": 3.9554
       },
-      "d_plus_3": null,
+      "d_plus_3": {
+        "date": "20261015",
+        "close": 98.1,
+        "return_pct": -0.5071
+      },
       "d_plus_5": null,
       "d_plus_10": null
     },
@@ -11808,7 +12452,11 @@
         "close": 547.0,
         "return_pct": -1.085
       },
-      "d_plus_3": null,
+      "d_plus_3": {
+        "date": "20261015",
+        "close": 538.0,
+        "return_pct": -2.7125
+      },
       "d_plus_5": null,
       "d_plus_10": null
     },
@@ -11827,7 +12475,11 @@
         "close": 535.0,
         "return_pct": -8.0756
       },
-      "d_plus_3": null,
+      "d_plus_3": {
+        "date": "20261015",
+        "close": 542.0,
+        "return_pct": -6.8729
+      },
       "d_plus_5": null,
       "d_plus_10": null
     },
@@ -11846,7 +12498,11 @@
         "close": 1540.0,
         "return_pct": 0.0
       },
-      "d_plus_3": null,
+      "d_plus_3": {
+        "date": "20261015",
+        "close": 1495.0,
+        "return_pct": -2.9221
+      },
       "d_plus_5": null,
       "d_plus_10": null
     },
@@ -11865,7 +12521,11 @@
         "close": 17350.0,
         "return_pct": -1.9497
       },
-      "d_plus_3": null,
+      "d_plus_3": {
+        "date": "20261015",
+        "close": 15945.0,
+        "return_pct": -9.8898
+      },
       "d_plus_5": null,
       "d_plus_10": null
     },
@@ -11884,7 +12544,11 @@
         "close": 73.5,
         "return_pct": -0.8097
       },
-      "d_plus_3": null,
+      "d_plus_3": {
+        "date": "20261015",
+        "close": 74.8,
+        "return_pct": 0.9447
+      },
       "d_plus_5": null,
       "d_plus_10": null
     },
@@ -11903,7 +12567,11 @@
         "close": 1600.0,
         "return_pct": -4.4776
       },
-      "d_plus_3": null,
+      "d_plus_3": {
+        "date": "20261015",
+        "close": 1390.0,
+        "return_pct": -17.0149
+      },
       "d_plus_5": null,
       "d_plus_10": null
     },
@@ -11922,7 +12590,11 @@
         "close": 91.1,
         "return_pct": 2.2447
       },
-      "d_plus_3": null,
+      "d_plus_3": {
+        "date": "20261015",
+        "close": 93.0,
+        "return_pct": 4.3771
+      },
       "d_plus_5": null,
       "d_plus_10": null
     },
@@ -11941,7 +12613,11 @@
         "close": 795.0,
         "return_pct": -2.0936
       },
-      "d_plus_3": null,
+      "d_plus_3": {
+        "date": "20261015",
+        "close": 799.0,
+        "return_pct": -1.601
+      },
       "d_plus_5": null,
       "d_plus_10": null
     },
@@ -11960,7 +12636,11 @@
         "close": 5940.0,
         "return_pct": -3.0995
       },
-      "d_plus_3": null,
+      "d_plus_3": {
+        "date": "20261015",
+        "close": 5300.0,
+        "return_pct": -13.54
+      },
       "d_plus_5": null,
       "d_plus_10": null
     },
@@ -11979,7 +12659,11 @@
         "close": 1655.0,
         "return_pct": -4.611
       },
-      "d_plus_3": null,
+      "d_plus_3": {
+        "date": "20261015",
+        "close": 1625.0,
+        "return_pct": -6.3401
+      },
       "d_plus_5": null,
       "d_plus_10": null
     },
@@ -11998,7 +12682,11 @@
         "close": 246.5,
         "return_pct": -6.4516
       },
-      "d_plus_3": null,
+      "d_plus_3": {
+        "date": "20261015",
+        "close": 241.0,
+        "return_pct": -8.5389
+      },
       "d_plus_5": null,
       "d_plus_10": null
     },
@@ -12017,7 +12705,11 @@
         "close": 73.0,
         "return_pct": -0.4093
       },
-      "d_plus_3": null,
+      "d_plus_3": {
+        "date": "20261015",
+        "close": 74.2,
+        "return_pct": 1.2278
+      },
       "d_plus_5": null,
       "d_plus_10": null
     },
@@ -12036,7 +12728,11 @@
         "close": 1630.0,
         "return_pct": -5.5072
       },
-      "d_plus_3": null,
+      "d_plus_3": {
+        "date": "20261015",
+        "close": 1540.0,
+        "return_pct": -10.7246
+      },
       "d_plus_5": null,
       "d_plus_10": null
     },
@@ -12055,7 +12751,11 @@
         "close": 379.0,
         "return_pct": -8.4541
       },
-      "d_plus_3": null,
+      "d_plus_3": {
+        "date": "20261015",
+        "close": 360.5,
+        "return_pct": -12.9227
+      },
       "d_plus_5": null,
       "d_plus_10": null
     },
@@ -12074,7 +12774,11 @@
         "close": 1015.0,
         "return_pct": -8.9686
       },
-      "d_plus_3": null,
+      "d_plus_3": {
+        "date": "20261015",
+        "close": 923.0,
+        "return_pct": -17.2197
+      },
       "d_plus_5": null,
       "d_plus_10": null
     },
@@ -12093,7 +12797,11 @@
         "close": 3275.0,
         "return_pct": -4.2398
       },
-      "d_plus_3": null,
+      "d_plus_3": {
+        "date": "20261015",
+        "close": 2905.0,
+        "return_pct": -15.0585
+      },
       "d_plus_5": null,
       "d_plus_10": null
     },
@@ -12112,7 +12820,11 @@
         "close": 926.0,
         "return_pct": -2.2175
       },
-      "d_plus_3": null,
+      "d_plus_3": {
+        "date": "20261015",
+        "close": 831.0,
+        "return_pct": -12.2492
+      },
       "d_plus_5": null,
       "d_plus_10": null
     },
@@ -12131,7 +12843,11 @@
         "close": 2195.0,
         "return_pct": -3.5165
       },
-      "d_plus_3": null,
+      "d_plus_3": {
+        "date": "20261015",
+        "close": 1905.0,
+        "return_pct": -16.2637
+      },
       "d_plus_5": null,
       "d_plus_10": null
     },
@@ -12150,7 +12866,11 @@
         "close": 67.5,
         "return_pct": -5.4622
       },
-      "d_plus_3": null,
+      "d_plus_3": {
+        "date": "20261015",
+        "close": 66.2,
+        "return_pct": -7.2829
+      },
       "d_plus_5": null,
       "d_plus_10": null
     },
@@ -12169,7 +12889,11 @@
         "close": 1440.0,
         "return_pct": 0.0
       },
-      "d_plus_3": null,
+      "d_plus_3": {
+        "date": "20261015",
+        "close": 1345.0,
+        "return_pct": -6.5972
+      },
       "d_plus_5": null,
       "d_plus_10": null
     },
@@ -12188,7 +12912,11 @@
         "close": 838.0,
         "return_pct": -2.6713
       },
-      "d_plus_3": null,
+      "d_plus_3": {
+        "date": "20261015",
+        "close": 833.0,
+        "return_pct": -3.252
+      },
       "d_plus_5": null,
       "d_plus_10": null
     },
@@ -12207,7 +12935,11 @@
         "close": 1965.0,
         "return_pct": -4.3796
       },
-      "d_plus_3": null,
+      "d_plus_3": {
+        "date": "20261015",
+        "close": 1830.0,
+        "return_pct": -10.9489
+      },
       "d_plus_5": null,
       "d_plus_10": null
     },
@@ -13380,7 +14112,11 @@
       "institutional_net": 1653691,
       "volume_change_pct": -49.42731306431229,
       "d0_close": 283.0,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261015",
+        "close": 268.0,
+        "return_pct": -5.3004
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -13395,7 +14131,11 @@
       "institutional_net": -22085067,
       "volume_change_pct": -18.84222952802669,
       "d0_close": 142.0,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261015",
+        "close": 133.5,
+        "return_pct": -5.9859
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -13410,7 +14150,11 @@
       "institutional_net": -1443242,
       "volume_change_pct": -36.159891790361975,
       "d0_close": 1785.0,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261015",
+        "close": 1630.0,
+        "return_pct": -8.6835
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -13425,7 +14169,11 @@
       "institutional_net": 3334373,
       "volume_change_pct": -23.42698046768774,
       "d0_close": 243.0,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261015",
+        "close": 239.5,
+        "return_pct": -1.4403
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -13440,7 +14188,11 @@
       "institutional_net": 17218121,
       "volume_change_pct": 0.12912197428056604,
       "d0_close": 37.0,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261015",
+        "close": 36.0,
+        "return_pct": -2.7027
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -13455,7 +14207,11 @@
       "institutional_net": -5416247,
       "volume_change_pct": -31.09187138497814,
       "d0_close": 2490.0,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261015",
+        "close": 2440.0,
+        "return_pct": -2.008
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -13470,7 +14226,11 @@
       "institutional_net": 10267342,
       "volume_change_pct": -54.35022547393731,
       "d0_close": 165.0,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261015",
+        "close": 155.0,
+        "return_pct": -6.0606
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -13485,7 +14245,11 @@
       "institutional_net": -215004,
       "volume_change_pct": -17.70372223788548,
       "d0_close": 2050.0,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261015",
+        "close": 1950.0,
+        "return_pct": -4.878
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -13500,7 +14264,11 @@
       "institutional_net": 10696,
       "volume_change_pct": -11.362206389949348,
       "d0_close": 58.3,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261015",
+        "close": 57.6,
+        "return_pct": -1.2007
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -13515,7 +14283,11 @@
       "institutional_net": 2866144,
       "volume_change_pct": 22.869320137822434,
       "d0_close": 1260.0,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261015",
+        "close": 1190.0,
+        "return_pct": -5.5556
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -13530,7 +14302,11 @@
       "institutional_net": 1347083,
       "volume_change_pct": 21.06557746707307,
       "d0_close": 778.0,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261015",
+        "close": 764.0,
+        "return_pct": -1.7995
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -13545,7 +14321,11 @@
       "institutional_net": -376366,
       "volume_change_pct": 5.789115455977911,
       "d0_close": 323.0,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261015",
+        "close": 316.5,
+        "return_pct": -2.0124
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -13560,7 +14340,11 @@
       "institutional_net": 39044,
       "volume_change_pct": -52.359811222476004,
       "d0_close": 5520.0,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261015",
+        "close": 5120.0,
+        "return_pct": -7.2464
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -13575,7 +14359,11 @@
       "institutional_net": -25075934,
       "volume_change_pct": -43.49020103462635,
       "d0_close": 480.5,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261015",
+        "close": 439.5,
+        "return_pct": -8.5328
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -13590,7 +14378,11 @@
       "institutional_net": 117110,
       "volume_change_pct": 35.06258022422271,
       "d0_close": 171.0,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261015",
+        "close": 164.0,
+        "return_pct": -4.0936
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -13605,7 +14397,11 @@
       "institutional_net": -3256885,
       "volume_change_pct": -4.52634965712585,
       "d0_close": 4475.0,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261015",
+        "close": 4165.0,
+        "return_pct": -6.9274
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -13620,7 +14416,11 @@
       "institutional_net": 1300543,
       "volume_change_pct": 86.22694732162932,
       "d0_close": 97.4,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261015",
+        "close": 94.7,
+        "return_pct": -2.7721
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -13635,7 +14435,11 @@
       "institutional_net": -498592,
       "volume_change_pct": -17.04954059434933,
       "d0_close": 3315.0,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261015",
+        "close": 3085.0,
+        "return_pct": -6.9382
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -13650,7 +14454,11 @@
       "institutional_net": 2489320,
       "volume_change_pct": 19.58165766747313,
       "d0_close": 560.0,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261015",
+        "close": 565.0,
+        "return_pct": 0.8929
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -13665,7 +14473,11 @@
       "institutional_net": 1195528,
       "volume_change_pct": 27.942643391521194,
       "d0_close": 211.0,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261015",
+        "close": 197.5,
+        "return_pct": -6.3981
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -13680,7 +14492,11 @@
       "institutional_net": 717855,
       "volume_change_pct": 8.58516030387002,
       "d0_close": 1185.0,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261015",
+        "close": 1075.0,
+        "return_pct": -9.2827
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -13695,7 +14511,11 @@
       "institutional_net": 633640,
       "volume_change_pct": -26.214009454232922,
       "d0_close": 2880.0,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261015",
+        "close": 2640.0,
+        "return_pct": -8.3333
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -13710,7 +14530,11 @@
       "institutional_net": -38122,
       "volume_change_pct": -52.58426966292134,
       "d0_close": 2365.0,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261015",
+        "close": 2140.0,
+        "return_pct": -9.5137
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -13725,7 +14549,11 @@
       "institutional_net": -70023,
       "volume_change_pct": -40.0,
       "d0_close": 80.3,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261015",
+        "close": 76.4,
+        "return_pct": -4.8568
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -13740,7 +14568,11 @@
       "institutional_net": 93332,
       "volume_change_pct": -28.57142857142857,
       "d0_close": 653.0,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261015",
+        "close": 604.0,
+        "return_pct": -7.5038
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -13755,7 +14587,11 @@
       "institutional_net": -3058947,
       "volume_change_pct": -40.43926273777737,
       "d0_close": 187.0,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261015",
+        "close": 176.0,
+        "return_pct": -5.8824
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -13770,7 +14606,11 @@
       "institutional_net": -106274,
       "volume_change_pct": -8.564814814814813,
       "d0_close": 1490.0,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261015",
+        "close": 1410.0,
+        "return_pct": -5.3691
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -13785,7 +14625,11 @@
       "institutional_net": -91489,
       "volume_change_pct": -50.82370763113047,
       "d0_close": 559.0,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261015",
+        "close": 520.0,
+        "return_pct": -6.9767
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -13800,7 +14644,11 @@
       "institutional_net": 104266,
       "volume_change_pct": -16.353996016358863,
       "d0_close": 8245.0,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261015",
+        "close": 7670.0,
+        "return_pct": -6.9739
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -13815,7 +14663,11 @@
       "institutional_net": 14303266,
       "volume_change_pct": -18.850564999844334,
       "d0_close": 50.9,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261015",
+        "close": 48.3,
+        "return_pct": -5.1081
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -13830,7 +14682,11 @@
       "institutional_net": -72565,
       "volume_change_pct": 13.87283236994219,
       "d0_close": 2875.0,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261015",
+        "close": 2655.0,
+        "return_pct": -7.6522
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -13845,7 +14701,11 @@
       "institutional_net": 705290,
       "volume_change_pct": 217.90324365912076,
       "d0_close": 1935.0,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261015",
+        "close": 1815.0,
+        "return_pct": -6.2016
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -13860,7 +14720,11 @@
       "institutional_net": -115495,
       "volume_change_pct": -55.54830606483918,
       "d0_close": 711.0,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261015",
+        "close": 653.0,
+        "return_pct": -8.1575
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -13875,7 +14739,11 @@
       "institutional_net": 322985,
       "volume_change_pct": 62.55015059493589,
       "d0_close": 160.5,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261015",
+        "close": 158.5,
+        "return_pct": -1.2461
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -13890,7 +14758,11 @@
       "institutional_net": -155548,
       "volume_change_pct": 21.29939236307592,
       "d0_close": 7070.0,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261015",
+        "close": 6765.0,
+        "return_pct": -4.314
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -13905,7 +14777,11 @@
       "institutional_net": -155539,
       "volume_change_pct": -52.99827982593419,
       "d0_close": 3940.0,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261015",
+        "close": 3705.0,
+        "return_pct": -5.9645
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -13920,7 +14796,11 @@
       "institutional_net": -476657,
       "volume_change_pct": -30.784807740327913,
       "d0_close": 2235.0,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261015",
+        "close": 2015.0,
+        "return_pct": -9.8434
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -13935,7 +14815,11 @@
       "institutional_net": 1116309,
       "volume_change_pct": -17.398244803446993,
       "d0_close": 747.0,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261015",
+        "close": 673.0,
+        "return_pct": -9.9063
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -13950,7 +14834,11 @@
       "institutional_net": 186356,
       "volume_change_pct": -68.24394070928001,
       "d0_close": 100.0,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261015",
+        "close": 98.1,
+        "return_pct": -1.9
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -13965,7 +14853,11 @@
       "institutional_net": -527278,
       "volume_change_pct": 191.27134724857683,
       "d0_close": 561.0,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261015",
+        "close": 538.0,
+        "return_pct": -4.0998
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -13980,7 +14872,11 @@
       "institutional_net": 4282304,
       "volume_change_pct": 29.516859587317555,
       "d0_close": 588.0,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261015",
+        "close": 542.0,
+        "return_pct": -7.8231
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -13995,7 +14891,11 @@
       "institutional_net": 82263,
       "volume_change_pct": -4.996537580567839,
       "d0_close": 1545.0,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261015",
+        "close": 1495.0,
+        "return_pct": -3.2362
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -14010,7 +14910,11 @@
       "institutional_net": 8792,
       "volume_change_pct": 61.572052401746724,
       "d0_close": 17500.0,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261015",
+        "close": 15945.0,
+        "return_pct": -8.8857
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -14025,7 +14929,11 @@
       "institutional_net": 1198906,
       "volume_change_pct": 31.962207741796945,
       "d0_close": 75.2,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261015",
+        "close": 74.8,
+        "return_pct": -0.5319
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -14040,7 +14948,11 @@
       "institutional_net": -53939,
       "volume_change_pct": -44.71961168216675,
       "d0_close": 1540.0,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261015",
+        "close": 1390.0,
+        "return_pct": -9.7403
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -14055,7 +14967,11 @@
       "institutional_net": -5477571,
       "volume_change_pct": 11.59698892737222,
       "d0_close": 89.8,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261015",
+        "close": 93.0,
+        "return_pct": 3.5635
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -14070,7 +14986,11 @@
       "institutional_net": 306309,
       "volume_change_pct": -39.03957993452251,
       "d0_close": 856.0,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261015",
+        "close": 799.0,
+        "return_pct": -6.6589
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -14085,7 +15005,11 @@
       "institutional_net": -172581,
       "volume_change_pct": -34.198270126413846,
       "d0_close": 5885.0,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261015",
+        "close": 5300.0,
+        "return_pct": -9.9405
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -14100,7 +15024,11 @@
       "institutional_net": 1677661,
       "volume_change_pct": -2.85657211346384,
       "d0_close": 1735.0,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261015",
+        "close": 1625.0,
+        "return_pct": -6.3401
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -14115,7 +15043,11 @@
       "institutional_net": 1306748,
       "volume_change_pct": -61.523248590541456,
       "d0_close": 253.0,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261015",
+        "close": 241.0,
+        "return_pct": -4.7431
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -14130,7 +15062,11 @@
       "institutional_net": 147997,
       "volume_change_pct": 13.338010920587905,
       "d0_close": 74.3,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261015",
+        "close": 74.2,
+        "return_pct": -0.1346
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -14145,7 +15081,11 @@
       "institutional_net": -197874,
       "volume_change_pct": -58.52799470425314,
       "d0_close": 1640.0,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261015",
+        "close": 1540.0,
+        "return_pct": -6.0976
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -14160,7 +15100,11 @@
       "institutional_net": 67833,
       "volume_change_pct": -54.79432128587798,
       "d0_close": 389.5,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261015",
+        "close": 360.5,
+        "return_pct": -7.4454
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -14175,7 +15119,11 @@
       "institutional_net": -944743,
       "volume_change_pct": -30.570773346923175,
       "d0_close": 1020.0,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261015",
+        "close": 923.0,
+        "return_pct": -9.5098
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -14190,7 +15138,11 @@
       "institutional_net": -44528,
       "volume_change_pct": 25.137614678899077,
       "d0_close": 3225.0,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261015",
+        "close": 2905.0,
+        "return_pct": -9.9225
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -14205,7 +15157,11 @@
       "institutional_net": -839572,
       "volume_change_pct": -46.4033664323269,
       "d0_close": 923.0,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261015",
+        "close": 831.0,
+        "return_pct": -9.9675
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -14220,7 +15176,11 @@
       "institutional_net": -655722,
       "volume_change_pct": 157.25016043906308,
       "d0_close": 2115.0,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261015",
+        "close": 1905.0,
+        "return_pct": -9.9291
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -14235,7 +15195,11 @@
       "institutional_net": 19567777,
       "volume_change_pct": -39.45099141262113,
       "d0_close": 71.0,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261015",
+        "close": 66.2,
+        "return_pct": -6.7606
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -14250,7 +15214,11 @@
       "institutional_net": 294798,
       "volume_change_pct": -5.424910332252009,
       "d0_close": 1430.0,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261015",
+        "close": 1345.0,
+        "return_pct": -5.9441
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -14265,7 +15233,11 @@
       "institutional_net": 282582,
       "volume_change_pct": -42.39261296541903,
       "d0_close": 853.0,
-      "d_plus_1": null,
+      "d_plus_1": {
+        "date": "20261015",
+        "close": 833.0,
+        "return_pct": -2.3447
+      },
       "d_plus_3": null,
       "d_plus_5": null,
       "d_plus_10": null
@@ -14280,6 +15252,925 @@
       "institutional_net": -18350,
       "volume_change_pct": -67.65682656826569,
       "d0_close": 1965.0,
+      "d_plus_1": {
+        "date": "20261015",
+        "close": 1830.0,
+        "return_pct": -6.8702
+      },
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261015",
+      "code": "2301",
+      "name": "光寶科",
+      "market": "TWSE",
+      "theme": "電源/伺服器",
+      "d0_quadrant": "量增＋法人資金流出",
+      "institutional_net": -7791958,
+      "volume_change_pct": 152.87830559599578,
+      "d0_close": 268.0,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261015",
+      "code": "2303",
+      "name": "聯電",
+      "market": "TWSE",
+      "theme": "晶圓代工",
+      "d0_quadrant": "量增＋法人資金流出",
+      "institutional_net": -40686298,
+      "volume_change_pct": 95.20980857136846,
+      "d0_close": 133.5,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261015",
+      "code": "2308",
+      "name": "台達電",
+      "market": "TWSE",
+      "theme": "電源/資料中心",
+      "d0_quadrant": "量增＋法人資金流出",
+      "institutional_net": -10343950,
+      "volume_change_pct": 161.040202916565,
+      "d0_close": 1630.0,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261015",
+      "code": "2317",
+      "name": "鴻海",
+      "market": "TWSE",
+      "theme": "AI伺服器/電子製造",
+      "d0_quadrant": "量增＋法人資金流出",
+      "institutional_net": -10167806,
+      "volume_change_pct": 43.603177444930985,
+      "d0_close": 239.5,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261015",
+      "code": "2324",
+      "name": "仁寶",
+      "market": "TWSE",
+      "theme": "ODM",
+      "d0_quadrant": "量縮＋法人資金流出",
+      "institutional_net": -11558656,
+      "volume_change_pct": -24.930527790791956,
+      "d0_close": 36.0,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261015",
+      "code": "2330",
+      "name": "台積電",
+      "market": "TWSE",
+      "theme": "晶圓代工/AI晶片",
+      "d0_quadrant": "量增＋法人資金流出",
+      "institutional_net": -23460484,
+      "volume_change_pct": 108.04935909794912,
+      "d0_close": 2440.0,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261015",
+      "code": "2344",
+      "name": "華邦電",
+      "market": "TWSE",
+      "theme": "記憶體",
+      "d0_quadrant": "量增＋法人資金流出",
+      "institutional_net": -20646564,
+      "volume_change_pct": 40.383062135376235,
+      "d0_close": 155.0,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261015",
+      "code": "2345",
+      "name": "智邦",
+      "market": "TWSE",
+      "theme": "網通/AI資料中心",
+      "d0_quadrant": "量增＋法人資金流出",
+      "institutional_net": -326056,
+      "volume_change_pct": 1.0185690616109522,
+      "d0_close": 1950.0,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261015",
+      "code": "2356",
+      "name": "英業達",
+      "market": "TWSE",
+      "theme": "伺服器/ODM",
+      "d0_quadrant": "量增＋法人資金流出",
+      "institutional_net": -2396633,
+      "volume_change_pct": 37.29079369513046,
+      "d0_close": 57.6,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261015",
+      "code": "2368",
+      "name": "金像電",
+      "market": "TWSE",
+      "theme": "PCB/AI伺服器",
+      "d0_quadrant": "量縮＋法人資金流出",
+      "institutional_net": -1831573,
+      "volume_change_pct": -16.21543279530826,
+      "d0_close": 1190.0,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261015",
+      "code": "2379",
+      "name": "瑞昱",
+      "market": "TWSE",
+      "theme": "IC設計/網通",
+      "d0_quadrant": "量增＋法人資金流入",
+      "institutional_net": 621846,
+      "volume_change_pct": 6.638697563913021,
+      "d0_close": 764.0,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261015",
+      "code": "2382",
+      "name": "廣達",
+      "market": "TWSE",
+      "theme": "AI伺服器/ODM",
+      "d0_quadrant": "量增＋法人資金流出",
+      "institutional_net": -1014385,
+      "volume_change_pct": 29.150770451614918,
+      "d0_close": 316.5,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261015",
+      "code": "2383",
+      "name": "台光電",
+      "market": "TWSE",
+      "theme": "CCL/高速材料",
+      "d0_quadrant": "量增＋法人資金流出",
+      "institutional_net": -632730,
+      "volume_change_pct": 153.84994399932927,
+      "d0_close": 5120.0,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261015",
+      "code": "2408",
+      "name": "南亞科",
+      "market": "TWSE",
+      "theme": "記憶體",
+      "d0_quadrant": "量增＋法人資金流出",
+      "institutional_net": -23504473,
+      "volume_change_pct": 43.36960113952253,
+      "d0_close": 439.5,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261015",
+      "code": "2421",
+      "name": "建準",
+      "market": "TWSE",
+      "theme": "散熱",
+      "d0_quadrant": "量增＋法人資金流出",
+      "institutional_net": -501288,
+      "volume_change_pct": 19.92249315168837,
+      "d0_close": 164.0,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261015",
+      "code": "2454",
+      "name": "聯發科",
+      "market": "TWSE",
+      "theme": "IC設計/AI邊緣運算",
+      "d0_quadrant": "量增＋法人資金流出",
+      "institutional_net": -6126682,
+      "volume_change_pct": 137.19587736491025,
+      "d0_close": 4165.0,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261015",
+      "code": "3013",
+      "name": "晟銘電",
+      "market": "TWSE",
+      "theme": "伺服器機殼",
+      "d0_quadrant": "量增＋法人資金流出",
+      "institutional_net": -1065477,
+      "volume_change_pct": 17.777213636241896,
+      "d0_close": 94.7,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261015",
+      "code": "3017",
+      "name": "奇鋐",
+      "market": "TWSE",
+      "theme": "散熱",
+      "d0_quadrant": "量增＋法人資金流出",
+      "institutional_net": -1125960,
+      "volume_change_pct": 78.59555602470047,
+      "d0_close": 3085.0,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261015",
+      "code": "3034",
+      "name": "聯詠",
+      "market": "TWSE",
+      "theme": "IC設計",
+      "d0_quadrant": "量增＋法人資金流入",
+      "institutional_net": 2356976,
+      "volume_change_pct": 8.978322988146559,
+      "d0_close": 565.0,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261015",
+      "code": "3035",
+      "name": "智原",
+      "market": "TWSE",
+      "theme": "ASIC/IP",
+      "d0_quadrant": "量增＋法人資金流出",
+      "institutional_net": -914256,
+      "volume_change_pct": 93.07738300623984,
+      "d0_close": 197.5,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261015",
+      "code": "3037",
+      "name": "欣興",
+      "market": "TWSE",
+      "theme": "PCB/載板",
+      "d0_quadrant": "量增＋法人資金流出",
+      "institutional_net": -6272069,
+      "volume_change_pct": 68.71475486750495,
+      "d0_close": 1075.0,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261015",
+      "code": "3081",
+      "name": "聯亞",
+      "market": "TPEx",
+      "theme": "光通訊",
+      "d0_quadrant": "量縮＋法人資金流出",
+      "institutional_net": -184182,
+      "volume_change_pct": -4.8048922539312695,
+      "d0_close": 2640.0,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261015",
+      "code": "3131",
+      "name": "弘塑",
+      "market": "TPEx",
+      "theme": "半導體設備",
+      "d0_quadrant": "量增＋法人資金流出",
+      "institutional_net": -184125,
+      "volume_change_pct": 138.86255924170615,
+      "d0_close": 2140.0,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261015",
+      "code": "3162",
+      "name": "精確",
+      "market": "TPEx",
+      "theme": "AI散熱/金屬零組件",
+      "d0_quadrant": "量增＋法人資金流出",
+      "institutional_net": -433806,
+      "volume_change_pct": 56.222222222222214,
+      "d0_close": 76.4,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261015",
+      "code": "3163",
+      "name": "波若威",
+      "market": "TPEx",
+      "theme": "光通訊",
+      "d0_quadrant": "量增＋法人資金流出",
+      "institutional_net": -187238,
+      "volume_change_pct": 31.4868804664723,
+      "d0_close": 604.0,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261015",
+      "code": "3231",
+      "name": "緯創",
+      "market": "TWSE",
+      "theme": "AI伺服器/ODM",
+      "d0_quadrant": "量增＋法人資金流出",
+      "institutional_net": -40662147,
+      "volume_change_pct": 208.51817549772002,
+      "d0_close": 176.0,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261015",
+      "code": "3324",
+      "name": "雙鴻",
+      "market": "TPEx",
+      "theme": "散熱",
+      "d0_quadrant": "量縮＋法人資金流入",
+      "institutional_net": 147539,
+      "volume_change_pct": -7.848101265822782,
+      "d0_close": 1410.0,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261015",
+      "code": "3363",
+      "name": "上詮",
+      "market": "TPEx",
+      "theme": "光通訊",
+      "d0_quadrant": "量縮＋法人資金流出",
+      "institutional_net": -129430,
+      "volume_change_pct": -15.171351559491718,
+      "d0_close": 520.0,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261015",
+      "code": "3443",
+      "name": "創意",
+      "market": "TWSE",
+      "theme": "ASIC/AI晶片",
+      "d0_quadrant": "量增＋法人資金流入",
+      "institutional_net": 197213,
+      "volume_change_pct": 107.67010879424555,
+      "d0_close": 7670.0,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261015",
+      "code": "3481",
+      "name": "群創",
+      "market": "TWSE",
+      "theme": "顯示/先進封裝相關",
+      "d0_quadrant": "量增＋法人資金流出",
+      "institutional_net": -42957871,
+      "volume_change_pct": 64.95255788252416,
+      "d0_close": 48.3,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261015",
+      "code": "3529",
+      "name": "力旺",
+      "market": "TPEx",
+      "theme": "矽智財/IP",
+      "d0_quadrant": "量增＋法人資金流出",
+      "institutional_net": -60959,
+      "volume_change_pct": 28.62944162436549,
+      "d0_close": 2655.0,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261015",
+      "code": "3533",
+      "name": "嘉澤",
+      "market": "TWSE",
+      "theme": "高速連接器",
+      "d0_quadrant": "量縮＋法人資金流出",
+      "institutional_net": -482070,
+      "volume_change_pct": -43.09916696019612,
+      "d0_close": 1815.0,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261015",
+      "code": "3583",
+      "name": "辛耘",
+      "market": "TWSE",
+      "theme": "半導體設備",
+      "d0_quadrant": "量增＋法人資金流出",
+      "institutional_net": -747253,
+      "volume_change_pct": 155.0839918460675,
+      "d0_close": 653.0,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261015",
+      "code": "3596",
+      "name": "智易",
+      "market": "TWSE",
+      "theme": "網通",
+      "d0_quadrant": "量縮＋法人資金流入",
+      "institutional_net": 41629,
+      "volume_change_pct": -34.63921205773358,
+      "d0_close": 158.5,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261015",
+      "code": "3653",
+      "name": "健策",
+      "market": "TWSE",
+      "theme": "散熱/伺服器零組件",
+      "d0_quadrant": "量增＋法人資金流出",
+      "institutional_net": -11652,
+      "volume_change_pct": 46.82031308312919,
+      "d0_close": 6765.0,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261015",
+      "code": "3661",
+      "name": "世芯-KY",
+      "market": "TWSE",
+      "theme": "ASIC/AI晶片",
+      "d0_quadrant": "量縮＋法人資金流出",
+      "institutional_net": -123878,
+      "volume_change_pct": -14.490017514437326,
+      "d0_close": 3705.0,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261015",
+      "code": "3665",
+      "name": "貿聯-KY",
+      "market": "TWSE",
+      "theme": "高速傳輸/連接器",
+      "d0_quadrant": "量增＋法人資金流出",
+      "institutional_net": -539074,
+      "volume_change_pct": 79.52093296279274,
+      "d0_close": 2015.0,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261015",
+      "code": "3711",
+      "name": "日月光投控",
+      "market": "TWSE",
+      "theme": "封裝測試",
+      "d0_quadrant": "量增＋法人資金流出",
+      "institutional_net": -18815009,
+      "volume_change_pct": 189.4658676180197,
+      "d0_close": 673.0,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261015",
+      "code": "4938",
+      "name": "和碩",
+      "market": "TWSE",
+      "theme": "ODM",
+      "d0_quadrant": "量增＋法人資金流出",
+      "institutional_net": -215489,
+      "volume_change_pct": 5.6174094944794195,
+      "d0_close": 98.1,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261015",
+      "code": "4966",
+      "name": "譜瑞-KY",
+      "market": "TPEx",
+      "theme": "高速傳輸IC",
+      "d0_quadrant": "量縮＋法人資金流出",
+      "institutional_net": -256518,
+      "volume_change_pct": -38.371335504886,
+      "d0_close": 538.0,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261015",
+      "code": "4979",
+      "name": "華星光",
+      "market": "TPEx",
+      "theme": "光通訊",
+      "d0_quadrant": "量縮＋法人資金流出",
+      "institutional_net": -1676530,
+      "volume_change_pct": -10.38469011074412,
+      "d0_close": 542.0,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261015",
+      "code": "5269",
+      "name": "祥碩",
+      "market": "TWSE",
+      "theme": "高速傳輸IC",
+      "d0_quadrant": "量增＋法人資金流入",
+      "institutional_net": 4729,
+      "volume_change_pct": 10.717549761704515,
+      "d0_close": 1495.0,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261015",
+      "code": "5274",
+      "name": "信驊",
+      "market": "TPEx",
+      "theme": "伺服器管理IC",
+      "d0_quadrant": "量增＋法人資金流出",
+      "institutional_net": -170075,
+      "volume_change_pct": 96.48648648648648,
+      "d0_close": 15945.0,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261015",
+      "code": "5388",
+      "name": "中磊",
+      "market": "TWSE",
+      "theme": "網通",
+      "d0_quadrant": "量縮＋法人資金流入",
+      "institutional_net": 587887,
+      "volume_change_pct": -12.79428828204111,
+      "d0_close": 74.8,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261015",
+      "code": "6187",
+      "name": "萬潤",
+      "market": "TPEx",
+      "theme": "半導體設備",
+      "d0_quadrant": "量增＋法人資金流出",
+      "institutional_net": -161852,
+      "volume_change_pct": 0.7674144037780328,
+      "d0_close": 1390.0,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261015",
+      "code": "6209",
+      "name": "今國光",
+      "market": "TWSE",
+      "theme": "光學/機器視覺",
+      "d0_quadrant": "量增＋法人資金流入",
+      "institutional_net": 12250764,
+      "volume_change_pct": 93.34412876222216,
+      "d0_close": 93.0,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261015",
+      "code": "6213",
+      "name": "聯茂",
+      "market": "TWSE",
+      "theme": "CCL",
+      "d0_quadrant": "量增＋法人資金流出",
+      "institutional_net": -1362887,
+      "volume_change_pct": 41.88867111935095,
+      "d0_close": 799.0,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261015",
+      "code": "6223",
+      "name": "旺矽",
+      "market": "TPEx",
+      "theme": "半導體測試",
+      "d0_quadrant": "量增＋法人資金流出",
+      "institutional_net": -147527,
+      "volume_change_pct": 20.02022244691608,
+      "d0_close": 5300.0,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261015",
+      "code": "6274",
+      "name": "台燿",
+      "market": "TPEx",
+      "theme": "CCL/高速材料",
+      "d0_quadrant": "量增＋法人資金流入",
+      "institutional_net": 921168,
+      "volume_change_pct": 46.535060662142705,
+      "d0_close": 1625.0,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261015",
+      "code": "6285",
+      "name": "啟碁",
+      "market": "TWSE",
+      "theme": "網通",
+      "d0_quadrant": "量增＋法人資金流出",
+      "institutional_net": -2286395,
+      "volume_change_pct": 22.166802109800663,
+      "d0_close": 241.0,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261015",
+      "code": "6412",
+      "name": "群電",
+      "market": "TWSE",
+      "theme": "電源",
+      "d0_quadrant": "量增＋法人資金流入",
+      "institutional_net": 162466,
+      "volume_change_pct": 2.2573153386162836,
+      "d0_close": 74.2,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261015",
+      "code": "6442",
+      "name": "光聖",
+      "market": "TWSE",
+      "theme": "光通訊",
+      "d0_quadrant": "量增＋法人資金流出",
+      "institutional_net": -16091,
+      "volume_change_pct": 36.74469382684447,
+      "d0_close": 1540.0,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261015",
+      "code": "6451",
+      "name": "訊芯-KY",
+      "market": "TWSE",
+      "theme": "高速傳輸/封裝",
+      "d0_quadrant": "量增＋法人資金流出",
+      "institutional_net": -207850,
+      "volume_change_pct": 24.939732819897408,
+      "d0_close": 360.5,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261015",
+      "code": "6488",
+      "name": "環球晶",
+      "market": "TPEx",
+      "theme": "半導體材料",
+      "d0_quadrant": "量增＋法人資金流出",
+      "institutional_net": -2114902,
+      "volume_change_pct": 72.95164694008625,
+      "d0_close": 923.0,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261015",
+      "code": "6510",
+      "name": "精測",
+      "market": "TPEx",
+      "theme": "半導體測試",
+      "d0_quadrant": "量增＋法人資金流出",
+      "institutional_net": -281809,
+      "volume_change_pct": 16.71554252199414,
+      "d0_close": 2905.0,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261015",
+      "code": "6531",
+      "name": "愛普*",
+      "market": "TWSE",
+      "theme": "記憶體/IP",
+      "d0_quadrant": "量增＋法人資金流出",
+      "institutional_net": -1658321,
+      "volume_change_pct": 59.97203871132872,
+      "d0_close": 831.0,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261015",
+      "code": "6669",
+      "name": "緯穎",
+      "market": "TWSE",
+      "theme": "AI伺服器/ODM",
+      "d0_quadrant": "量增＋法人資金流出",
+      "institutional_net": -3209010,
+      "volume_change_pct": 36.67311325623095,
+      "d0_close": 1905.0,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261015",
+      "code": "6770",
+      "name": "力積電",
+      "market": "TWSE",
+      "theme": "晶圓代工/記憶體",
+      "d0_quadrant": "量增＋法人資金流出",
+      "institutional_net": -95838752,
+      "volume_change_pct": 41.110499253851906,
+      "d0_close": 66.2,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261015",
+      "code": "8046",
+      "name": "南電",
+      "market": "TWSE",
+      "theme": "載板",
+      "d0_quadrant": "量增＋法人資金流出",
+      "institutional_net": -626797,
+      "volume_change_pct": 51.46148067587124,
+      "d0_close": 1345.0,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261015",
+      "code": "8210",
+      "name": "勤誠",
+      "market": "TWSE",
+      "theme": "伺服器機殼",
+      "d0_quadrant": "量增＋法人資金流出",
+      "institutional_net": -311070,
+      "volume_change_pct": 55.835183707078365,
+      "d0_close": 833.0,
+      "d_plus_1": null,
+      "d_plus_3": null,
+      "d_plus_5": null,
+      "d_plus_10": null
+    },
+    {
+      "d0_date": "20261015",
+      "code": "8299",
+      "name": "群聯",
+      "market": "TPEx",
+      "theme": "儲存控制IC",
+      "d0_quadrant": "量增＋法人資金流出",
+      "institutional_net": -1191019,
+      "volume_change_pct": 226.6970907016543,
+      "d0_close": 1830.0,
       "d_plus_1": null,
       "d_plus_3": null,
       "d_plus_5": null,

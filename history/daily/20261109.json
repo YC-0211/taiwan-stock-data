@@ -1,0 +1,3244 @@
+{
+  "model_version": "V1.1",
+  "target_date": "20261109",
+  "universe_version": "2026-10-01",
+  "universe_description": "AI投資模型 V1.1 科技/AI 固定候選池。母體固定，四象限每日依官方資料更新；selected_20 僅為研究樣本，不代表投資優劣或買賣建議。",
+  "universe_size": 61,
+  "selection_rule": "每象限最多5檔；象限內依法人合計買賣超絕對值、成交量變化率絕對值、股票代號建立可重現順序；僅為研究樣本順序，非投資優劣排名。",
+  "selected_20_count": 17,
+  "selected_20": [
+    {
+      "code": "3363",
+      "name": "上詮",
+      "market": "TPEx",
+      "theme": "光通訊",
+      "quadrant": "量增＋法人資金流入",
+      "institutional_net": 2467725,
+      "volume_change_pct": 146.34460547504028,
+      "target_date": "20261109"
+    },
+    {
+      "code": "3324",
+      "name": "雙鴻",
+      "market": "TPEx",
+      "theme": "散熱",
+      "quadrant": "量增＋法人資金流入",
+      "institutional_net": 96598,
+      "volume_change_pct": 130.8464369354299,
+      "target_date": "20261109"
+    },
+    {
+      "code": "2303",
+      "name": "聯電",
+      "market": "TWSE",
+      "theme": "晶圓代工",
+      "quadrant": "量增＋法人資金流出",
+      "institutional_net": -54042466,
+      "volume_change_pct": 2.1516330268196215,
+      "target_date": "20261109"
+    },
+    {
+      "code": "3037",
+      "name": "欣興",
+      "market": "TWSE",
+      "theme": "PCB/載板",
+      "quadrant": "量增＋法人資金流出",
+      "institutional_net": -9687782,
+      "volume_change_pct": 12.611884350807422,
+      "target_date": "20261109"
+    },
+    {
+      "code": "6274",
+      "name": "台燿",
+      "market": "TPEx",
+      "theme": "CCL/高速材料",
+      "quadrant": "量增＋法人資金流出",
+      "institutional_net": -2201878,
+      "volume_change_pct": 54.231417337577234,
+      "target_date": "20261109"
+    },
+    {
+      "code": "8046",
+      "name": "南電",
+      "market": "TWSE",
+      "theme": "載板",
+      "quadrant": "量增＋法人資金流出",
+      "institutional_net": -950660,
+      "volume_change_pct": 5.916283455675986,
+      "target_date": "20261109"
+    },
+    {
+      "code": "6213",
+      "name": "聯茂",
+      "market": "TWSE",
+      "theme": "CCL",
+      "quadrant": "量增＋法人資金流出",
+      "institutional_net": -774057,
+      "volume_change_pct": 8.484405323331568,
+      "target_date": "20261109"
+    },
+    {
+      "code": "3711",
+      "name": "日月光投控",
+      "market": "TWSE",
+      "theme": "封裝測試",
+      "quadrant": "量縮＋法人資金流出",
+      "institutional_net": -6091651,
+      "volume_change_pct": -29.50518319240225,
+      "target_date": "20261109"
+    },
+    {
+      "code": "2330",
+      "name": "台積電",
+      "market": "TWSE",
+      "theme": "晶圓代工/AI晶片",
+      "quadrant": "量縮＋法人資金流出",
+      "institutional_net": -5694748,
+      "volume_change_pct": -58.55720619722855,
+      "target_date": "20261109"
+    },
+    {
+      "code": "2408",
+      "name": "南亞科",
+      "market": "TWSE",
+      "theme": "記憶體",
+      "quadrant": "量縮＋法人資金流出",
+      "institutional_net": -4225293,
+      "volume_change_pct": -35.83984052681676,
+      "target_date": "20261109"
+    },
+    {
+      "code": "2382",
+      "name": "廣達",
+      "market": "TWSE",
+      "theme": "AI伺服器/ODM",
+      "quadrant": "量縮＋法人資金流出",
+      "institutional_net": -3179748,
+      "volume_change_pct": -44.983411335594056,
+      "target_date": "20261109"
+    },
+    {
+      "code": "2324",
+      "name": "仁寶",
+      "market": "TWSE",
+      "theme": "ODM",
+      "quadrant": "量縮＋法人資金流出",
+      "institutional_net": -2637728,
+      "volume_change_pct": -56.1768564226133,
+      "target_date": "20261109"
+    },
+    {
+      "code": "3481",
+      "name": "群創",
+      "market": "TWSE",
+      "theme": "顯示/先進封裝相關",
+      "quadrant": "量縮＋法人資金流入",
+      "institutional_net": 9933373,
+      "volume_change_pct": -58.92135490778575,
+      "target_date": "20261109"
+    },
+    {
+      "code": "2317",
+      "name": "鴻海",
+      "market": "TWSE",
+      "theme": "AI伺服器/電子製造",
+      "quadrant": "量縮＋法人資金流入",
+      "institutional_net": 9128323,
+      "volume_change_pct": -43.48398308661034,
+      "target_date": "20261109"
+    },
+    {
+      "code": "6770",
+      "name": "力積電",
+      "market": "TWSE",
+      "theme": "晶圓代工/記憶體",
+      "quadrant": "量縮＋法人資金流入",
+      "institutional_net": 4253035,
+      "volume_change_pct": -66.6997073130851,
+      "target_date": "20261109"
+    },
+    {
+      "code": "2344",
+      "name": "華邦電",
+      "market": "TWSE",
+      "theme": "記憶體",
+      "quadrant": "量縮＋法人資金流入",
+      "institutional_net": 2725746,
+      "volume_change_pct": -54.949678778393405,
+      "target_date": "20261109"
+    },
+    {
+      "code": "3231",
+      "name": "緯創",
+      "market": "TWSE",
+      "theme": "AI伺服器/ODM",
+      "quadrant": "量縮＋法人資金流入",
+      "institutional_net": 1850960,
+      "volume_change_pct": -17.274575038798844,
+      "target_date": "20261109"
+    }
+  ],
+  "selected_by_quadrant": {
+    "量增＋法人資金流入": [
+      {
+        "code": "3363",
+        "name": "上詮",
+        "market": "TPEx",
+        "theme": "光通訊",
+        "quadrant": "量增＋法人資金流入",
+        "institutional_net": 2467725,
+        "volume_change_pct": 146.34460547504028,
+        "target_date": "20261109"
+      },
+      {
+        "code": "3324",
+        "name": "雙鴻",
+        "market": "TPEx",
+        "theme": "散熱",
+        "quadrant": "量增＋法人資金流入",
+        "institutional_net": 96598,
+        "volume_change_pct": 130.8464369354299,
+        "target_date": "20261109"
+      }
+    ],
+    "量增＋法人資金流出": [
+      {
+        "code": "2303",
+        "name": "聯電",
+        "market": "TWSE",
+        "theme": "晶圓代工",
+        "quadrant": "量增＋法人資金流出",
+        "institutional_net": -54042466,
+        "volume_change_pct": 2.1516330268196215,
+        "target_date": "20261109"
+      },
+      {
+        "code": "3037",
+        "name": "欣興",
+        "market": "TWSE",
+        "theme": "PCB/載板",
+        "quadrant": "量增＋法人資金流出",
+        "institutional_net": -9687782,
+        "volume_change_pct": 12.611884350807422,
+        "target_date": "20261109"
+      },
+      {
+        "code": "6274",
+        "name": "台燿",
+        "market": "TPEx",
+        "theme": "CCL/高速材料",
+        "quadrant": "量增＋法人資金流出",
+        "institutional_net": -2201878,
+        "volume_change_pct": 54.231417337577234,
+        "target_date": "20261109"
+      },
+      {
+        "code": "8046",
+        "name": "南電",
+        "market": "TWSE",
+        "theme": "載板",
+        "quadrant": "量增＋法人資金流出",
+        "institutional_net": -950660,
+        "volume_change_pct": 5.916283455675986,
+        "target_date": "20261109"
+      },
+      {
+        "code": "6213",
+        "name": "聯茂",
+        "market": "TWSE",
+        "theme": "CCL",
+        "quadrant": "量增＋法人資金流出",
+        "institutional_net": -774057,
+        "volume_change_pct": 8.484405323331568,
+        "target_date": "20261109"
+      }
+    ],
+    "量縮＋法人資金流出": [
+      {
+        "code": "3711",
+        "name": "日月光投控",
+        "market": "TWSE",
+        "theme": "封裝測試",
+        "quadrant": "量縮＋法人資金流出",
+        "institutional_net": -6091651,
+        "volume_change_pct": -29.50518319240225,
+        "target_date": "20261109"
+      },
+      {
+        "code": "2330",
+        "name": "台積電",
+        "market": "TWSE",
+        "theme": "晶圓代工/AI晶片",
+        "quadrant": "量縮＋法人資金流出",
+        "institutional_net": -5694748,
+        "volume_change_pct": -58.55720619722855,
+        "target_date": "20261109"
+      },
+      {
+        "code": "2408",
+        "name": "南亞科",
+        "market": "TWSE",
+        "theme": "記憶體",
+        "quadrant": "量縮＋法人資金流出",
+        "institutional_net": -4225293,
+        "volume_change_pct": -35.83984052681676,
+        "target_date": "20261109"
+      },
+      {
+        "code": "2382",
+        "name": "廣達",
+        "market": "TWSE",
+        "theme": "AI伺服器/ODM",
+        "quadrant": "量縮＋法人資金流出",
+        "institutional_net": -3179748,
+        "volume_change_pct": -44.983411335594056,
+        "target_date": "20261109"
+      },
+      {
+        "code": "2324",
+        "name": "仁寶",
+        "market": "TWSE",
+        "theme": "ODM",
+        "quadrant": "量縮＋法人資金流出",
+        "institutional_net": -2637728,
+        "volume_change_pct": -56.1768564226133,
+        "target_date": "20261109"
+      }
+    ],
+    "量縮＋法人資金流入": [
+      {
+        "code": "3481",
+        "name": "群創",
+        "market": "TWSE",
+        "theme": "顯示/先進封裝相關",
+        "quadrant": "量縮＋法人資金流入",
+        "institutional_net": 9933373,
+        "volume_change_pct": -58.92135490778575,
+        "target_date": "20261109"
+      },
+      {
+        "code": "2317",
+        "name": "鴻海",
+        "market": "TWSE",
+        "theme": "AI伺服器/電子製造",
+        "quadrant": "量縮＋法人資金流入",
+        "institutional_net": 9128323,
+        "volume_change_pct": -43.48398308661034,
+        "target_date": "20261109"
+      },
+      {
+        "code": "6770",
+        "name": "力積電",
+        "market": "TWSE",
+        "theme": "晶圓代工/記憶體",
+        "quadrant": "量縮＋法人資金流入",
+        "institutional_net": 4253035,
+        "volume_change_pct": -66.6997073130851,
+        "target_date": "20261109"
+      },
+      {
+        "code": "2344",
+        "name": "華邦電",
+        "market": "TWSE",
+        "theme": "記憶體",
+        "quadrant": "量縮＋法人資金流入",
+        "institutional_net": 2725746,
+        "volume_change_pct": -54.949678778393405,
+        "target_date": "20261109"
+      },
+      {
+        "code": "3231",
+        "name": "緯創",
+        "market": "TWSE",
+        "theme": "AI伺服器/ODM",
+        "quadrant": "量縮＋法人資金流入",
+        "institutional_net": 1850960,
+        "volume_change_pct": -17.274575038798844,
+        "target_date": "20261109"
+      }
+    ]
+  },
+  "stocks": {
+    "3481": {
+      "name": "群創",
+      "market": "TWSE",
+      "theme": "顯示/先進封裝相關",
+      "date": "20261109",
+      "foreign": {
+        "buy": 44087254,
+        "sell": 35811067,
+        "net": 8276187
+      },
+      "trust": {
+        "buy": 0,
+        "sell": 0,
+        "net": 0
+      },
+      "dealer": {
+        "net": 1657186
+      },
+      "institutional_net": 9933373,
+      "institutional_reconciliation": {
+        "component_sum": 9933373,
+        "official_total": 9933373,
+        "difference": 0,
+        "matches": true,
+        "policy": "components_must_match_official_total"
+      },
+      "institutional_direction": "inflow",
+      "volume": {
+        "previous_date_roc": "115/11/06",
+        "latest_date_roc": "115/11/09",
+        "previous_date": "20261106",
+        "latest_date": "20261109",
+        "previous_volume": 243608933,
+        "latest_volume": 100071249,
+        "previous_close": 36.05,
+        "latest_close": 39.65,
+        "unit": "shares",
+        "change_pct": -58.92135490778575,
+        "direction": "decrease",
+        "source": "TWSE"
+      },
+      "normalized_date": "20261109",
+      "quadrant": "量縮＋法人資金流入"
+    },
+    "2317": {
+      "name": "鴻海",
+      "market": "TWSE",
+      "theme": "AI伺服器/電子製造",
+      "date": "20261109",
+      "foreign": {
+        "buy": 24774465,
+        "sell": 21105154,
+        "net": 3669311
+      },
+      "trust": {
+        "buy": 5185872,
+        "sell": 301000,
+        "net": 4884872
+      },
+      "dealer": {
+        "net": 574140
+      },
+      "institutional_net": 9128323,
+      "institutional_reconciliation": {
+        "component_sum": 9128323,
+        "official_total": 9128323,
+        "difference": 0,
+        "matches": true,
+        "policy": "components_must_match_official_total"
+      },
+      "institutional_direction": "inflow",
+      "volume": {
+        "previous_date_roc": "115/11/06",
+        "latest_date_roc": "115/11/09",
+        "previous_date": "20261106",
+        "latest_date": "20261109",
+        "previous_volume": 89094382,
+        "latest_volume": 50352596,
+        "previous_close": 224.5,
+        "latest_close": 239.0,
+        "unit": "shares",
+        "change_pct": -43.48398308661034,
+        "direction": "decrease",
+        "source": "TWSE"
+      },
+      "normalized_date": "20261109",
+      "quadrant": "量縮＋法人資金流入"
+    },
+    "6770": {
+      "name": "力積電",
+      "market": "TWSE",
+      "theme": "晶圓代工/記憶體",
+      "date": "20261109",
+      "foreign": {
+        "buy": 19212218,
+        "sell": 17665000,
+        "net": 1547218
+      },
+      "trust": {
+        "buy": 0,
+        "sell": 0,
+        "net": 0
+      },
+      "dealer": {
+        "net": 2705817
+      },
+      "institutional_net": 4253035,
+      "institutional_reconciliation": {
+        "component_sum": 4253035,
+        "official_total": 4253035,
+        "difference": 0,
+        "matches": true,
+        "policy": "components_must_match_official_total"
+      },
+      "institutional_direction": "inflow",
+      "volume": {
+        "previous_date_roc": "115/11/06",
+        "latest_date_roc": "115/11/09",
+        "previous_date": "20261106",
+        "latest_date": "20261109",
+        "previous_volume": 149714585,
+        "latest_volume": 49855395,
+        "previous_close": 52.9,
+        "latest_close": 58.1,
+        "unit": "shares",
+        "change_pct": -66.6997073130851,
+        "direction": "decrease",
+        "source": "TWSE"
+      },
+      "normalized_date": "20261109",
+      "quadrant": "量縮＋法人資金流入"
+    },
+    "2344": {
+      "name": "華邦電",
+      "market": "TWSE",
+      "theme": "記憶體",
+      "date": "20261109",
+      "foreign": {
+        "buy": 18420587,
+        "sell": 15564536,
+        "net": 2856051
+      },
+      "trust": {
+        "buy": 0,
+        "sell": 468000,
+        "net": -468000
+      },
+      "dealer": {
+        "net": 337695
+      },
+      "institutional_net": 2725746,
+      "institutional_reconciliation": {
+        "component_sum": 2725746,
+        "official_total": 2725746,
+        "difference": 0,
+        "matches": true,
+        "policy": "components_must_match_official_total"
+      },
+      "institutional_direction": "inflow",
+      "volume": {
+        "previous_date_roc": "115/11/06",
+        "latest_date_roc": "115/11/09",
+        "previous_date": "20261106",
+        "latest_date": "20261109",
+        "previous_volume": 84220829,
+        "latest_volume": 37941754,
+        "previous_close": 120.5,
+        "latest_close": 132.5,
+        "unit": "shares",
+        "change_pct": -54.949678778393405,
+        "direction": "decrease",
+        "source": "TWSE"
+      },
+      "normalized_date": "20261109",
+      "quadrant": "量縮＋法人資金流入"
+    },
+    "3231": {
+      "name": "緯創",
+      "market": "TWSE",
+      "theme": "AI伺服器/ODM",
+      "date": "20261109",
+      "foreign": {
+        "buy": 15944203,
+        "sell": 22331163,
+        "net": -6386960
+      },
+      "trust": {
+        "buy": 7952373,
+        "sell": 33000,
+        "net": 7919373
+      },
+      "dealer": {
+        "net": 318547
+      },
+      "institutional_net": 1850960,
+      "institutional_reconciliation": {
+        "component_sum": 1850960,
+        "official_total": 1850960,
+        "difference": 0,
+        "matches": true,
+        "policy": "components_must_match_official_total"
+      },
+      "institutional_direction": "inflow",
+      "volume": {
+        "previous_date_roc": "115/11/06",
+        "latest_date_roc": "115/11/09",
+        "previous_date": "20261106",
+        "latest_date": "20261109",
+        "previous_volume": 48190870,
+        "latest_volume": 39866102,
+        "previous_close": 160.0,
+        "latest_close": 168.5,
+        "unit": "shares",
+        "change_pct": -17.274575038798844,
+        "direction": "decrease",
+        "source": "TWSE"
+      },
+      "normalized_date": "20261109",
+      "quadrant": "量縮＋法人資金流入"
+    },
+    "2356": {
+      "name": "英業達",
+      "market": "TWSE",
+      "theme": "伺服器/ODM",
+      "date": "20261109",
+      "foreign": {
+        "buy": 7497116,
+        "sell": 6934497,
+        "net": 562619
+      },
+      "trust": {
+        "buy": 791000,
+        "sell": 383000,
+        "net": 408000
+      },
+      "dealer": {
+        "net": 466478
+      },
+      "institutional_net": 1437097,
+      "institutional_reconciliation": {
+        "component_sum": 1437097,
+        "official_total": 1437097,
+        "difference": 0,
+        "matches": true,
+        "policy": "components_must_match_official_total"
+      },
+      "institutional_direction": "inflow",
+      "volume": {
+        "previous_date_roc": "115/11/06",
+        "latest_date_roc": "115/11/09",
+        "previous_date": "20261106",
+        "latest_date": "20261109",
+        "previous_volume": 26559181,
+        "latest_volume": 12452034,
+        "previous_close": 52.6,
+        "latest_close": 55.6,
+        "unit": "shares",
+        "change_pct": -53.11589615658705,
+        "direction": "decrease",
+        "source": "TWSE"
+      },
+      "normalized_date": "20261109",
+      "quadrant": "量縮＋法人資金流入"
+    },
+    "6285": {
+      "name": "啟碁",
+      "market": "TWSE",
+      "theme": "網通",
+      "date": "20261109",
+      "foreign": {
+        "buy": 2970490,
+        "sell": 2010170,
+        "net": 960320
+      },
+      "trust": {
+        "buy": 11000,
+        "sell": 47000,
+        "net": -36000
+      },
+      "dealer": {
+        "net": 139669
+      },
+      "institutional_net": 1063989,
+      "institutional_reconciliation": {
+        "component_sum": 1063989,
+        "official_total": 1063989,
+        "difference": 0,
+        "matches": true,
+        "policy": "components_must_match_official_total"
+      },
+      "institutional_direction": "inflow",
+      "volume": {
+        "previous_date_roc": "115/11/06",
+        "latest_date_roc": "115/11/09",
+        "previous_date": "20261106",
+        "latest_date": "20261109",
+        "previous_volume": 12520869,
+        "latest_volume": 5314015,
+        "previous_close": 164.5,
+        "latest_close": 180.5,
+        "unit": "shares",
+        "change_pct": -57.558736538174784,
+        "direction": "decrease",
+        "source": "TWSE"
+      },
+      "normalized_date": "20261109",
+      "quadrant": "量縮＋法人資金流入"
+    },
+    "6209": {
+      "name": "今國光",
+      "market": "TWSE",
+      "theme": "光學/機器視覺",
+      "date": "20261109",
+      "foreign": {
+        "buy": 2944000,
+        "sell": 2116351,
+        "net": 827649
+      },
+      "trust": {
+        "buy": 0,
+        "sell": 0,
+        "net": 0
+      },
+      "dealer": {
+        "net": 92948
+      },
+      "institutional_net": 920597,
+      "institutional_reconciliation": {
+        "component_sum": 920597,
+        "official_total": 920597,
+        "difference": 0,
+        "matches": true,
+        "policy": "components_must_match_official_total"
+      },
+      "institutional_direction": "inflow",
+      "volume": {
+        "previous_date_roc": "115/11/06",
+        "latest_date_roc": "115/11/09",
+        "previous_date": "20261106",
+        "latest_date": "20261109",
+        "previous_volume": 10520851,
+        "latest_volume": 6370363,
+        "previous_close": 65.3,
+        "latest_close": 71.8,
+        "unit": "shares",
+        "change_pct": -39.45011672534855,
+        "direction": "decrease",
+        "source": "TWSE"
+      },
+      "normalized_date": "20261109",
+      "quadrant": "量縮＋法人資金流入"
+    },
+    "2301": {
+      "name": "光寶科",
+      "market": "TWSE",
+      "theme": "電源/伺服器",
+      "date": "20261109",
+      "foreign": {
+        "buy": 4450688,
+        "sell": 4061341,
+        "net": 389347
+      },
+      "trust": {
+        "buy": 35000,
+        "sell": 0,
+        "net": 35000
+      },
+      "dealer": {
+        "net": 342157
+      },
+      "institutional_net": 766504,
+      "institutional_reconciliation": {
+        "component_sum": 766504,
+        "official_total": 766504,
+        "difference": 0,
+        "matches": true,
+        "policy": "components_must_match_official_total"
+      },
+      "institutional_direction": "inflow",
+      "volume": {
+        "previous_date_roc": "115/11/06",
+        "latest_date_roc": "115/11/09",
+        "previous_date": "20261106",
+        "latest_date": "20261109",
+        "previous_volume": 22710327,
+        "latest_volume": 7999891,
+        "previous_close": 198.0,
+        "latest_close": 217.5,
+        "unit": "shares",
+        "change_pct": -64.77421483186923,
+        "direction": "decrease",
+        "source": "TWSE"
+      },
+      "normalized_date": "20261109",
+      "quadrant": "量縮＋法人資金流入"
+    },
+    "6451": {
+      "name": "訊芯-KY",
+      "market": "TWSE",
+      "theme": "高速傳輸/封裝",
+      "date": "20261109",
+      "foreign": {
+        "buy": 1353090,
+        "sell": 485718,
+        "net": 867372
+      },
+      "trust": {
+        "buy": 0,
+        "sell": 0,
+        "net": 0
+      },
+      "dealer": {
+        "net": -408492
+      },
+      "institutional_net": 458880,
+      "institutional_reconciliation": {
+        "component_sum": 458880,
+        "official_total": 458880,
+        "difference": 0,
+        "matches": true,
+        "policy": "components_must_match_official_total"
+      },
+      "institutional_direction": "inflow",
+      "volume": {
+        "previous_date_roc": "115/11/06",
+        "latest_date_roc": "115/11/09",
+        "previous_date": "20261106",
+        "latest_date": "20261109",
+        "previous_volume": 2426943,
+        "latest_volume": 1900603,
+        "previous_close": 243.0,
+        "latest_close": 267.0,
+        "unit": "shares",
+        "change_pct": -21.68736554587397,
+        "direction": "decrease",
+        "source": "TWSE"
+      },
+      "normalized_date": "20261109",
+      "quadrant": "量縮＋法人資金流入"
+    },
+    "2379": {
+      "name": "瑞昱",
+      "market": "TWSE",
+      "theme": "IC設計/網通",
+      "date": "20261109",
+      "foreign": {
+        "buy": 2419344,
+        "sell": 2368212,
+        "net": 51132
+      },
+      "trust": {
+        "buy": 262738,
+        "sell": 52000,
+        "net": 210738
+      },
+      "dealer": {
+        "net": 80912
+      },
+      "institutional_net": 342782,
+      "institutional_reconciliation": {
+        "component_sum": 342782,
+        "official_total": 342782,
+        "difference": 0,
+        "matches": true,
+        "policy": "components_must_match_official_total"
+      },
+      "institutional_direction": "inflow",
+      "volume": {
+        "previous_date_roc": "115/11/06",
+        "latest_date_roc": "115/11/09",
+        "previous_date": "20261106",
+        "latest_date": "20261109",
+        "previous_volume": 4183892,
+        "latest_volume": 3487072,
+        "previous_close": 708.0,
+        "latest_close": 743.0,
+        "unit": "shares",
+        "change_pct": -16.654827610272925,
+        "direction": "decrease",
+        "source": "TWSE"
+      },
+      "normalized_date": "20261109",
+      "quadrant": "量縮＋法人資金流入"
+    },
+    "3013": {
+      "name": "晟銘電",
+      "market": "TWSE",
+      "theme": "伺服器機殼",
+      "date": "20261109",
+      "foreign": {
+        "buy": 549040,
+        "sell": 243668,
+        "net": 305372
+      },
+      "trust": {
+        "buy": 0,
+        "sell": 0,
+        "net": 0
+      },
+      "dealer": {
+        "net": 9326
+      },
+      "institutional_net": 314698,
+      "institutional_reconciliation": {
+        "component_sum": 314698,
+        "official_total": 314698,
+        "difference": 0,
+        "matches": true,
+        "policy": "components_must_match_official_total"
+      },
+      "institutional_direction": "inflow",
+      "volume": {
+        "previous_date_roc": "115/11/06",
+        "latest_date_roc": "115/11/09",
+        "previous_date": "20261106",
+        "latest_date": "20261109",
+        "previous_volume": 2529398,
+        "latest_volume": 822071,
+        "previous_close": 68.9,
+        "latest_close": 75.7,
+        "unit": "shares",
+        "change_pct": -67.4993417406039,
+        "direction": "decrease",
+        "source": "TWSE"
+      },
+      "normalized_date": "20261109",
+      "quadrant": "量縮＋法人資金流入"
+    },
+    "3035": {
+      "name": "智原",
+      "market": "TWSE",
+      "theme": "ASIC/IP",
+      "date": "20261109",
+      "foreign": {
+        "buy": 1660285,
+        "sell": 1498200,
+        "net": 162085
+      },
+      "trust": {
+        "buy": 18000,
+        "sell": 0,
+        "net": 18000
+      },
+      "dealer": {
+        "net": 32473
+      },
+      "institutional_net": 212558,
+      "institutional_reconciliation": {
+        "component_sum": 212558,
+        "official_total": 212558,
+        "difference": 0,
+        "matches": true,
+        "policy": "components_must_match_official_total"
+      },
+      "institutional_direction": "inflow",
+      "volume": {
+        "previous_date_roc": "115/11/06",
+        "latest_date_roc": "115/11/09",
+        "previous_date": "20261106",
+        "latest_date": "20261109",
+        "previous_volume": 7237039,
+        "latest_volume": 4542151,
+        "previous_close": 160.5,
+        "latest_close": 172.0,
+        "unit": "shares",
+        "change_pct": -37.237439234471445,
+        "direction": "decrease",
+        "source": "TWSE"
+      },
+      "normalized_date": "20261109",
+      "quadrant": "量縮＋法人資金流入"
+    },
+    "5388": {
+      "name": "中磊",
+      "market": "TWSE",
+      "theme": "網通",
+      "date": "20261109",
+      "foreign": {
+        "buy": 606527,
+        "sell": 400000,
+        "net": 206527
+      },
+      "trust": {
+        "buy": 0,
+        "sell": 0,
+        "net": 0
+      },
+      "dealer": {
+        "net": -8656
+      },
+      "institutional_net": 197871,
+      "institutional_reconciliation": {
+        "component_sum": 197871,
+        "official_total": 197871,
+        "difference": 0,
+        "matches": true,
+        "policy": "components_must_match_official_total"
+      },
+      "institutional_direction": "inflow",
+      "volume": {
+        "previous_date_roc": "115/11/06",
+        "latest_date_roc": "115/11/09",
+        "previous_date": "20261106",
+        "latest_date": "20261109",
+        "previous_volume": 3488619,
+        "latest_volume": 1226871,
+        "previous_close": 64.5,
+        "latest_close": 67.7,
+        "unit": "shares",
+        "change_pct": -64.83218717779155,
+        "direction": "decrease",
+        "source": "TWSE"
+      },
+      "normalized_date": "20261109",
+      "quadrant": "量縮＋法人資金流入"
+    },
+    "3533": {
+      "name": "嘉澤",
+      "market": "TWSE",
+      "theme": "高速連接器",
+      "date": "20261109",
+      "foreign": {
+        "buy": 949168,
+        "sell": 935757,
+        "net": 13411
+      },
+      "trust": {
+        "buy": 4091,
+        "sell": 0,
+        "net": 4091
+      },
+      "dealer": {
+        "net": 12191
+      },
+      "institutional_net": 29693,
+      "institutional_reconciliation": {
+        "component_sum": 29693,
+        "official_total": 29693,
+        "difference": 0,
+        "matches": true,
+        "policy": "components_must_match_official_total"
+      },
+      "institutional_direction": "inflow",
+      "volume": {
+        "previous_date_roc": "115/11/06",
+        "latest_date_roc": "115/11/09",
+        "previous_date": "20261106",
+        "latest_date": "20261109",
+        "previous_volume": 2026050,
+        "latest_volume": 1293126,
+        "previous_close": 1585.0,
+        "latest_close": 1705.0,
+        "unit": "shares",
+        "change_pct": -36.17502035981342,
+        "direction": "decrease",
+        "source": "TWSE"
+      },
+      "normalized_date": "20261109",
+      "quadrant": "量縮＋法人資金流入"
+    },
+    "5269": {
+      "name": "祥碩",
+      "market": "TWSE",
+      "theme": "高速傳輸IC",
+      "date": "20261109",
+      "foreign": {
+        "buy": 208940,
+        "sell": 214809,
+        "net": -5869
+      },
+      "trust": {
+        "buy": 12107,
+        "sell": 5000,
+        "net": 7107
+      },
+      "dealer": {
+        "net": 13102
+      },
+      "institutional_net": 14340,
+      "institutional_reconciliation": {
+        "component_sum": 14340,
+        "official_total": 14340,
+        "difference": 0,
+        "matches": true,
+        "policy": "components_must_match_official_total"
+      },
+      "institutional_direction": "inflow",
+      "volume": {
+        "previous_date_roc": "115/11/06",
+        "latest_date_roc": "115/11/09",
+        "previous_date": "20261106",
+        "latest_date": "20261109",
+        "previous_volume": 848470,
+        "latest_volume": 380856,
+        "previous_close": 1160.0,
+        "latest_close": 1250.0,
+        "unit": "shares",
+        "change_pct": -55.11261447075324,
+        "direction": "decrease",
+        "source": "TWSE"
+      },
+      "normalized_date": "20261109",
+      "quadrant": "量縮＋法人資金流入"
+    },
+    "3583": {
+      "name": "辛耘",
+      "market": "TWSE",
+      "theme": "半導體設備",
+      "date": "20261109",
+      "foreign": {
+        "buy": 727560,
+        "sell": 523396,
+        "net": 204164
+      },
+      "trust": {
+        "buy": 0,
+        "sell": 222000,
+        "net": -222000
+      },
+      "dealer": {
+        "net": -7147
+      },
+      "institutional_net": -24983,
+      "institutional_reconciliation": {
+        "component_sum": -24983,
+        "official_total": -24983,
+        "difference": 0,
+        "matches": true,
+        "policy": "components_must_match_official_total"
+      },
+      "institutional_direction": "outflow",
+      "volume": {
+        "previous_date_roc": "115/11/06",
+        "latest_date_roc": "115/11/09",
+        "previous_date": "20261106",
+        "latest_date": "20261109",
+        "previous_volume": 1145319,
+        "latest_volume": 1048274,
+        "previous_close": 425.0,
+        "latest_close": 460.0,
+        "unit": "shares",
+        "change_pct": -8.4731851999312,
+        "direction": "decrease",
+        "source": "TWSE"
+      },
+      "normalized_date": "20261109",
+      "quadrant": "量縮＋法人資金流出"
+    },
+    "3665": {
+      "name": "貿聯-KY",
+      "market": "TWSE",
+      "theme": "高速傳輸/連接器",
+      "date": "20261109",
+      "foreign": {
+        "buy": 1782784,
+        "sell": 2413810,
+        "net": -631026
+      },
+      "trust": {
+        "buy": 719532,
+        "sell": 68000,
+        "net": 651532
+      },
+      "dealer": {
+        "net": -58941
+      },
+      "institutional_net": -38435,
+      "institutional_reconciliation": {
+        "component_sum": -38435,
+        "official_total": -38435,
+        "difference": 0,
+        "matches": true,
+        "policy": "components_must_match_official_total"
+      },
+      "institutional_direction": "outflow",
+      "volume": {
+        "previous_date_roc": "115/11/06",
+        "latest_date_roc": "115/11/09",
+        "previous_date": "20261106",
+        "latest_date": "20261109",
+        "previous_volume": 5035764,
+        "latest_volume": 4031261,
+        "previous_close": 1325.0,
+        "latest_close": 1420.0,
+        "unit": "shares",
+        "change_pct": -19.94738037763485,
+        "direction": "decrease",
+        "source": "TWSE"
+      },
+      "normalized_date": "20261109",
+      "quadrant": "量縮＋法人資金流出"
+    },
+    "3017": {
+      "name": "奇鋐",
+      "market": "TWSE",
+      "theme": "散熱",
+      "date": "20261109",
+      "foreign": {
+        "buy": 1438527,
+        "sell": 1686836,
+        "net": -248309
+      },
+      "trust": {
+        "buy": 107000,
+        "sell": 3000,
+        "net": 104000
+      },
+      "dealer": {
+        "net": -6097
+      },
+      "institutional_net": -150406,
+      "institutional_reconciliation": {
+        "component_sum": -150406,
+        "official_total": -150406,
+        "difference": 0,
+        "matches": true,
+        "policy": "components_must_match_official_total"
+      },
+      "institutional_direction": "outflow",
+      "volume": {
+        "previous_date_roc": "115/11/06",
+        "latest_date_roc": "115/11/09",
+        "previous_date": "20261106",
+        "latest_date": "20261109",
+        "previous_volume": 2194175,
+        "latest_volume": 2824843,
+        "previous_close": 2310.0,
+        "latest_close": 2540.0,
+        "unit": "shares",
+        "change_pct": 28.742830448801946,
+        "direction": "increase",
+        "source": "TWSE"
+      },
+      "normalized_date": "20261109",
+      "quadrant": "量增＋法人資金流出"
+    },
+    "3661": {
+      "name": "世芯-KY",
+      "market": "TWSE",
+      "theme": "ASIC/AI晶片",
+      "date": "20261109",
+      "foreign": {
+        "buy": 135000,
+        "sell": 341034,
+        "net": -206034
+      },
+      "trust": {
+        "buy": 0,
+        "sell": 0,
+        "net": 0
+      },
+      "dealer": {
+        "net": -20076
+      },
+      "institutional_net": -226110,
+      "institutional_reconciliation": {
+        "component_sum": -226110,
+        "official_total": -226110,
+        "difference": 0,
+        "matches": true,
+        "policy": "components_must_match_official_total"
+      },
+      "institutional_direction": "outflow",
+      "volume": {
+        "previous_date_roc": "115/11/06",
+        "latest_date_roc": "115/11/09",
+        "previous_date": "20261106",
+        "latest_date": "20261109",
+        "previous_volume": 3260619,
+        "latest_volume": 660225,
+        "previous_close": 2830.0,
+        "latest_close": 3110.0,
+        "unit": "shares",
+        "change_pct": -79.75154410864931,
+        "direction": "decrease",
+        "source": "TWSE"
+      },
+      "normalized_date": "20261109",
+      "quadrant": "量縮＋法人資金流出"
+    },
+    "4938": {
+      "name": "和碩",
+      "market": "TWSE",
+      "theme": "ODM",
+      "date": "20261109",
+      "foreign": {
+        "buy": 4191888,
+        "sell": 4869144,
+        "net": -677256
+      },
+      "trust": {
+        "buy": 35890,
+        "sell": 343000,
+        "net": -307110
+      },
+      "dealer": {
+        "net": 698932
+      },
+      "institutional_net": -285434,
+      "institutional_reconciliation": {
+        "component_sum": -285434,
+        "official_total": -285434,
+        "difference": 0,
+        "matches": true,
+        "policy": "components_must_match_official_total"
+      },
+      "institutional_direction": "outflow",
+      "volume": {
+        "previous_date_roc": "115/11/06",
+        "latest_date_roc": "115/11/09",
+        "previous_date": "20261106",
+        "latest_date": "20261109",
+        "previous_volume": 13886079,
+        "latest_volume": 9004500,
+        "previous_close": 92.9,
+        "latest_close": 95.4,
+        "unit": "shares",
+        "change_pct": -35.15448097335469,
+        "direction": "decrease",
+        "source": "TWSE"
+      },
+      "normalized_date": "20261109",
+      "quadrant": "量縮＋法人資金流出"
+    },
+    "6442": {
+      "name": "光聖",
+      "market": "TWSE",
+      "theme": "光通訊",
+      "date": "20261109",
+      "foreign": {
+        "buy": 98203,
+        "sell": 443813,
+        "net": -345610
+      },
+      "trust": {
+        "buy": 0,
+        "sell": 34000,
+        "net": -34000
+      },
+      "dealer": {
+        "net": 33130
+      },
+      "institutional_net": -346480,
+      "institutional_reconciliation": {
+        "component_sum": -346480,
+        "official_total": -346480,
+        "difference": 0,
+        "matches": true,
+        "policy": "components_must_match_official_total"
+      },
+      "institutional_direction": "outflow",
+      "volume": {
+        "previous_date_roc": "115/11/06",
+        "latest_date_roc": "115/11/09",
+        "previous_date": "20261106",
+        "latest_date": "20261109",
+        "previous_volume": 2340695,
+        "latest_volume": 904149,
+        "previous_close": 1005.0,
+        "latest_close": 1105.0,
+        "unit": "shares",
+        "change_pct": -61.37262650622999,
+        "direction": "decrease",
+        "source": "TWSE"
+      },
+      "normalized_date": "20261109",
+      "quadrant": "量縮＋法人資金流出"
+    },
+    "3596": {
+      "name": "智易",
+      "market": "TWSE",
+      "theme": "網通",
+      "date": "20261109",
+      "foreign": {
+        "buy": 184000,
+        "sell": 536000,
+        "net": -352000
+      },
+      "trust": {
+        "buy": 0,
+        "sell": 0,
+        "net": 0
+      },
+      "dealer": {
+        "net": -31000
+      },
+      "institutional_net": -383000,
+      "institutional_reconciliation": {
+        "component_sum": -383000,
+        "official_total": -383000,
+        "difference": 0,
+        "matches": true,
+        "policy": "components_must_match_official_total"
+      },
+      "institutional_direction": "outflow",
+      "volume": {
+        "previous_date_roc": "115/11/06",
+        "latest_date_roc": "115/11/09",
+        "previous_date": "20261106",
+        "latest_date": "20261109",
+        "previous_volume": 1850140,
+        "latest_volume": 839188,
+        "previous_close": 136.5,
+        "latest_close": 138.0,
+        "unit": "shares",
+        "change_pct": -54.64191898991429,
+        "direction": "decrease",
+        "source": "TWSE"
+      },
+      "normalized_date": "20261109",
+      "quadrant": "量縮＋法人資金流出"
+    },
+    "3034": {
+      "name": "聯詠",
+      "market": "TWSE",
+      "theme": "IC設計",
+      "date": "20261109",
+      "foreign": {
+        "buy": 2606387,
+        "sell": 3597983,
+        "net": -991596
+      },
+      "trust": {
+        "buy": 454111,
+        "sell": 52991,
+        "net": 401120
+      },
+      "dealer": {
+        "net": 191419
+      },
+      "institutional_net": -399057,
+      "institutional_reconciliation": {
+        "component_sum": -399057,
+        "official_total": -399057,
+        "difference": 0,
+        "matches": true,
+        "policy": "components_must_match_official_total"
+      },
+      "institutional_direction": "outflow",
+      "volume": {
+        "previous_date_roc": "115/11/06",
+        "latest_date_roc": "115/11/09",
+        "previous_date": "20261106",
+        "latest_date": "20261109",
+        "previous_volume": 6018743,
+        "latest_volume": 5089602,
+        "previous_close": 495.5,
+        "latest_close": 486.5,
+        "unit": "shares",
+        "change_pct": -15.437459283441745,
+        "direction": "decrease",
+        "source": "TWSE"
+      },
+      "normalized_date": "20261109",
+      "quadrant": "量縮＋法人資金流出"
+    },
+    "3443": {
+      "name": "創意",
+      "market": "TWSE",
+      "theme": "ASIC/AI晶片",
+      "date": "20261109",
+      "foreign": {
+        "buy": 1272125,
+        "sell": 2151966,
+        "net": -879841
+      },
+      "trust": {
+        "buy": 589495,
+        "sell": 1000,
+        "net": 588495
+      },
+      "dealer": {
+        "net": -125388
+      },
+      "institutional_net": -416734,
+      "institutional_reconciliation": {
+        "component_sum": -416734,
+        "official_total": -416734,
+        "difference": 0,
+        "matches": true,
+        "policy": "components_must_match_official_total"
+      },
+      "institutional_direction": "outflow",
+      "volume": {
+        "previous_date_roc": "115/11/06",
+        "latest_date_roc": "115/11/09",
+        "previous_date": "20261106",
+        "latest_date": "20261109",
+        "previous_volume": 4317418,
+        "latest_volume": 4442733,
+        "previous_close": 6205.0,
+        "latest_close": 6705.0,
+        "unit": "shares",
+        "change_pct": 2.9025449933270275,
+        "direction": "increase",
+        "source": "TWSE"
+      },
+      "normalized_date": "20261109",
+      "quadrant": "量增＋法人資金流出"
+    },
+    "2421": {
+      "name": "建準",
+      "market": "TWSE",
+      "theme": "散熱",
+      "date": "20261109",
+      "foreign": {
+        "buy": 460280,
+        "sell": 883392,
+        "net": -423112
+      },
+      "trust": {
+        "buy": 0,
+        "sell": 1000,
+        "net": -1000
+      },
+      "dealer": {
+        "net": -2071
+      },
+      "institutional_net": -426183,
+      "institutional_reconciliation": {
+        "component_sum": -426183,
+        "official_total": -426183,
+        "difference": 0,
+        "matches": true,
+        "policy": "components_must_match_official_total"
+      },
+      "institutional_direction": "outflow",
+      "volume": {
+        "previous_date_roc": "115/11/06",
+        "latest_date_roc": "115/11/09",
+        "previous_date": "20261106",
+        "latest_date": "20261109",
+        "previous_volume": 3241021,
+        "latest_volume": 1523241,
+        "previous_close": 125.0,
+        "latest_close": 131.5,
+        "unit": "shares",
+        "change_pct": -53.00119931342624,
+        "direction": "decrease",
+        "source": "TWSE"
+      },
+      "normalized_date": "20261109",
+      "quadrant": "量縮＋法人資金流出"
+    },
+    "6412": {
+      "name": "群電",
+      "market": "TWSE",
+      "theme": "電源",
+      "date": "20261109",
+      "foreign": {
+        "buy": 255149,
+        "sell": 690000,
+        "net": -434851
+      },
+      "trust": {
+        "buy": 0,
+        "sell": 0,
+        "net": 0
+      },
+      "dealer": {
+        "net": -4000
+      },
+      "institutional_net": -438851,
+      "institutional_reconciliation": {
+        "component_sum": -438851,
+        "official_total": -438851,
+        "difference": 0,
+        "matches": true,
+        "policy": "components_must_match_official_total"
+      },
+      "institutional_direction": "outflow",
+      "volume": {
+        "previous_date_roc": "115/11/06",
+        "latest_date_roc": "115/11/09",
+        "previous_date": "20261106",
+        "latest_date": "20261109",
+        "previous_volume": 2592051,
+        "latest_volume": 1089299,
+        "previous_close": 56.1,
+        "latest_close": 55.9,
+        "unit": "shares",
+        "change_pct": -57.97540249015163,
+        "direction": "decrease",
+        "source": "TWSE"
+      },
+      "normalized_date": "20261109",
+      "quadrant": "量縮＋法人資金流出"
+    },
+    "2345": {
+      "name": "智邦",
+      "market": "TWSE",
+      "theme": "網通/AI資料中心",
+      "date": "20261109",
+      "foreign": {
+        "buy": 1521000,
+        "sell": 1979749,
+        "net": -458749
+      },
+      "trust": {
+        "buy": 14000,
+        "sell": 3144,
+        "net": 10856
+      },
+      "dealer": {
+        "net": -6166
+      },
+      "institutional_net": -454059,
+      "institutional_reconciliation": {
+        "component_sum": -454059,
+        "official_total": -454059,
+        "difference": 0,
+        "matches": true,
+        "policy": "components_must_match_official_total"
+      },
+      "institutional_direction": "outflow",
+      "volume": {
+        "previous_date_roc": "115/11/06",
+        "latest_date_roc": "115/11/09",
+        "previous_date": "20261106",
+        "latest_date": "20261109",
+        "previous_volume": 5991597,
+        "latest_volume": 2560572,
+        "previous_close": 1280.0,
+        "latest_close": 1405.0,
+        "unit": "shares",
+        "change_pct": -57.26394815939724,
+        "direction": "decrease",
+        "source": "TWSE"
+      },
+      "normalized_date": "20261109",
+      "quadrant": "量縮＋法人資金流出"
+    },
+    "6669": {
+      "name": "緯穎",
+      "market": "TWSE",
+      "theme": "AI伺服器/ODM",
+      "date": "20261109",
+      "foreign": {
+        "buy": 2503513,
+        "sell": 3190588,
+        "net": -687075
+      },
+      "trust": {
+        "buy": 173380,
+        "sell": 0,
+        "net": 173380
+      },
+      "dealer": {
+        "net": 32667
+      },
+      "institutional_net": -481028,
+      "institutional_reconciliation": {
+        "component_sum": -481028,
+        "official_total": -481028,
+        "difference": 0,
+        "matches": true,
+        "policy": "components_must_match_official_total"
+      },
+      "institutional_direction": "outflow",
+      "volume": {
+        "previous_date_roc": "115/11/06",
+        "latest_date_roc": "115/11/09",
+        "previous_date": "20261106",
+        "latest_date": "20261109",
+        "previous_volume": 7676494,
+        "latest_volume": 4496781,
+        "previous_close": 1555.0,
+        "latest_close": 1645.0,
+        "unit": "shares",
+        "change_pct": -41.42142233160085,
+        "direction": "decrease",
+        "source": "TWSE"
+      },
+      "normalized_date": "20261109",
+      "quadrant": "量縮＋法人資金流出"
+    },
+    "3653": {
+      "name": "健策",
+      "market": "TWSE",
+      "theme": "散熱/伺服器零組件",
+      "date": "20261109",
+      "foreign": {
+        "buy": 1581032,
+        "sell": 2099208,
+        "net": -518176
+      },
+      "trust": {
+        "buy": 58413,
+        "sell": 11396,
+        "net": 47017
+      },
+      "dealer": {
+        "net": -40185
+      },
+      "institutional_net": -511344,
+      "institutional_reconciliation": {
+        "component_sum": -511344,
+        "official_total": -511344,
+        "difference": 0,
+        "matches": true,
+        "policy": "components_must_match_official_total"
+      },
+      "institutional_direction": "outflow",
+      "volume": {
+        "previous_date_roc": "115/11/06",
+        "latest_date_roc": "115/11/09",
+        "previous_date": "20261106",
+        "latest_date": "20261109",
+        "previous_volume": 1621697,
+        "latest_volume": 3812692,
+        "previous_close": 5225.0,
+        "latest_close": 5635.0,
+        "unit": "shares",
+        "change_pct": 135.10507819894838,
+        "direction": "increase",
+        "source": "TWSE"
+      },
+      "normalized_date": "20261109",
+      "quadrant": "量增＋法人資金流出"
+    },
+    "8210": {
+      "name": "勤誠",
+      "market": "TWSE",
+      "theme": "伺服器機殼",
+      "date": "20261109",
+      "foreign": {
+        "buy": 888820,
+        "sell": 1401486,
+        "net": -512666
+      },
+      "trust": {
+        "buy": 0,
+        "sell": 0,
+        "net": 0
+      },
+      "dealer": {
+        "net": -2701
+      },
+      "institutional_net": -515367,
+      "institutional_reconciliation": {
+        "component_sum": -515367,
+        "official_total": -515367,
+        "difference": 0,
+        "matches": true,
+        "policy": "components_must_match_official_total"
+      },
+      "institutional_direction": "outflow",
+      "volume": {
+        "previous_date_roc": "115/11/06",
+        "latest_date_roc": "115/11/09",
+        "previous_date": "20261106",
+        "latest_date": "20261109",
+        "previous_volume": 2600009,
+        "latest_volume": 3078899,
+        "previous_close": 546.0,
+        "latest_close": 574.0,
+        "unit": "shares",
+        "change_pct": 18.41878239652248,
+        "direction": "increase",
+        "source": "TWSE"
+      },
+      "normalized_date": "20261109",
+      "quadrant": "量增＋法人資金流出"
+    },
+    "6531": {
+      "name": "愛普*",
+      "market": "TWSE",
+      "theme": "記憶體/IP",
+      "date": "20261109",
+      "foreign": {
+        "buy": 2002348,
+        "sell": 3346277,
+        "net": -1343929
+      },
+      "trust": {
+        "buy": 720000,
+        "sell": 0,
+        "net": 720000
+      },
+      "dealer": {
+        "net": 57255
+      },
+      "institutional_net": -566674,
+      "institutional_reconciliation": {
+        "component_sum": -566674,
+        "official_total": -566674,
+        "difference": 0,
+        "matches": true,
+        "policy": "components_must_match_official_total"
+      },
+      "institutional_direction": "outflow",
+      "volume": {
+        "previous_date_roc": "115/11/06",
+        "latest_date_roc": "115/11/09",
+        "previous_date": "20261106",
+        "latest_date": "20261109",
+        "previous_volume": 4497582,
+        "latest_volume": 5519118,
+        "previous_close": 608.0,
+        "latest_close": 668.0,
+        "unit": "shares",
+        "change_pct": 22.713004454393506,
+        "direction": "increase",
+        "source": "TWSE"
+      },
+      "normalized_date": "20261109",
+      "quadrant": "量增＋法人資金流出"
+    },
+    "6213": {
+      "name": "聯茂",
+      "market": "TWSE",
+      "theme": "CCL",
+      "date": "20261109",
+      "foreign": {
+        "buy": 3872998,
+        "sell": 3938452,
+        "net": -65454
+      },
+      "trust": {
+        "buy": 35000,
+        "sell": 50000,
+        "net": -15000
+      },
+      "dealer": {
+        "net": -693603
+      },
+      "institutional_net": -774057,
+      "institutional_reconciliation": {
+        "component_sum": -774057,
+        "official_total": -774057,
+        "difference": 0,
+        "matches": true,
+        "policy": "components_must_match_official_total"
+      },
+      "institutional_direction": "outflow",
+      "volume": {
+        "previous_date_roc": "115/11/06",
+        "latest_date_roc": "115/11/09",
+        "previous_date": "20261106",
+        "latest_date": "20261109",
+        "previous_volume": 6364736,
+        "latest_volume": 6904746,
+        "previous_close": 496.0,
+        "latest_close": 531.0,
+        "unit": "shares",
+        "change_pct": 8.484405323331568,
+        "direction": "increase",
+        "source": "TWSE"
+      },
+      "normalized_date": "20261109",
+      "quadrant": "量增＋法人資金流出"
+    },
+    "2383": {
+      "name": "台光電",
+      "market": "TWSE",
+      "theme": "CCL/高速材料",
+      "date": "20261109",
+      "foreign": {
+        "buy": 1794008,
+        "sell": 2911638,
+        "net": -1117630
+      },
+      "trust": {
+        "buy": 284987,
+        "sell": 1000,
+        "net": 283987
+      },
+      "dealer": {
+        "net": 6430
+      },
+      "institutional_net": -827213,
+      "institutional_reconciliation": {
+        "component_sum": -827213,
+        "official_total": -827213,
+        "difference": 0,
+        "matches": true,
+        "policy": "components_must_match_official_total"
+      },
+      "institutional_direction": "outflow",
+      "volume": {
+        "previous_date_roc": "115/11/06",
+        "latest_date_roc": "115/11/09",
+        "previous_date": "20261106",
+        "latest_date": "20261109",
+        "previous_volume": 6290670,
+        "latest_volume": 4936764,
+        "previous_close": 3820.0,
+        "latest_close": 4070.0,
+        "unit": "shares",
+        "change_pct": -21.522445144952762,
+        "direction": "decrease",
+        "source": "TWSE"
+      },
+      "normalized_date": "20261109",
+      "quadrant": "量縮＋法人資金流出"
+    },
+    "8046": {
+      "name": "南電",
+      "market": "TWSE",
+      "theme": "載板",
+      "date": "20261109",
+      "foreign": {
+        "buy": 4043092,
+        "sell": 5496689,
+        "net": -1453597
+      },
+      "trust": {
+        "buy": 702243,
+        "sell": 0,
+        "net": 702243
+      },
+      "dealer": {
+        "net": -199306
+      },
+      "institutional_net": -950660,
+      "institutional_reconciliation": {
+        "component_sum": -950660,
+        "official_total": -950660,
+        "difference": 0,
+        "matches": true,
+        "policy": "components_must_match_official_total"
+      },
+      "institutional_direction": "outflow",
+      "volume": {
+        "previous_date_roc": "115/11/06",
+        "latest_date_roc": "115/11/09",
+        "previous_date": "20261106",
+        "latest_date": "20261109",
+        "previous_volume": 11924023,
+        "latest_volume": 12629482,
+        "previous_close": 875.0,
+        "latest_close": 933.0,
+        "unit": "shares",
+        "change_pct": 5.916283455675986,
+        "direction": "increase",
+        "source": "TWSE"
+      },
+      "normalized_date": "20261109",
+      "quadrant": "量增＋法人資金流出"
+    },
+    "2454": {
+      "name": "聯發科",
+      "market": "TWSE",
+      "theme": "IC設計/AI邊緣運算",
+      "date": "20261109",
+      "foreign": {
+        "buy": 3110430,
+        "sell": 5045493,
+        "net": -1935063
+      },
+      "trust": {
+        "buy": 525500,
+        "sell": 4587,
+        "net": 520913
+      },
+      "dealer": {
+        "net": 316818
+      },
+      "institutional_net": -1097332,
+      "institutional_reconciliation": {
+        "component_sum": -1097332,
+        "official_total": -1097332,
+        "difference": 0,
+        "matches": true,
+        "policy": "components_must_match_official_total"
+      },
+      "institutional_direction": "outflow",
+      "volume": {
+        "previous_date_roc": "115/11/06",
+        "latest_date_roc": "115/11/09",
+        "previous_date": "20261106",
+        "latest_date": "20261109",
+        "previous_volume": 23481216,
+        "latest_volume": 10071306,
+        "previous_close": 3390.0,
+        "latest_close": 3725.0,
+        "unit": "shares",
+        "change_pct": -57.10909520188392,
+        "direction": "decrease",
+        "source": "TWSE"
+      },
+      "normalized_date": "20261109",
+      "quadrant": "量縮＋法人資金流出"
+    },
+    "2308": {
+      "name": "台達電",
+      "market": "TWSE",
+      "theme": "電源/資料中心",
+      "date": "20261109",
+      "foreign": {
+        "buy": 8059682,
+        "sell": 9685178,
+        "net": -1625496
+      },
+      "trust": {
+        "buy": 280000,
+        "sell": 11152,
+        "net": 268848
+      },
+      "dealer": {
+        "net": 169118
+      },
+      "institutional_net": -1187530,
+      "institutional_reconciliation": {
+        "component_sum": -1187530,
+        "official_total": -1187530,
+        "difference": 0,
+        "matches": true,
+        "policy": "components_must_match_official_total"
+      },
+      "institutional_direction": "outflow",
+      "volume": {
+        "previous_date_roc": "115/11/06",
+        "latest_date_roc": "115/11/09",
+        "previous_date": "20261106",
+        "latest_date": "20261109",
+        "previous_volume": 34536298,
+        "latest_volume": 17098378,
+        "previous_close": 1055.0,
+        "latest_close": 1160.0,
+        "unit": "shares",
+        "change_pct": -50.49157266363638,
+        "direction": "decrease",
+        "source": "TWSE"
+      },
+      "normalized_date": "20261109",
+      "quadrant": "量縮＋法人資金流出"
+    },
+    "2368": {
+      "name": "金像電",
+      "market": "TWSE",
+      "theme": "PCB/AI伺服器",
+      "date": "20261109",
+      "foreign": {
+        "buy": 1897745,
+        "sell": 4225001,
+        "net": -2327256
+      },
+      "trust": {
+        "buy": 989000,
+        "sell": 1780,
+        "net": 987220
+      },
+      "dealer": {
+        "net": 59241
+      },
+      "institutional_net": -1280795,
+      "institutional_reconciliation": {
+        "component_sum": -1280795,
+        "official_total": -1280795,
+        "difference": 0,
+        "matches": true,
+        "policy": "components_must_match_official_total"
+      },
+      "institutional_direction": "outflow",
+      "volume": {
+        "previous_date_roc": "115/11/06",
+        "latest_date_roc": "115/11/09",
+        "previous_date": "20261106",
+        "latest_date": "20261109",
+        "previous_volume": 11665087,
+        "latest_volume": 8918294,
+        "previous_close": 813.0,
+        "latest_close": 894.0,
+        "unit": "shares",
+        "change_pct": -23.54712828116927,
+        "direction": "decrease",
+        "source": "TWSE"
+      },
+      "normalized_date": "20261109",
+      "quadrant": "量縮＋法人資金流出"
+    },
+    "2324": {
+      "name": "仁寶",
+      "market": "TWSE",
+      "theme": "ODM",
+      "date": "20261109",
+      "foreign": {
+        "buy": 10499716,
+        "sell": 15573287,
+        "net": -5073571
+      },
+      "trust": {
+        "buy": 42000,
+        "sell": 334000,
+        "net": -292000
+      },
+      "dealer": {
+        "net": 2727843
+      },
+      "institutional_net": -2637728,
+      "institutional_reconciliation": {
+        "component_sum": -2637728,
+        "official_total": -2637728,
+        "difference": 0,
+        "matches": true,
+        "policy": "components_must_match_official_total"
+      },
+      "institutional_direction": "outflow",
+      "volume": {
+        "previous_date_roc": "115/11/06",
+        "latest_date_roc": "115/11/09",
+        "previous_date": "20261106",
+        "latest_date": "20261109",
+        "previous_volume": 64928804,
+        "latest_volume": 28453843,
+        "previous_close": 31.5,
+        "latest_close": 32.8,
+        "unit": "shares",
+        "change_pct": -56.1768564226133,
+        "direction": "decrease",
+        "source": "TWSE"
+      },
+      "normalized_date": "20261109",
+      "quadrant": "量縮＋法人資金流出"
+    },
+    "2382": {
+      "name": "廣達",
+      "market": "TWSE",
+      "theme": "AI伺服器/ODM",
+      "date": "20261109",
+      "foreign": {
+        "buy": 11856273,
+        "sell": 15974039,
+        "net": -4117766
+      },
+      "trust": {
+        "buy": 858018,
+        "sell": 207903,
+        "net": 650115
+      },
+      "dealer": {
+        "net": 287903
+      },
+      "institutional_net": -3179748,
+      "institutional_reconciliation": {
+        "component_sum": -3179748,
+        "official_total": -3179748,
+        "difference": 0,
+        "matches": true,
+        "policy": "components_must_match_official_total"
+      },
+      "institutional_direction": "outflow",
+      "volume": {
+        "previous_date_roc": "115/11/06",
+        "latest_date_roc": "115/11/09",
+        "previous_date": "20261106",
+        "latest_date": "20261109",
+        "previous_volume": 37213665,
+        "latest_volume": 20473689,
+        "previous_close": 290.5,
+        "latest_close": 296.5,
+        "unit": "shares",
+        "change_pct": -44.983411335594056,
+        "direction": "decrease",
+        "source": "TWSE"
+      },
+      "normalized_date": "20261109",
+      "quadrant": "量縮＋法人資金流出"
+    },
+    "2408": {
+      "name": "南亞科",
+      "market": "TWSE",
+      "theme": "記憶體",
+      "date": "20261109",
+      "foreign": {
+        "buy": 11762746,
+        "sell": 16282258,
+        "net": -4519512
+      },
+      "trust": {
+        "buy": 209543,
+        "sell": 148000,
+        "net": 61543
+      },
+      "dealer": {
+        "net": 232676
+      },
+      "institutional_net": -4225293,
+      "institutional_reconciliation": {
+        "component_sum": -4225293,
+        "official_total": -4225293,
+        "difference": 0,
+        "matches": true,
+        "policy": "components_must_match_official_total"
+      },
+      "institutional_direction": "outflow",
+      "volume": {
+        "previous_date_roc": "115/11/06",
+        "latest_date_roc": "115/11/09",
+        "previous_date": "20261106",
+        "latest_date": "20261109",
+        "previous_volume": 64777286,
+        "latest_volume": 41561210,
+        "previous_close": 343.5,
+        "latest_close": 370.0,
+        "unit": "shares",
+        "change_pct": -35.83984052681676,
+        "direction": "decrease",
+        "source": "TWSE"
+      },
+      "normalized_date": "20261109",
+      "quadrant": "量縮＋法人資金流出"
+    },
+    "2330": {
+      "name": "台積電",
+      "market": "TWSE",
+      "theme": "晶圓代工/AI晶片",
+      "date": "20261109",
+      "foreign": {
+        "buy": 21083491,
+        "sell": 29842371,
+        "net": -8758880
+      },
+      "trust": {
+        "buy": 3851494,
+        "sell": 23284,
+        "net": 3828210
+      },
+      "dealer": {
+        "net": -764078
+      },
+      "institutional_net": -5694748,
+      "institutional_reconciliation": {
+        "component_sum": -5694748,
+        "official_total": -5694748,
+        "difference": 0,
+        "matches": true,
+        "policy": "components_must_match_official_total"
+      },
+      "institutional_direction": "outflow",
+      "volume": {
+        "previous_date_roc": "115/11/06",
+        "latest_date_roc": "115/11/09",
+        "previous_date": "20261106",
+        "latest_date": "20261109",
+        "previous_volume": 110714587,
+        "latest_volume": 45883218,
+        "previous_close": 2135.0,
+        "latest_close": 2235.0,
+        "unit": "shares",
+        "change_pct": -58.55720619722855,
+        "direction": "decrease",
+        "source": "TWSE"
+      },
+      "normalized_date": "20261109",
+      "quadrant": "量縮＋法人資金流出"
+    },
+    "3711": {
+      "name": "日月光投控",
+      "market": "TWSE",
+      "theme": "封裝測試",
+      "date": "20261109",
+      "foreign": {
+        "buy": 11443587,
+        "sell": 19900613,
+        "net": -8457026
+      },
+      "trust": {
+        "buy": 2475717,
+        "sell": 10808,
+        "net": 2464909
+      },
+      "dealer": {
+        "net": -99534
+      },
+      "institutional_net": -6091651,
+      "institutional_reconciliation": {
+        "component_sum": -6091651,
+        "official_total": -6091651,
+        "difference": 0,
+        "matches": true,
+        "policy": "components_must_match_official_total"
+      },
+      "institutional_direction": "outflow",
+      "volume": {
+        "previous_date_roc": "115/11/06",
+        "latest_date_roc": "115/11/09",
+        "previous_date": "20261106",
+        "latest_date": "20261109",
+        "previous_volume": 43145321,
+        "latest_volume": 30415215,
+        "previous_close": 527.0,
+        "latest_close": 561.0,
+        "unit": "shares",
+        "change_pct": -29.50518319240225,
+        "direction": "decrease",
+        "source": "TWSE"
+      },
+      "normalized_date": "20261109",
+      "quadrant": "量縮＋法人資金流出"
+    },
+    "3037": {
+      "name": "欣興",
+      "market": "TWSE",
+      "theme": "PCB/載板",
+      "date": "20261109",
+      "foreign": {
+        "buy": 12215713,
+        "sell": 23051747,
+        "net": -10836034
+      },
+      "trust": {
+        "buy": 1320464,
+        "sell": 10000,
+        "net": 1310464
+      },
+      "dealer": {
+        "net": -162212
+      },
+      "institutional_net": -9687782,
+      "institutional_reconciliation": {
+        "component_sum": -9687782,
+        "official_total": -9687782,
+        "difference": 0,
+        "matches": true,
+        "policy": "components_must_match_official_total"
+      },
+      "institutional_direction": "outflow",
+      "volume": {
+        "previous_date_roc": "115/11/06",
+        "latest_date_roc": "115/11/09",
+        "previous_date": "20261106",
+        "latest_date": "20261109",
+        "previous_volume": 37991238,
+        "latest_volume": 42782649,
+        "previous_close": 727.0,
+        "latest_close": 757.0,
+        "unit": "shares",
+        "change_pct": 12.611884350807422,
+        "direction": "increase",
+        "source": "TWSE"
+      },
+      "normalized_date": "20261109",
+      "quadrant": "量增＋法人資金流出"
+    },
+    "2303": {
+      "name": "聯電",
+      "market": "TWSE",
+      "theme": "晶圓代工",
+      "date": "20261109",
+      "foreign": {
+        "buy": 50642507,
+        "sell": 98598560,
+        "net": -47956053
+      },
+      "trust": {
+        "buy": 3494157,
+        "sell": 1726000,
+        "net": 1768157
+      },
+      "dealer": {
+        "net": -7854570
+      },
+      "institutional_net": -54042466,
+      "institutional_reconciliation": {
+        "component_sum": -54042466,
+        "official_total": -54042466,
+        "difference": 0,
+        "matches": true,
+        "policy": "components_must_match_official_total"
+      },
+      "institutional_direction": "outflow",
+      "volume": {
+        "previous_date_roc": "115/11/06",
+        "latest_date_roc": "115/11/09",
+        "previous_date": "20261106",
+        "latest_date": "20261109",
+        "previous_volume": 204952329,
+        "latest_volume": 209362151,
+        "previous_close": 92.0,
+        "latest_close": 96.7,
+        "unit": "shares",
+        "change_pct": 2.1516330268196215,
+        "direction": "increase",
+        "source": "TWSE"
+      },
+      "normalized_date": "20261109",
+      "quadrant": "量增＋法人資金流出"
+    },
+    "3081": {
+      "name": "聯亞",
+      "market": "TPEx",
+      "theme": "光通訊",
+      "date": "2026/11/09",
+      "foreign": {
+        "buy": 182000,
+        "sell": 500031,
+        "net": -318031
+      },
+      "trust": {
+        "buy": 0,
+        "sell": 39000,
+        "net": -39000
+      },
+      "dealer": {
+        "buy": 23991,
+        "sell": 10100,
+        "net": 13891
+      },
+      "institutional_net": -343140,
+      "institutional_reconciliation": {
+        "component_sum": -343140,
+        "official_total": -343140,
+        "difference": 0,
+        "matches": true,
+        "policy": "components_must_match_official_total"
+      },
+      "institutional_direction": "outflow",
+      "volume": {
+        "previous_date_roc": "115/11/06",
+        "latest_date_roc": "115/11/09",
+        "previous_date": "20261106",
+        "latest_date": "20261109",
+        "previous_volume": 3898,
+        "latest_volume": 1028,
+        "previous_close": 1750.0,
+        "latest_close": 1925.0,
+        "unit": "lots",
+        "change_pct": -73.62750128270908,
+        "direction": "decrease",
+        "source": "TPEx",
+        "notes": [
+          "以上資料不含上櫃股票鉅額交易",
+          "ETF證券代號第六碼為K、C者，表示該ETF以外幣交易，其一交易單位(張)應為100受益權或其整倍數，請詳其公開說明書。"
+        ]
+      },
+      "normalized_date": "20261109",
+      "quadrant": "量縮＋法人資金流出"
+    },
+    "3131": {
+      "name": "弘塑",
+      "market": "TPEx",
+      "theme": "半導體設備",
+      "date": "2026/11/09",
+      "foreign": {
+        "buy": 96145,
+        "sell": 98700,
+        "net": -2555
+      },
+      "trust": {
+        "buy": 0,
+        "sell": 1000,
+        "net": -1000
+      },
+      "dealer": {
+        "buy": 8660,
+        "sell": 5589,
+        "net": 3071
+      },
+      "institutional_net": -484,
+      "institutional_reconciliation": {
+        "component_sum": -484,
+        "official_total": -484,
+        "difference": 0,
+        "matches": true,
+        "policy": "components_must_match_official_total"
+      },
+      "institutional_direction": "outflow",
+      "volume": {
+        "previous_date_roc": "115/11/06",
+        "latest_date_roc": "115/11/09",
+        "previous_date": "20261106",
+        "latest_date": "20261109",
+        "previous_volume": 463,
+        "latest_volume": 212,
+        "previous_close": 1440.0,
+        "latest_close": 1580.0,
+        "unit": "lots",
+        "change_pct": -54.21166306695464,
+        "direction": "decrease",
+        "source": "TPEx",
+        "notes": [
+          "以上資料不含上櫃股票鉅額交易",
+          "ETF證券代號第六碼為K、C者，表示該ETF以外幣交易，其一交易單位(張)應為100受益權或其整倍數，請詳其公開說明書。"
+        ]
+      },
+      "normalized_date": "20261109",
+      "quadrant": "量縮＋法人資金流出"
+    },
+    "3162": {
+      "name": "精確",
+      "market": "TPEx",
+      "theme": "AI散熱/金屬零組件",
+      "date": "2026/11/09",
+      "foreign": {
+        "buy": 591181,
+        "sell": 250086,
+        "net": 341095
+      },
+      "trust": {
+        "buy": 0,
+        "sell": 0,
+        "net": 0
+      },
+      "dealer": {
+        "buy": 1615,
+        "sell": 954,
+        "net": 661
+      },
+      "institutional_net": 341756,
+      "institutional_reconciliation": {
+        "component_sum": 341756,
+        "official_total": 341756,
+        "difference": 0,
+        "matches": true,
+        "policy": "components_must_match_official_total"
+      },
+      "institutional_direction": "inflow",
+      "volume": {
+        "previous_date_roc": "115/11/06",
+        "latest_date_roc": "115/11/09",
+        "previous_date": "20261106",
+        "latest_date": "20261109",
+        "previous_volume": 1363,
+        "latest_volume": 1019,
+        "previous_close": 68.0,
+        "latest_close": 72.6,
+        "unit": "lots",
+        "change_pct": -25.23844460748349,
+        "direction": "decrease",
+        "source": "TPEx",
+        "notes": [
+          "以上資料不含上櫃股票鉅額交易",
+          "ETF證券代號第六碼為K、C者，表示該ETF以外幣交易，其一交易單位(張)應為100受益權或其整倍數，請詳其公開說明書。"
+        ]
+      },
+      "normalized_date": "20261109",
+      "quadrant": "量縮＋法人資金流入"
+    },
+    "3163": {
+      "name": "波若威",
+      "market": "TPEx",
+      "theme": "光通訊",
+      "date": "2026/11/09",
+      "foreign": {
+        "buy": 124000,
+        "sell": 163010,
+        "net": -39010
+      },
+      "trust": {
+        "buy": 0,
+        "sell": 0,
+        "net": 0
+      },
+      "dealer": {
+        "buy": 31875,
+        "sell": 0,
+        "net": 31875
+      },
+      "institutional_net": -7135,
+      "institutional_reconciliation": {
+        "component_sum": -7135,
+        "official_total": -7135,
+        "difference": 0,
+        "matches": true,
+        "policy": "components_must_match_official_total"
+      },
+      "institutional_direction": "outflow",
+      "volume": {
+        "previous_date_roc": "115/11/06",
+        "latest_date_roc": "115/11/09",
+        "previous_date": "20261106",
+        "latest_date": "20261109",
+        "previous_volume": 2627,
+        "latest_volume": 632,
+        "previous_close": 395.0,
+        "latest_close": 434.5,
+        "unit": "lots",
+        "change_pct": -75.94213932242101,
+        "direction": "decrease",
+        "source": "TPEx",
+        "notes": [
+          "以上資料不含上櫃股票鉅額交易",
+          "ETF證券代號第六碼為K、C者，表示該ETF以外幣交易，其一交易單位(張)應為100受益權或其整倍數，請詳其公開說明書。"
+        ]
+      },
+      "normalized_date": "20261109",
+      "quadrant": "量縮＋法人資金流出"
+    },
+    "3324": {
+      "name": "雙鴻",
+      "market": "TPEx",
+      "theme": "散熱",
+      "date": "2026/11/09",
+      "foreign": {
+        "buy": 2163908,
+        "sell": 2127738,
+        "net": 36170
+      },
+      "trust": {
+        "buy": 50365,
+        "sell": 0,
+        "net": 50365
+      },
+      "dealer": {
+        "buy": 331835,
+        "sell": 321772,
+        "net": 10063
+      },
+      "institutional_net": 96598,
+      "institutional_reconciliation": {
+        "component_sum": 96598,
+        "official_total": 96598,
+        "difference": 0,
+        "matches": true,
+        "policy": "components_must_match_official_total"
+      },
+      "institutional_direction": "inflow",
+      "volume": {
+        "previous_date_roc": "115/11/06",
+        "latest_date_roc": "115/11/09",
+        "previous_date": "20261106",
+        "latest_date": "20261109",
+        "previous_volume": 2989,
+        "latest_volume": 6900,
+        "previous_close": 1055.0,
+        "latest_close": 1150.0,
+        "unit": "lots",
+        "change_pct": 130.8464369354299,
+        "direction": "increase",
+        "source": "TPEx",
+        "notes": [
+          "以上資料不含上櫃股票鉅額交易",
+          "ETF證券代號第六碼為K、C者，表示該ETF以外幣交易，其一交易單位(張)應為100受益權或其整倍數，請詳其公開說明書。"
+        ]
+      },
+      "normalized_date": "20261109",
+      "quadrant": "量增＋法人資金流入"
+    },
+    "3363": {
+      "name": "上詮",
+      "market": "TPEx",
+      "theme": "光通訊",
+      "date": "2026/11/09",
+      "foreign": {
+        "buy": 4147404,
+        "sell": 1660829,
+        "net": 2486575
+      },
+      "trust": {
+        "buy": 0,
+        "sell": 8000,
+        "net": -8000
+      },
+      "dealer": {
+        "buy": 75200,
+        "sell": 86050,
+        "net": -10850
+      },
+      "institutional_net": 2467725,
+      "institutional_reconciliation": {
+        "component_sum": 2467725,
+        "official_total": 2467725,
+        "difference": 0,
+        "matches": true,
+        "policy": "components_must_match_official_total"
+      },
+      "institutional_direction": "inflow",
+      "volume": {
+        "previous_date_roc": "115/11/06",
+        "latest_date_roc": "115/11/09",
+        "previous_date": "20261106",
+        "latest_date": "20261109",
+        "previous_volume": 3105,
+        "latest_volume": 7649,
+        "previous_close": 360.5,
+        "latest_close": 377.5,
+        "unit": "lots",
+        "change_pct": 146.34460547504028,
+        "direction": "increase",
+        "source": "TPEx",
+        "notes": [
+          "以上資料不含上櫃股票鉅額交易",
+          "ETF證券代號第六碼為K、C者，表示該ETF以外幣交易，其一交易單位(張)應為100受益權或其整倍數，請詳其公開說明書。"
+        ]
+      },
+      "normalized_date": "20261109",
+      "quadrant": "量增＋法人資金流入"
+    },
+    "3529": {
+      "name": "力旺",
+      "market": "TPEx",
+      "theme": "矽智財/IP",
+      "date": "2026/11/09",
+      "foreign": {
+        "buy": 399815,
+        "sell": 477132,
+        "net": -77317
+      },
+      "trust": {
+        "buy": 40220,
+        "sell": 0,
+        "net": 40220
+      },
+      "dealer": {
+        "buy": 40844,
+        "sell": 71554,
+        "net": -30710
+      },
+      "institutional_net": -67807,
+      "institutional_reconciliation": {
+        "component_sum": -67807,
+        "official_total": -67807,
+        "difference": 0,
+        "matches": true,
+        "policy": "components_must_match_official_total"
+      },
+      "institutional_direction": "outflow",
+      "volume": {
+        "previous_date_roc": "115/11/06",
+        "latest_date_roc": "115/11/09",
+        "previous_date": "20261106",
+        "latest_date": "20261109",
+        "previous_volume": 1064,
+        "latest_volume": 657,
+        "previous_close": 1885.0,
+        "latest_close": 2015.0,
+        "unit": "lots",
+        "change_pct": -38.25187969924813,
+        "direction": "decrease",
+        "source": "TPEx",
+        "notes": [
+          "以上資料不含上櫃股票鉅額交易",
+          "ETF證券代號第六碼為K、C者，表示該ETF以外幣交易，其一交易單位(張)應為100受益權或其整倍數，請詳其公開說明書。"
+        ]
+      },
+      "normalized_date": "20261109",
+      "quadrant": "量縮＋法人資金流出"
+    },
+    "4966": {
+      "name": "譜瑞-KY",
+      "market": "TPEx",
+      "theme": "高速傳輸IC",
+      "date": "2026/11/09",
+      "foreign": {
+        "buy": 490406,
+        "sell": 412950,
+        "net": 77456
+      },
+      "trust": {
+        "buy": 19000,
+        "sell": 0,
+        "net": 19000
+      },
+      "dealer": {
+        "buy": 5800,
+        "sell": 9114,
+        "net": -3314
+      },
+      "institutional_net": 93142,
+      "institutional_reconciliation": {
+        "component_sum": 93142,
+        "official_total": 93142,
+        "difference": 0,
+        "matches": true,
+        "policy": "components_must_match_official_total"
+      },
+      "institutional_direction": "inflow",
+      "volume": {
+        "previous_date_roc": "115/11/06",
+        "latest_date_roc": "115/11/09",
+        "previous_date": "20261106",
+        "latest_date": "20261109",
+        "previous_volume": 1798,
+        "latest_volume": 826,
+        "previous_close": 385.5,
+        "latest_close": 401.5,
+        "unit": "lots",
+        "change_pct": -54.06006674082313,
+        "direction": "decrease",
+        "source": "TPEx",
+        "notes": [
+          "以上資料不含上櫃股票鉅額交易",
+          "ETF證券代號第六碼為K、C者，表示該ETF以外幣交易，其一交易單位(張)應為100受益權或其整倍數，請詳其公開說明書。"
+        ]
+      },
+      "normalized_date": "20261109",
+      "quadrant": "量縮＋法人資金流入"
+    },
+    "4979": {
+      "name": "華星光",
+      "market": "TPEx",
+      "theme": "光通訊",
+      "date": "2026/11/09",
+      "foreign": {
+        "buy": 686219,
+        "sell": 693005,
+        "net": -6786
+      },
+      "trust": {
+        "buy": 0,
+        "sell": 230000,
+        "net": -230000
+      },
+      "dealer": {
+        "buy": 27801,
+        "sell": 100,
+        "net": 27701
+      },
+      "institutional_net": -209085,
+      "institutional_reconciliation": {
+        "component_sum": -209085,
+        "official_total": -209085,
+        "difference": 0,
+        "matches": true,
+        "policy": "components_must_match_official_total"
+      },
+      "institutional_direction": "outflow",
+      "volume": {
+        "previous_date_roc": "115/11/06",
+        "latest_date_roc": "115/11/09",
+        "previous_date": "20261106",
+        "latest_date": "20261109",
+        "previous_volume": 5008,
+        "latest_volume": 2175,
+        "previous_close": 317.0,
+        "latest_close": 348.5,
+        "unit": "lots",
+        "change_pct": -56.56948881789137,
+        "direction": "decrease",
+        "source": "TPEx",
+        "notes": [
+          "以上資料不含上櫃股票鉅額交易",
+          "ETF證券代號第六碼為K、C者，表示該ETF以外幣交易，其一交易單位(張)應為100受益權或其整倍數，請詳其公開說明書。"
+        ]
+      },
+      "normalized_date": "20261109",
+      "quadrant": "量縮＋法人資金流出"
+    },
+    "5274": {
+      "name": "信驊",
+      "market": "TPEx",
+      "theme": "伺服器管理IC",
+      "date": "2026/11/09",
+      "foreign": {
+        "buy": 560537,
+        "sell": 587371,
+        "net": -26834
+      },
+      "trust": {
+        "buy": 43790,
+        "sell": 69800,
+        "net": -26010
+      },
+      "dealer": {
+        "buy": 27807,
+        "sell": 26263,
+        "net": 1544
+      },
+      "institutional_net": -51300,
+      "institutional_reconciliation": {
+        "component_sum": -51300,
+        "official_total": -51300,
+        "difference": 0,
+        "matches": true,
+        "policy": "components_must_match_official_total"
+      },
+      "institutional_direction": "outflow",
+      "volume": {
+        "previous_date_roc": "115/11/06",
+        "latest_date_roc": "115/11/09",
+        "previous_date": "20261106",
+        "latest_date": "20261109",
+        "previous_volume": 288,
+        "latest_volume": 875,
+        "previous_close": 11375.0,
+        "latest_close": 11700.0,
+        "unit": "lots",
+        "change_pct": 203.81944444444446,
+        "direction": "increase",
+        "source": "TPEx",
+        "notes": [
+          "以上資料不含上櫃股票鉅額交易",
+          "ETF證券代號第六碼為K、C者，表示該ETF以外幣交易，其一交易單位(張)應為100受益權或其整倍數，請詳其公開說明書。"
+        ]
+      },
+      "normalized_date": "20261109",
+      "quadrant": "量增＋法人資金流出"
+    },
+    "6187": {
+      "name": "萬潤",
+      "market": "TPEx",
+      "theme": "半導體設備",
+      "date": "2026/11/09",
+      "foreign": {
+        "buy": 627270,
+        "sell": 647006,
+        "net": -19736
+      },
+      "trust": {
+        "buy": 42000,
+        "sell": 26000,
+        "net": 16000
+      },
+      "dealer": {
+        "buy": 31201,
+        "sell": 68248,
+        "net": -37047
+      },
+      "institutional_net": -40783,
+      "institutional_reconciliation": {
+        "component_sum": -40783,
+        "official_total": -40783,
+        "difference": 0,
+        "matches": true,
+        "policy": "components_must_match_official_total"
+      },
+      "institutional_direction": "outflow",
+      "volume": {
+        "previous_date_roc": "115/11/06",
+        "latest_date_roc": "115/11/09",
+        "previous_date": "20261106",
+        "latest_date": "20261109",
+        "previous_volume": 2748,
+        "latest_volume": 1456,
+        "previous_close": 864.0,
+        "latest_close": 950.0,
+        "unit": "lots",
+        "change_pct": -47.0160116448326,
+        "direction": "decrease",
+        "source": "TPEx",
+        "notes": [
+          "以上資料不含上櫃股票鉅額交易",
+          "ETF證券代號第六碼為K、C者，表示該ETF以外幣交易，其一交易單位(張)應為100受益權或其整倍數，請詳其公開說明書。"
+        ]
+      },
+      "normalized_date": "20261109",
+      "quadrant": "量縮＋法人資金流出"
+    },
+    "6223": {
+      "name": "旺矽",
+      "market": "TPEx",
+      "theme": "半導體測試",
+      "date": "2026/11/09",
+      "foreign": {
+        "buy": 529264,
+        "sell": 738495,
+        "net": -209231
+      },
+      "trust": {
+        "buy": 141249,
+        "sell": 38000,
+        "net": 103249
+      },
+      "dealer": {
+        "buy": 36203,
+        "sell": 37612,
+        "net": -1409
+      },
+      "institutional_net": -107391,
+      "institutional_reconciliation": {
+        "component_sum": -107391,
+        "official_total": -107391,
+        "difference": 0,
+        "matches": true,
+        "policy": "components_must_match_official_total"
+      },
+      "institutional_direction": "outflow",
+      "volume": {
+        "previous_date_roc": "115/11/06",
+        "latest_date_roc": "115/11/09",
+        "previous_date": "20261106",
+        "latest_date": "20261109",
+        "previous_volume": 1316,
+        "latest_volume": 1023,
+        "previous_close": 3445.0,
+        "latest_close": 3705.0,
+        "unit": "lots",
+        "change_pct": -22.264437689969608,
+        "direction": "decrease",
+        "source": "TPEx",
+        "notes": [
+          "以上資料不含上櫃股票鉅額交易",
+          "ETF證券代號第六碼為K、C者，表示該ETF以外幣交易，其一交易單位(張)應為100受益權或其整倍數，請詳其公開說明書。"
+        ]
+      },
+      "normalized_date": "20261109",
+      "quadrant": "量縮＋法人資金流出"
+    },
+    "6274": {
+      "name": "台燿",
+      "market": "TPEx",
+      "theme": "CCL/高速材料",
+      "date": "2026/11/09",
+      "foreign": {
+        "buy": 5522178,
+        "sell": 7813180,
+        "net": -2291002
+      },
+      "trust": {
+        "buy": 280000,
+        "sell": 166000,
+        "net": 114000
+      },
+      "dealer": {
+        "buy": 359992,
+        "sell": 384868,
+        "net": -24876
+      },
+      "institutional_net": -2201878,
+      "institutional_reconciliation": {
+        "component_sum": -2201878,
+        "official_total": -2201878,
+        "difference": 0,
+        "matches": true,
+        "policy": "components_must_match_official_total"
+      },
+      "institutional_direction": "outflow",
+      "volume": {
+        "previous_date_roc": "115/11/06",
+        "latest_date_roc": "115/11/09",
+        "previous_date": "20261106",
+        "latest_date": "20261109",
+        "previous_volume": 10682,
+        "latest_volume": 16475,
+        "previous_close": 906.0,
+        "latest_close": 962.0,
+        "unit": "lots",
+        "change_pct": 54.231417337577234,
+        "direction": "increase",
+        "source": "TPEx",
+        "notes": [
+          "以上資料不含上櫃股票鉅額交易",
+          "ETF證券代號第六碼為K、C者，表示該ETF以外幣交易，其一交易單位(張)應為100受益權或其整倍數，請詳其公開說明書。"
+        ]
+      },
+      "normalized_date": "20261109",
+      "quadrant": "量增＋法人資金流出"
+    },
+    "6488": {
+      "name": "環球晶",
+      "market": "TPEx",
+      "theme": "半導體材料",
+      "date": "2026/11/09",
+      "foreign": {
+        "buy": 1583881,
+        "sell": 2791170,
+        "net": -1207289
+      },
+      "trust": {
+        "buy": 0,
+        "sell": 656000,
+        "net": -656000
+      },
+      "dealer": {
+        "buy": 277887,
+        "sell": 111236,
+        "net": 166651
+      },
+      "institutional_net": -1696638,
+      "institutional_reconciliation": {
+        "component_sum": -1696638,
+        "official_total": -1696638,
+        "difference": 0,
+        "matches": true,
+        "policy": "components_must_match_official_total"
+      },
+      "institutional_direction": "outflow",
+      "volume": {
+        "previous_date_roc": "115/11/06",
+        "latest_date_roc": "115/11/09",
+        "previous_date": "20261106",
+        "latest_date": "20261109",
+        "previous_volume": 14377,
+        "latest_volume": 6431,
+        "previous_close": 512.0,
+        "latest_close": 563.0,
+        "unit": "lots",
+        "change_pct": -55.26883216248174,
+        "direction": "decrease",
+        "source": "TPEx",
+        "notes": [
+          "以上資料不含上櫃股票鉅額交易",
+          "ETF證券代號第六碼為K、C者，表示該ETF以外幣交易，其一交易單位(張)應為100受益權或其整倍數，請詳其公開說明書。"
+        ]
+      },
+      "normalized_date": "20261109",
+      "quadrant": "量縮＋法人資金流出"
+    },
+    "6510": {
+      "name": "精測",
+      "market": "TPEx",
+      "theme": "半導體測試",
+      "date": "2026/11/09",
+      "foreign": {
+        "buy": 200275,
+        "sell": 145002,
+        "net": 55273
+      },
+      "trust": {
+        "buy": 1000,
+        "sell": 45000,
+        "net": -44000
+      },
+      "dealer": {
+        "buy": 16488,
+        "sell": 30502,
+        "net": -14014
+      },
+      "institutional_net": -2741,
+      "institutional_reconciliation": {
+        "component_sum": -2741,
+        "official_total": -2741,
+        "difference": 0,
+        "matches": true,
+        "policy": "components_must_match_official_total"
+      },
+      "institutional_direction": "outflow",
+      "volume": {
+        "previous_date_roc": "115/11/06",
+        "latest_date_roc": "115/11/09",
+        "previous_date": "20261106",
+        "latest_date": "20261109",
+        "previous_volume": 440,
+        "latest_volume": 479,
+        "previous_close": 2305.0,
+        "latest_close": 2535.0,
+        "unit": "lots",
+        "change_pct": 8.863636363636363,
+        "direction": "increase",
+        "source": "TPEx",
+        "notes": [
+          "以上資料不含上櫃股票鉅額交易",
+          "ETF證券代號第六碼為K、C者，表示該ETF以外幣交易，其一交易單位(張)應為100受益權或其整倍數，請詳其公開說明書。"
+        ]
+      },
+      "normalized_date": "20261109",
+      "quadrant": "量增＋法人資金流出"
+    },
+    "8299": {
+      "name": "群聯",
+      "market": "TPEx",
+      "theme": "儲存控制IC",
+      "date": "2026/11/09",
+      "foreign": {
+        "buy": 383000,
+        "sell": 638975,
+        "net": -255975
+      },
+      "trust": {
+        "buy": 0,
+        "sell": 0,
+        "net": 0
+      },
+      "dealer": {
+        "buy": 56238,
+        "sell": 8612,
+        "net": 47626
+      },
+      "institutional_net": -208349,
+      "institutional_reconciliation": {
+        "component_sum": -208349,
+        "official_total": -208349,
+        "difference": 0,
+        "matches": true,
+        "policy": "components_must_match_official_total"
+      },
+      "institutional_direction": "outflow",
+      "volume": {
+        "previous_date_roc": "115/11/06",
+        "latest_date_roc": "115/11/09",
+        "previous_date": "20261106",
+        "latest_date": "20261109",
+        "previous_volume": 6182,
+        "latest_volume": 1167,
+        "previous_close": 1500.0,
+        "latest_close": 1650.0,
+        "unit": "lots",
+        "change_pct": -81.12261404076351,
+        "direction": "decrease",
+        "source": "TPEx",
+        "notes": [
+          "以上資料不含上櫃股票鉅額交易",
+          "ETF證券代號第六碼為K、C者，表示該ETF以外幣交易，其一交易單位(張)應為100受益權或其整倍數，請詳其公開說明書。"
+        ]
+      },
+      "normalized_date": "20261109",
+      "quadrant": "量縮＋法人資金流出"
+    }
+  },
+  "holdings_supplement": {
+    "status": "HEALTHY",
+    "target_date": "20261109",
+    "stocks": {
+      "8039": {
+        "name": "台虹",
+        "market": "TWSE",
+        "theme": "電子材料",
+        "date": "20261109",
+        "foreign": {
+          "buy": 2962482,
+          "sell": 2858000,
+          "net": 104482
+        },
+        "trust": {
+          "buy": 0,
+          "sell": 0,
+          "net": 0
+        },
+        "dealer": {
+          "net": 35204
+        },
+        "institutional_net": 139686,
+        "institutional_reconciliation": {
+          "component_sum": 139686,
+          "official_total": 139686,
+          "difference": 0,
+          "matches": true,
+          "policy": "components_must_match_official_total"
+        },
+        "institutional_direction": "inflow",
+        "volume": {
+          "previous_date_roc": "115/11/06",
+          "latest_date_roc": "115/11/09",
+          "previous_date": "20261106",
+          "latest_date": "20261109",
+          "previous_volume": 11643727,
+          "latest_volume": 7854574,
+          "previous_close": 189.5,
+          "latest_close": 208.0,
+          "unit": "shares",
+          "change_pct": -32.54244109295933,
+          "direction": "decrease",
+          "source": "TWSE"
+        },
+        "normalized_date": "20261109",
+        "quadrant": "量縮＋法人資金流入"
+      },
+      "1595": {
+        "name": "川寶",
+        "market": "TPEx",
+        "theme": "電子零組件",
+        "date": "2026/11/09",
+        "foreign": {
+          "buy": 150786,
+          "sell": 197000,
+          "net": -46214
+        },
+        "trust": {
+          "buy": 0,
+          "sell": 0,
+          "net": 0
+        },
+        "dealer": {
+          "buy": 21760,
+          "sell": 1337,
+          "net": 20423
+        },
+        "institutional_net": -25791,
+        "institutional_reconciliation": {
+          "component_sum": -25791,
+          "official_total": -25791,
+          "difference": 0,
+          "matches": true,
+          "policy": "components_must_match_official_total"
+        },
+        "institutional_direction": "outflow",
+        "volume": {
+          "previous_date_roc": "115/11/06",
+          "latest_date_roc": "115/11/09",
+          "previous_date": "20261106",
+          "latest_date": "20261109",
+          "previous_volume": 750,
+          "latest_volume": 450,
+          "previous_close": 59.3,
+          "latest_close": 63.8,
+          "unit": "lots",
+          "change_pct": -40.0,
+          "direction": "decrease",
+          "source": "TPEx",
+          "notes": [
+            "以上資料不含上櫃股票鉅額交易",
+            "ETF證券代號第六碼為K、C者，表示該ETF以外幣交易，其一交易單位(張)應為100受益權或其整倍數，請詳其公開說明書。"
+          ]
+        },
+        "normalized_date": "20261109",
+        "quadrant": "量縮＋法人資金流出"
+      }
+    },
+    "errors": []
+  }
+}
